@@ -564,7 +564,7 @@ export default function SharpBidSite() {
             {!leadSubmitted ? (
               <div style={{ display: "flex", gap: 10, maxWidth: 460, margin: "0 auto", flexWrap: "wrap", justifyContent: "center" }}>
                 <input type="email" value={leadEmail} onChange={e => setLeadEmail(e.target.value)} placeholder={t.lead.placeholder} style={{ flex: 1, minWidth: 220, border: "none", borderRadius: 5, padding: "13px 16px" }} />
-                <button className="be-btn" onClick={() => { if (leadEmail) setLeadSubmitted(true); }} style={{ background: colors.navy, color: "white", padding: "13px 22px" }}>{t.lead.cta} →</button>
+                <button className="be-btn" onClick={async () => { if (leadEmail) { try { await fetch("https://formspree.io/f/mreoylbw", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email: leadEmail, _subject: "New Guide Download — SharpBid" }) }); setLeadSubmitted(true); } catch (err) { alert("Something went wrong. Please try again."); } } }} style={{ background: colors.navy, color: "white", padding: "13px 22px" }}>{t.lead.cta} →</button>
               </div>
             ) : (
               <div style={{ background: "rgba(255,255,255,0.18)", borderRadius: 6, padding: 14, color: "white", fontWeight: 600 }}>✓ {t.lead.ty}</div>
@@ -606,7 +606,7 @@ export default function SharpBidSite() {
                 <div><label style={{ fontSize: 12, fontWeight: 600, color: colors.gray700, display: "block", marginBottom: 5 }}>{t.contact.fields.timeline}</label><input value={formData.timeline} onChange={e => setFormData({ ...formData, timeline: e.target.value })} /></div>
               </div>
               <div style={{ marginTop: 14 }}><label style={{ fontSize: 12, fontWeight: 600, color: colors.gray700, display: "block", marginBottom: 5 }}>{t.contact.fields.details}</label><textarea value={formData.details} onChange={e => setFormData({ ...formData, details: e.target.value })} /></div>
-              <button className="be-btn be-primary" onClick={() => { if (formData.name && formData.email && formData.type && formData.province) setFormSubmitted(true); }} style={{ width: "100%", justifyContent: "center", marginTop: 20, padding: 15, fontSize: 15 }}>{t.contact.fields.submit} →</button>
+              <button className="be-btn be-primary" onClick={async () => { if (formData.name && formData.email && formData.type && formData.province) { try { await fetch("https://formspree.io/f/mpqoylwk", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ name: formData.name, email: formData.email, company: formData.company, phone: formData.phone, province: formData.province, projectType: formData.type, budget: formData.budget, timeline: formData.timeline, details: formData.details, _subject: "New SharpBid Lead: " + formData.type + " — " + formData.name }) }); setFormSubmitted(true); } catch (err) { alert("Something went wrong. Please email info@sharpbid.ca directly or call (604) 245-4344."); } } }} style={{ width: "100%", justifyContent: "center", marginTop: 20, padding: 15, fontSize: 15 }}>{t.contact.fields.submit} →</button>
               <p style={{ textAlign: "center", marginTop: 14, fontSize: 12, color: colors.gray500 }}>{t.contact.promise}</p>
             </div></FadeIn>
           ) : (
