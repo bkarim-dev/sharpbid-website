@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="SharpBid">
+  <rect width="512" height="512" fill="#FFD84D"/>
+  <text x="256" y="256" font-family="Arial, Helvetica, Liberation Sans, sans-serif" font-weight="700"
+        font-size="330" fill="#16232B" text-anchor="middle" dominant-baseline="central"
+        transform="translate(256 256) scale(0.88 1) translate(-256 -256)"
+        letter-spacing="-14">SB</text>
+</svg>
