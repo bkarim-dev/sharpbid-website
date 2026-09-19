@@ -8,8 +8,8 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const SITE = "https://sharpbid.ca";
 
-/* trade pages first, then the pricing-bearing pages; missing files are skipped
-   so this stays correct while pages are still being published. */
+/* every substantive page, trade pages first; missing files are skipped so this
+   stays correct while pages are still being published. */
 const PAGES = [
   "drywall-steel-stud-takeoffs",
   "acoustic-ceiling-takeoffs",
@@ -22,6 +22,15 @@ const PAGES = [
   "framing-takeoffs",
   "pricing",
   "bid-leveling",
+  "takeoff-services-british-columbia",
+  "takeoff-services-alberta",
+  "takeoff-services-ontario",
+  "about",
+  "bid-traps",
+  "guides/construction-takeoff-cost-canada",
+  "guides/drywall-takeoff-checklist",
+  "guides/flooring-takeoff-checklist",
+  "guides/outsourcing-takeoffs-vs-in-house-estimator",
 ];
 
 const ENTS = { amp: "&", lt: "<", gt: ">", quot: '"', "#39": "'", nbsp: " ", hellip: "…", mdash: "—", ndash: "–", times: "×", deg: "°", sup2: "²", sup3: "³" };

@@ -2123,3 +2123,1568 @@ Framing takeoffs in Ontario
 
 …and anywhere else in Canada — everything is digital.
 
+========================================================================
+SOURCE: https://sharpbid.ca/pricing
+TITLE: Construction Takeoff Pricing — From $450 | SharpBid
+========================================================================
+
+SCHEDULE OF SERVICES · CAD
+
+# Construction takeoff pricing
+
+Quantity takeoffs start at $450 and the whole schedule is published below — no discovery call required to find out what something costs. Every job gets a written fixed price within 4 business hours of receiving drawings, and that number does not move afterwards. On time or 50% off.
+
+From $450$450 minimum engagementFixed quote in 4 business hoursOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Sample takeoff (.xlsx)
+
+SHEET 01Schedule of servicesScale: fixed
+
+## What a takeoff actually costs
+
+These are starting prices for one-off takeoffs. The fixed quote for your job may be higher depending on the set — what moves it is explained further down — but it will never be lower than the figure here, and it will never change after you accept it.
+
+Schedule of services — one-off takeoffs (CAD)
+
+|
+| Item | Scope | From
+
+| 1.0 | Single-trade finish takeoff Flooring · painting · drywall & steel stud | $450
+
+| 2.0 | Acoustic ceiling (ACT) takeoff Ceiling areas by type, grid, perimeter trim, bulkheads | $450
+
+| 3.0 | Concrete & formwork — low-rise / small site Volumes, contact area, finishing, joints | $500
+
+| 4.0 | Misc metals / Div 05 takeoff Rails, stairs, lintels, embeds by detail | $600
+
+| 5.0 | Roofing & building envelope takeoff Roof assemblies, cladding, insulation, air/vapour barrier | $600
+
+| 6.0 | Glazing takeoff — Div 08 Curtain wall, storefront, windows by type, glass makeups | $900
+
+| 7.0 | Framing takeoff — wall & sheathing areas Wall SF and LF by wall type per floor, sheathing, openings | $600
+
+| 7.1 | Framing takeoff — full lumber breakdown Piece counts, board footage, plates, studs, headers, hardware — quoted per project | $1,500
+
+| 8.0 | Bid leveling / scope-gap analysis Sub-bid comparison matrix with exclusions caught | $600
+
+| 9.0 | Change-order & claim quantity checks Independent verification of disputed quantities | $150/hr · 3-hr min
+
+| A | Add-ons Price placeholders +15% · quote template +$150 · rush (same-day) +50% | —
+
+$450 minimum engagement. Below that, an offshore takeoff mill will be cheaper — and you'll get what you pay for. SharpBid takes work where senior counting changes your number.
+
+SHEET 02The fixed quote
+
+## How the fixed quote works
+
+There is no hourly meter and no revised invoice at the end. You send drawings, we read the set, and a written price and a delivery date come back within 4 business hours. If you accept it, that's what you pay.
+
+STEP 1
+
+### Send drawings, get a number in 4 business hours
+
+A link is enough — Dropbox, Drive, WeTransfer, a GC plan room login. Tell us the trade, the units you bid in and your bid deadline. Within 4 business hours you get a fixed price and a guaranteed delivery date, in writing. No meeting, no discovery call, no sales process.
+
+STEP 2
+
+### The price is fixed, not an estimate
+
+The quote is reached by reading your actual set, not by applying a rate to a sheet count sight unseen. That's why it can be fixed. If the drawings turn out to be worse than they looked, that's our problem, not a change order on your invoice.
+
+STEP 3
+
+### On time or 50% off
+
+Every quote carries a delivery date. If the takeoff arrives after it, you pay half. No fine print and no "business exceptions". The one thing that moves the date is an addendum that changes scope — and that reset is confirmed in writing before any work continues.
+
+INCLUDED
+
+### One revision round and bid-period addenda
+
+Included in the fixed price, not billed as extras. Addenda issued during the bid period get handled as part of the service, because a takeoff that stops being accurate the day after it's delivered isn't worth much.
+
+SHEET 03What moves the price
+
+## What affects the price of a takeoff
+
+Four things, in roughly this order of impact. None of them is a surprise once you know to look for them, and all of them are visible in your set before you send it.
+
+- Sheet count and drawing qualityA tight, well-tagged 40-sheet set measures faster than a sprawling 300-sheet one. Vector PDFs measure fastest; scanned sets are fine but slower, and a set with no scale bar and no dimensions costs more to calibrate.
+
+- Number of trades and scopesOne trade on one building is the base case. Several trades, or several buildings in one package, scale from there — though bundling trades on the same set is cheaper than quoting them separately.
+
+- Complexity, not just sizeForty partition types over 20,000 SF is more work than six types over 100,000 SF. What drives effort is the number of distinct assemblies, finish codes or details in the legend — and how much of the building genuinely repeats.
+
+- RushSame-day turnaround is +50%. Standard next-business-day delivery on single-trade sets costs nothing extra, so plan a day ahead and the rush charge never applies.
+
+A longer treatment of pricing models across the industry — per sheet, per square foot, hourly and fixed — is in the guide on what a construction takeoff costs in Canada.
+
+SHEET 04RetainersMonth-to-month
+
+## Monthly retainers for steady bid volume
+
+ON TIME OR 50% OFF
+
+### Starter
+
+$1,500
+
+per month
+
+- 2 takeoffs per month included
+
+- Priority queue over one-off work
+
+- 1 hr bid-strategy consult
+
+- Addenda handled through bid period
+
+Start with Starter
+
+Most subs pick this
+
+### Growth
+
+$2,500
+
+per month
+
+- 4 takeoffs per month included
+
+- Bid leveling included
+
+- Next-business-day priority turnaround
+
+- 2 hrs bid-strategy consult
+
+Start with Growth
+
+### Partner
+
+$3,500
+
+per month
+
+- 6 takeoffs per month included
+
+- Quantity QC on your in-house numbers
+
+- Value-engineering quantity comparisons
+
+- First-in-queue on everything
+
+Start with Partner
+
+Overflow beyond included takeoffs: $120/hr · month-to-month, cancel anytime · unused takeoffs roll one month.
+
+SHEET 05Cost questions
+
+## Takeoff cost FAQs
+
+**Q: How much does a construction takeoff cost in Canada?**
+
+At SharpBid, from $450 for a single-trade finish takeoff or acoustic ceilings, $500 for low-rise concrete and formwork, $600 for misc metals, roofing and envelope, or framing wall areas, and $900 for glazing. A full lumber breakdown starts at $1,500 and is quoted per project. Across the wider market, pricing models vary — per sheet, per square foot, hourly, or fixed — and published prices are rare, which is part of why the whole schedule is on this page.
+
+**Q: Why is the $450 minimum there?**
+
+Because below it, senior review can't add enough value to be worth your money. A very small scope on a simple set is genuinely better served by a cheap takeoff mill, and we'd rather say so than take $200 and do a rushed job. SharpBid exists for the bids where getting quantities right changes whether you win and what you make on it.
+
+**Q: Is the quote really fixed?**
+
+Yes. The price comes from reading your actual set, which is what makes it possible to fix it. If the drawings turn out to be worse than they looked, that's absorbed on our side. The only thing that changes a quote is a change in scope from you — a new trade, a new building, or an addendum that materially changes the work — and that's agreed in writing before anything proceeds.
+
+**Q: Do you charge per sheet or per square foot?**
+
+Neither. Both are proxies for effort rather than measures of it: a 300-sheet set with six partition types can be less work than a 40-sheet set with forty. We read the set and quote the job. The starting prices in the schedule above are the floor, and complexity moves the number from there.
+
+**Q: What do the add-ons cost?**
+
+Price placeholders are +15% and make the workbook bid-ready on arrival. A quote template is +$150 and gets your number to the GC in a clean format. Same-day rush is +50%. That's the complete list — there are no file fees, no setup fees and no charge for the marked-up plans or the assumptions page, which are part of every takeoff.
+
+**Q: When should I take a retainer instead of paying per job?**
+
+Roughly when you're sending two or more takeoffs a month, since Starter at $1,500 includes two plus priority queue and a bid-strategy hour. The bigger reason is peak bid periods: retainer work jumps the queue, which in a busy week is the difference between getting three bids out and getting two. Month-to-month, cancel anytime, and unused takeoffs roll one month.
+
+**Q: How do you compare to hiring an in-house estimator?**
+
+Different shapes of cost rather than one being universally cheaper. A salaried estimator is a fixed cost you carry through slow months; takeoffs bought per job or on a retainer scale with your bid volume. The honest version of that trade-off, including where hiring genuinely wins, is in the guide on outsourcing takeoffs versus an in-house estimator.
+
+**Q: Is there a charge for out-of-province work?**
+
+No. Everything is digital and nobody travels, so the schedule above applies identically in British Columbia, Alberta, Ontario and anywhere else in Canada.
+
+**Q: Do you price the work as well as count it?**
+
+Not by default — you know your unit rates, your crews and your suppliers better than anyone, and that's the point of the service. If you want the workbook arriving bid-ready, price placeholders are the +15% add-on.
+
+NEXTStart here
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+
+Get a fixed quote
+Try the instant scope check
+About SharpBid
+
+### Priced by trade
+
+Drywall & steel stud
+Acoustic ceilings
+Flooring
+Painting
+Glazing
+Roofing & envelope
+Misc metals
+Concrete & formwork
+Framing
+
+========================================================================
+SOURCE: https://sharpbid.ca/bid-leveling
+TITLE: Bid Leveling & Scope-Gap Analysis | SharpBid
+========================================================================
+
+SCOPE-GAP ANALYSIS · CHANGE-ORDER CHECKS
+
+# Bid leveling & scope-gap analysis
+
+Three quotes for the same package are almost never for the same scope. Bid leveling puts them on one common basis so the cheapest number is actually the cheapest job — inclusions, exclusions, qualifications and quantity assumptions compared line by line. From $600, with independent change-order and claim quantity checks at $150/hr, three-hour minimum.
+
+Leveling from $600Quantity checks $150/hr · 3-hr minFixed quote in 4 business hoursOn time or 50% off ✓
+
+Send the quotes — fixed price in 4 hrs
+Full pricing
+
+WHOWho this is for
+
+## Who bid leveling is for
+
+Two situations, same discipline. In both, the problem isn't arithmetic — it's that the quotes on your desk are describing different amounts of work in the same units.
+
+SUBCONTRACTORS
+
+### Levelling your own supplier and sub-sub quotes
+
+You've got three material quotes and two installation quotes for one package, and each one carries its own set of exclusions. Levelling them tells you which number is genuinely lowest once the gaps are filled — and which supplier just handed you a cheap price by leaving something out that you'll carry anyway.
+
+GENERAL CONTRACTORS
+
+### Levelling sub bids before you award
+
+The spread between three sub bids is usually scope, not price. Levelling turns the spread into a list of specific differences — what each bidder included, excluded and qualified — so the award conversation is about the same building rather than three interpretations of it.
+
+MATRIXWhat the deliverable shows
+
+## What the leveling matrix shows
+
+You get one Excel workbook with the bidders as columns and the scope as rows, so any line can be read across. Nothing is summarized away — if a bidder is silent on something, the cell says so, because silence is the finding.
+
+ROWS
+
+### Scope broken into comparable line items
+
+The package is decomposed into the items a bid can actually differ on — materials, assemblies, accessories, preparation, access, and the interfaces with adjacent trades. Rows come from the drawings and the specification, not from any one bidder's proposal, so nobody's format sets the agenda.
+
+COLUMNS
+
+### One column per bidder, read across
+
+Each bidder's position on each row: included, excluded, qualified, or not mentioned. "Not mentioned" is its own state and it's the one that costs money, because it's the item everyone assumes somebody else has.
+
+GAPS
+
+### A gap list, with the source named
+
+Every item nobody priced, every item priced by more than one bidder, and every place a bidder's qualification quietly shifts risk to you — each with the drawing sheet or spec section it comes from, so it can be resolved in a phone call instead of a dispute.
+
+QUANTITIES
+
+### Quantity assumptions compared, not just prices
+
+Where bidders state quantities, they're compared against each other and against the drawings. Two bidders pricing the same unit rate against quantities that differ by fifteen percent is a finding, and it's invisible if you only read the bottom line.
+
+ADJUSTED
+
+### An adjusted comparison, with the maths visible
+
+Each bidder gets an adjusted total that adds the value of what they left out, using your own numbers or a stated allowance. Every adjustment is a visible line you can argue with — the point is a defensible comparison, not a verdict handed down.
+
+SUMMARY
+
+### A one-page summary you can take to a meeting
+
+The ranking, the material differences behind it, and the open questions worth an RFI before award. Short enough to be read in a scope meeting, with the full matrix behind it when someone disagrees.
+
+CHECKSChange orders & claims$150/hr · 3-hr min
+
+## Change-order & claim quantity checks
+
+An independent remeasure of disputed quantities, charged hourly at $150 with a three-hour minimum. It's the same measurement discipline as a takeoff, pointed at a number somebody is already arguing about.
+
+- Independent remeasure of the disputed scopeMeasured from the drawings and the change documents, without reference to either side's figure until ours is finished.
+
+- Before-and-after comparisonOriginal scope quantities against revised scope quantities, so the delta is a measured difference rather than an assertion.
+
+- Basis of measurement stated in writingIncluding the deduction rules used, which is usually where two honest parties end up with different numbers.
+
+- A written summary you can attachShort, factual and traceable to sheets and details, suitable for attaching to a claim or a change-order response.
+
+- Hourly, with the hours reported$150/hr, three-hour minimum, and you're told what the hours went on.
+
+This is a quantity opinion, not a legal or contractual one. It says what the drawings measure to — not who is entitled to what under the contract.
+
+FAQBid leveling questions
+
+## Bid leveling FAQs
+
+**Q: How much does bid leveling cost?**
+
+From $600. What moves the fixed price is the number of bidders, the size of the package and whether the drawings need to be measured as part of the exercise. Change-order and claim quantity checks are $150/hr with a three-hour minimum. A written fixed quote comes back within 4 business hours. Full schedule on the takeoff pricing page.
+
+**Q: What do you need from me?**
+
+The bids or quotes themselves, the drawings and specification the package was bid from, and any addenda that were issued. If you have your own scope checklist or bid form, send that too and the matrix gets built around it. Without the drawings we can compare what bidders said to each other, but not to what the job actually requires — which is where most of the value is.
+
+**Q: Do you recommend a winner?**
+
+We give you a ranked, adjusted comparison with every adjustment shown as a line you can argue with, plus the open questions worth an RFI before award. The decision stays yours — commercial factors, past performance and schedule risk sit outside a quantity document, and pretending otherwise would make the analysis less useful, not more.
+
+**Q: How fast is it?**
+
+Every leveling job gets a firm delivery date with the fixed quote, sized to the number of bidders and the package. Same-day rush is +50%. As with everything else here: if it lands after the date on the quote, you pay half.
+
+**Q: Can you level a package you also did the takeoff for?**
+
+Yes, and it's cheaper that way, since the quantities are already measured and the scope is already broken down. It's a common pairing on a retainer — the takeoff goes out at bid time, the leveling comes back when the quotes land.
+
+**Q: Is bid leveling included in a retainer?**
+
+It's included in the Growth retainer at $2,500 a month. Starter and Partner clients can add it at the schedule price. Retainers run month-to-month and unused takeoffs roll one month — details on the pricing page.
+
+**Q: Will you sign a confidentiality agreement?**
+
+Yes. Bidders' numbers and client drawings are never shared, which is the standing practice rather than something that needs asking for. If your own agreement needs signing, send it over.
+
+NEXTStart here
+
+## Send the quotes. Fixed price in 4 hours.
+
+Send the bids, the drawings and any addenda through the quote form or to info@sharpbid.ca. A fixed price and a delivery date come back within 4 business hours.
+
+Get a fixed quote
+See all pricing
+Read the bid traps
+
+### Related
+
+Bid traps — scope gaps by trade
+Estimating guides
+About SharpBid
+
+========================================================================
+SOURCE: https://sharpbid.ca/takeoff-services-british-columbia
+TITLE: Construction Takeoff Services in BC & Vancouver | SharpBid
+========================================================================
+
+BRITISH COLUMBIA · HOME TURF
+
+# Construction takeoff services in British Columbia
+
+SharpBid is based in Metro Vancouver and takes off work for BC subcontractors from Vancouver to Kelowna. Fifteen years of senior estimating on BC multifamily, mixed-use and commercial projects — wood-frame and concrete — means Step Code envelopes, six-storey wood-frame and coastal rainscreen assemblies are the normal case here, not a research exercise. From $450, next business day on single-trade sets, on time or 50% off.
+
+From $450Next business dayFixed quote in 4 business hoursOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+Sample takeoff (.xlsx)
+
+WORKFLOWHow it works from anywhere in BC
+
+## Drawings link in. Workbook comes back.
+
+Nothing about this needs you to be local, and nothing needs a meeting. You send a drawings link — Dropbox, Drive, WeTransfer, a GC plan room login, whatever you already use. A fixed price and a guaranteed delivery date come back within 4 business hours. We measure in On-Screen Takeoff and Bluebeam Revu, and the Excel workbook plus colour-coded marked-up plans land by the date on the quote. If they're late, you pay half.
+
+Being in BC does change one thing, and it isn't proximity: it's what shows up on the drawings. A Metro Vancouver wall assembly usually has more layers than the same wall in a drier climate, and a six-storey wood-frame residential building carries a repetition pattern that rewards being measured properly once. Both of those are takeoff problems before they're construction problems.
+
+CONTEXTBuilding types & code
+
+## Building types we see most in BC
+
+BC work concentrates in a few recognizable set types, and each one changes how a takeoff has to be organized.
+
+SIX-STOREY WOOD-FRAME
+
+### The Metro Vancouver workhorse
+
+Six-storey wood-frame residential is common across Metro Vancouver, and it is the set type where typical-floor repetition matters most. Measure a typical floor properly once, extend it visibly across the levels it applies to, and measure the levels that differ — the ground floor, the amenity level and any transfer level — on their own. That discipline is the difference between a fast takeoff and a wrong one.
+
+MASS TIMBER
+
+### Encapsulated mass timber up to 12 storeys
+
+Encapsulated mass timber construction is permitted in BC up to 12 storeys, and the encapsulation requirement lands squarely on the interior trades. Layers of board over structure, the ratings attached to them, and the junctions where encapsulation meets a partition or a ceiling all become quantities someone has to separate out.
+
+STEP CODE
+
+### The BC Energy Step Code adds layers to count
+
+Higher performance envelopes mean more components in the same wall — continuous exterior insulation, air barrier continuity, and detailing that reduces thermal bridging. For an envelope takeoff that is not a philosophical change, it is more layers over the same square footage, each with a different supplier and a different install rate. It's why our envelope takeoffs count every layer as its own line rather than pricing one wall area.
+
+RAINSCREEN
+
+### Rainscreen is the default on the coast
+
+Rainscreen wall assemblies are standard on the coast, and the cavity is real material: strapping or girts, clips, closures, vents and insect screen. None of it appears in a square-foot cladding number, and on a full elevation it's a meaningful share of the package. We take spacing off the details rather than a rule of thumb.
+
+CONCRETE
+
+### Concrete towers and mixed-use podiums
+
+Concrete mid-rise and high-rise residential brings typical-floor repetition, shaftwall at cores and risers, and head-of-wall deflection against a slab that will move. Mixed-use podium sets carry two different partition and finish schedules in one drawing set, with a transfer level between them.
+
+CODE
+
+### BC Building Code, and Vancouver's own by-law
+
+Most of the province works to the BC Building Code. The City of Vancouver has its own Building By-law, so a project inside the city and a project one municipality over can carry different requirements on an otherwise identical building. Where that changes an assembly we're measuring, it goes on the assumptions page rather than being smoothed over.
+
+CITIESWhere BC clients are
+
+## Cities we work with
+
+Metro Vancouver is home base — Vancouver itself plus the surrounding municipalities where most of the province's multifamily and mixed-use volume sits. The Fraser Valley brings wood-frame residential and light industrial at a different pace and a different cost structure. Victoria and Vancouver Island work carries the same coastal envelope detailing with its own institutional and mid-rise mix. Kelowna and the Okanagan run a drier climate and a strong wood-frame residential pipeline. All of it is handled the same way — digitally, from Vancouver, to your deadline.
+
+There are no separate city offices and no city-by-city pricing. The schedule on the takeoff pricing page is the schedule everywhere in BC.
+
+TRADESAll nine, in a BC context
+
+## Trades we take off for BC subs
+
+- Drywall & steel stud takeoffsShaftwall at concrete cores, head-of-wall deflection, and the board layers that encapsulated mass timber brings with it.
+
+- Acoustic ceiling (ACT) takeoffsCorridor and amenity ceilings on repetitive residential floor plates, with the bulkhead interface named on both sides.
+
+- Flooring takeoffsSuites, corridors and amenity separated, with acoustic underlay by assembly and slab-on-grade moisture mitigation quantified.
+
+- Painting takeoffsTypical-floor repetition, parkade coatings priced apart, and exterior elevations split so access is honest.
+
+- Glazing takeoffsWindow wall and punched openings by type mark, with the membrane tie-in at every rough opening flagged.
+
+- Roofing & envelope takeoffsThe BC scope: rainscreen cavity components counted, Step Code layers separated, balcony waterproofing measured properly.
+
+- Misc metals takeoffsBalcony guards and exterior stairs on wood-frame, embeds coordinated to the pour on concrete.
+
+- Concrete & formwork takeoffsWood-frame foundations, parkade slabs and site concrete — low-rise and small-site scopes only.
+
+- Framing takeoffsSix-storey wood-frame wall and sheathing areas by floor, with shear wall hardware quantified at the full-breakdown tier.
+
+FAQBC questions
+
+## BC takeoff FAQs
+
+**Q: Do you work outside Metro Vancouver?**
+
+Yes — the Fraser Valley, Victoria and Vancouver Island, Kelowna and the Okanagan, and anywhere else in BC. Everything is digital, so distance changes nothing about the price or the turnaround. Metro Vancouver is simply where the fifteen years of estimating experience was accumulated, which is why BC assemblies and bid culture don't need explaining.
+
+**Q: What time zone do you work in?**
+
+Pacific — the same one you're in. A drawings link sent in the morning gets a fixed quote back the same working day, and delivery dates are set against your bid deadline, not ours.
+
+**Q: Are quantities metric or imperial?**
+
+Whichever you bid in. Commercial and institutional sets in Canada are commonly metric while residential work is often imperial, and plenty of BC subs carry both. Tell us which you price with and the workbook arrives in those units, or with both columns if your suppliers and your crews don't agree.
+
+**Q: Do you understand BC Energy Step Code envelope assemblies?**
+
+For takeoff purposes, yes — and the practical consequence is layers. Higher performance walls carry continuous exterior insulation, air barrier continuity and thermal bridging detail, which means more components over the same square footage. We count each layer against a named assembly rather than pricing one wall area. What we don't do is building science: thermal modelling and energy compliance are engineering scopes, not takeoffs.
+
+**Q: Do you work on CCDC contracts?**
+
+Yes — CCDC contract forms are standard across Canadian construction and they're familiar territory. That said, a takeoff is a quantity document, not a contractual one. The assumptions and exclusions page is written so it can be attached to a bid and defended in a scope meeting.
+
+**Q: How do I send drawings from a plan room?**
+
+Either download the set and send a link, or send us the plan room invitation directly — Dropbox, Google Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid and GC-hosted plan rooms all work. If the set is only available as a login, give us access and we'll pull it ourselves. Confidentiality is standard: client drawings are never shared, which is also how yours are treated.
+
+**Q: What does it cost?**
+
+Single-trade finish takeoffs and acoustic ceilings start at $450; concrete and formwork at $500; misc metals, roofing and envelope, and framing wall areas at $600; glazing at $900. Minimum engagement is $450 and retainers start at $1,500 a month. There is no BC surcharge and no travel cost, because there is no travel. Full schedule on the takeoff pricing page.
+
+NEXTStart here
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+
+Get a fixed quote
+See all takeoff pricing
+About SharpBid
+
+### Other provinces
+
+Takeoff services in Alberta
+Takeoff services in Ontario
+
+…and anywhere else in Canada — everything is digital.
+
+========================================================================
+SOURCE: https://sharpbid.ca/takeoff-services-alberta
+TITLE: Construction Takeoff Services in Alberta | SharpBid
+========================================================================
+
+ALBERTA · CALGARY & EDMONTON
+
+# Construction takeoff services in Alberta
+
+SharpBid measures quantities for Alberta subcontractors from Vancouver — all digital, all delivered to your bid deadline. Alberta runs a strong wood-frame multifamily pipeline in Calgary and Edmonton, and that is exactly the repetitive, type-mark-driven work a senior takeoff is worth paying for. From $450, next business day on single-trade sets, on time or 50% off.
+
+From $450Next business dayFixed quote in 4 business hoursOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+Sample takeoff (.xlsx)
+
+WORKFLOWHow it works from Alberta
+
+## Drawings link in. Workbook comes back.
+
+You send a drawings link — Dropbox, Drive, WeTransfer, a GC plan room login, whatever you already use. A fixed price and a guaranteed delivery date come back within 4 business hours. We measure in On-Screen Takeoff and Bluebeam Revu, and the Excel workbook plus colour-coded marked-up plans arrive by the date on the quote. Late means you pay half.
+
+Working from Pacific time is an advantage rather than a problem on an Alberta bid. An hour behind Mountain time means a set sent at the end of your day is being measured while it's still working hours here, and a next-morning delivery lands before your day starts.
+
+CONTEXTBuilding types & code
+
+## Building types we see most in Alberta
+
+Alberta work concentrates in wood-frame multifamily with a solid commercial and institutional layer around it, and each set type changes how a takeoff should be organized.
+
+CODE
+
+### National Building Code — Alberta Edition
+
+Alberta builds to the National Building Code – Alberta Edition. It's the reference point behind the rated assemblies, the separations and the fire-resistance ratings that show up on a partition legend — and it's why we record ratings against every assembly rather than reporting bare square footage.
+
+WOOD-FRAME
+
+### Six-storey wood-frame is permitted, and it's being built
+
+Six-storey wood-frame construction is permitted in Alberta, and Calgary and Edmonton carry strong volume in wood-frame multifamily. That is the highest-leverage set type for a takeoff: heavy typical-floor repetition, with a ground floor, an amenity level and any transfer level that all differ from the floors above and have to be measured separately.
+
+REPETITION
+
+### Repetition rewards being measured once, properly
+
+On a repetitive residential floor plate, one wrong assumption on the typical floor multiplies by every level in the building. We measure the typical floor in full, extend it visibly across the levels it applies to, and measure any level that differs on its own — with the workbook showing which is which, so you can audit the multiplier instead of trusting it.
+
+MIXED-USE
+
+### Commercial at grade under residential above
+
+Mixed-use podium sets carry two entirely different partition and finish schedules in one drawing set, with a transfer level between them. Treating the whole building as one schedule is the fastest way to price the retail level with residential assemblies, or the reverse.
+
+COMMERCIAL & INSTITUTIONAL
+
+### Tenant improvements and institutional work
+
+Commercial tenant improvements bring dense partition type lists over small areas, plenty of bulkheads and open ceilings with sprayed exposed deck. Institutional sets bring heavy rated assemblies, abuse-resistant board and backing schedules long enough to be their own takeoff.
+
+ENVELOPE
+
+### Envelope assemblies still come apart layer by layer
+
+A drier climate changes the detailing, not the counting method. Sheathing, air and vapour barrier, insulation, any cavity components and cladding are still separate purchases with separate install rates, and our envelope takeoffs report each layer against a named assembly rather than one wall area.
+
+CITIESWhere Alberta clients are
+
+## Cities we work with
+
+Calgary and Edmonton are where most of the province's multifamily and commercial volume sits, and where most Alberta work comes from. Surrounding municipalities and smaller centres are handled exactly the same way — there are no separate offices, no travel and no regional pricing. The schedule on the takeoff pricing page is the schedule everywhere in Alberta.
+
+If you bid across the BC–Alberta line, that's routine. The same estimator measures both, the workbook format doesn't change, and neither does the price.
+
+TRADESAll nine, in an Alberta context
+
+## Trades we take off for Alberta subs
+
+- Drywall & steel stud takeoffsParty wall and corridor assemblies on wood-frame multifamily, with ratings recorded and typical-floor repetition you can audit.
+
+- Acoustic ceiling (ACT) takeoffsCommercial tenant improvement ceilings where the perimeter count dwarfs the field area.
+
+- Flooring takeoffsSuites, corridors and amenity separated, with acoustic underlay by assembly on repetitive residential floors.
+
+- Painting takeoffsOpen-ceiling tenant improvements with sprayed exposed deck, and CMU that needs block filler priced properly.
+
+- Glazing takeoffsStorefront and entrances at grade, punched openings by type mark above, elevations measured face by face.
+
+- Roofing & envelope takeoffsLarge commercial roof fields where tapered layout and penetration counts decide the number.
+
+- Misc metals takeoffsStair and guard packages repeated floor to floor, plus equipment dunnage off the mechanical sheets.
+
+- Concrete & formwork takeoffsWood-frame foundations, parkade slabs and site concrete — low-rise and small-site scopes only.
+
+- Framing takeoffsSix-storey wood-frame wall and sheathing areas by floor, with shear wall hardware at the full-breakdown tier.
+
+FAQAlberta questions
+
+## Alberta takeoff FAQs
+
+**Q: You're in Vancouver — does that slow anything down?**
+
+The opposite, usually. Pacific time is an hour behind Mountain, so a set sent at the end of your working day is being measured while it's still working hours here, and a next-morning delivery lands before your day starts. Delivery dates are set against your bid deadline, not our calendar.
+
+**Q: Do you know Alberta code requirements?**
+
+For takeoff purposes, yes — Alberta builds to the National Building Code – Alberta Edition, and six-storey wood-frame is permitted. What that means in practice is rated assemblies and separations that have to be recorded against each partition type rather than averaged into a square-foot number. Code interpretation and compliance review are a designer's job, not a takeoff.
+
+**Q: Are quantities metric or imperial?**
+
+Whichever you bid in. Commercial and institutional sets in Canada are commonly metric while residential work is often imperial. Tell us which you price with and the workbook arrives in those units, or with both columns.
+
+**Q: Do you work on CCDC contracts?**
+
+Yes — CCDC contract forms are standard across Canadian construction. A takeoff is a quantity document rather than a contractual one, but the assumptions and exclusions page is written so it can be attached to your bid and defended in a scope meeting.
+
+**Q: How do I send drawings from a plan room?**
+
+Download the set and send a link, or send the plan room invitation directly — Dropbox, Google Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid and GC-hosted plan rooms all work. If the set is login-only, give us access and we'll pull it. Client drawings are never shared.
+
+**Q: Is there an out-of-province surcharge?**
+
+No. There's no travel, so there's nothing to charge for. Single-trade finish takeoffs and acoustic ceilings start at $450, concrete at $500, misc metals and roofing and envelope and framing wall areas at $600, glazing at $900 — the same in Alberta as anywhere else. Full schedule on the takeoff pricing page.
+
+**Q: Can you handle a peak bid week?**
+
+That's most of what a retainer is for. Retainers start at $1,500 a month and include a set number of takeoffs plus priority in the queue, which is the difference between getting three bids out in a week and picking two. One-off work is welcome too, and same-day rush is +50% when the calendar is ugly.
+
+NEXTStart here
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+
+Get a fixed quote
+See all takeoff pricing
+About SharpBid
+
+### Other provinces
+
+Takeoff services in BC
+Takeoff services in Ontario
+
+…and anywhere else in Canada — everything is digital.
+
+========================================================================
+SOURCE: https://sharpbid.ca/takeoff-services-ontario
+TITLE: Construction Takeoff Services in Ontario & GTA | SharpBid
+========================================================================
+
+ONTARIO · TORONTO / GTA & OTTAWA
+
+# Construction takeoff services in Ontario
+
+SharpBid measures quantities for Ontario subcontractors from Vancouver — all digital, all delivered to your bid deadline. The GTA is Canada's largest construction market, which means the most competition per bid and the least room for a quantity error to hide. From $450, next business day on single-trade sets, on time or 50% off.
+
+From $450Next business dayFixed quote in 4 business hoursOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+Sample takeoff (.xlsx)
+
+WORKFLOWHow it works from Ontario
+
+## Drawings link in. Workbook comes back.
+
+You send a drawings link — Dropbox, Drive, WeTransfer, a GC plan room login, whatever you already use. A fixed price and a guaranteed delivery date come back within 4 business hours. We measure in On-Screen Takeoff and Bluebeam Revu, and the Excel workbook plus colour-coded marked-up plans arrive by the date on the quote. Late means you pay half.
+
+We work Pacific time and deliver to your deadline, which on an Ontario bid means the working day effectively gets longer. A set that lands here at 2 p.m. Eastern is arriving at 11 a.m. our time with a full day ahead of it, and a delivery promised for your morning is finished the evening before.
+
+CONTEXTBuilding types & code
+
+## Building types we see most in Ontario
+
+Ontario's volume and its density both matter to a takeoff — the set types are familiar, but the margin for error on any one bid is thinner.
+
+CODE
+
+### The Ontario Building Code
+
+Ontario has its own building code rather than adopting the national model directly. For a takeoff, the practical consequence is the same everywhere: rated assemblies and separations get recorded against each partition or ceiling type, with the rating attached, so your qualification page can name exactly what you priced.
+
+MID-RISE WOOD-FRAME
+
+### Six-storey wood-frame is permitted
+
+Mid-rise wood-frame up to six storeys is permitted in Ontario, and it brings the same leverage it brings anywhere: heavy typical-floor repetition above a ground floor, an amenity level and any transfer level that all differ. Measure the typical floor properly once, extend it visibly, and measure the exceptions on their own.
+
+CONCRETE
+
+### Concrete residential and mixed-use towers
+
+Concrete mid-rise and high-rise residential is a large share of GTA work. Typical-floor repetition, shaftwall at cores and service risers, and head-of-wall deflection against a slab that will move are the conditions that decide an interiors bid on these sets.
+
+VOLUME
+
+### The largest construction market in Canada
+
+The GTA being Canada's biggest market cuts both ways. There is more work to bid than any one estimator can price properly, and there are more bidders on each job — so the bid you rushed is competing against ones that weren't. Volume is exactly the problem outsourced takeoffs exist to solve, and it's worth reading the honest version of that trade-off in our guide on outsourcing versus hiring in-house.
+
+COMMERCIAL TI
+
+### Tenant improvements at pace
+
+Dense partition type lists over small areas, plenty of bulkheads, open ceilings with sprayed exposed deck, and Level 5 finish in the spaces that get photographed. Fast programs with short bid windows, where the fixed four-hour quote turnaround matters as much as the takeoff itself.
+
+INSTITUTIONAL
+
+### Institutional and public work
+
+Heavy rated assemblies, abuse- and impact-resistant board, backing schedules long enough to be their own takeoff, and specifications detailed enough that reading them properly is most of the job.
+
+CITIESWhere Ontario clients are
+
+## Cities we work with
+
+Toronto and the GTA are where most Ontario work originates — the largest concentration of residential, mixed-use and commercial volume in the country, and the deepest bidder pool on each job. Ottawa brings a different mix, with more institutional and public-sector work and specifications to match. Everywhere else in the province is handled identically: no offices, no travel, no regional pricing. The schedule on the takeoff pricing page is the schedule everywhere in Ontario.
+
+TRADESAll nine, in an Ontario context
+
+## Trades we take off for Ontario subs
+
+- Drywall & steel stud takeoffsShaftwall at concrete cores, head-of-wall deflection, and dense tenant improvement partition schedules.
+
+- Acoustic ceiling (ACT) takeoffsTenant improvement ceilings with clouds over open plan, where the perimeter count dwarfs the field.
+
+- Flooring takeoffsDense finish schedules on fast TI programs, with floor prep over existing slabs quantified rather than assumed.
+
+- Painting takeoffsOpen-ceiling sprayed deck, dense door counts, and institutional CMU that needs block filler priced properly.
+
+- Glazing takeoffsCurtain wall measured elevation by elevation on towers, with spandrel reconciled against the glass schedule.
+
+- Roofing & envelope takeoffsPodium and amenity roofs over occupied space, with tapered layout and penetration counts taken seriously.
+
+- Misc metals takeoffsRepetitive stair and guard packages, hoistway steel, and embeds coordinated to the pour.
+
+- Concrete & formwork takeoffsFoundations, slab-on-grade and site concrete — low-rise and small-site scopes only.
+
+- Framing takeoffsMid-rise wood-frame wall and sheathing areas by floor, with shear wall hardware at the full-breakdown tier.
+
+FAQOntario questions
+
+## Ontario takeoff FAQs
+
+**Q: You're in Vancouver — how does the time difference work?**
+
+In your favour, mostly. We work Pacific time and deliver to your deadline. A set that lands at 2 p.m. Eastern arrives here at 11 a.m. with a full working day ahead of it, and anything promised for your morning is finished the evening before. If your bid closes at 2 p.m. Eastern, that's the date on the quote.
+
+**Q: Do you know the Ontario Building Code?**
+
+For takeoff purposes. Ontario has its own building code, and what that means for a quantity document is that rated assemblies and separations get recorded against each type with the rating attached, so your qualification page can name what you priced. Code interpretation and compliance review belong to the design team, not to a takeoff.
+
+**Q: Are quantities metric or imperial?**
+
+Whichever you bid in. Commercial and institutional sets in Canada are commonly metric while residential work is often imperial. Tell us which you price with and the workbook arrives in those units, or with both columns.
+
+**Q: Do you work on CCDC contracts?**
+
+Yes — CCDC contract forms are standard across Canadian construction. A takeoff is a quantity document rather than a contractual one, but the assumptions and exclusions page is written so it can be attached to your bid and defended in a scope meeting.
+
+**Q: How do I send drawings from a plan room?**
+
+Download the set and send a link, or send the plan room invitation directly — Dropbox, Google Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid and GC-hosted plan rooms all work. If the set is login-only, give us access and we'll pull it. Client drawings are never shared.
+
+**Q: Can you keep up with GTA bid volume?**
+
+That's the case retainers are built for. Retainers start at $1,500 a month and include a set number of takeoffs plus priority in the queue, which in a busy week is the difference between submitting three bids and submitting two. One-off work is welcome as well, and same-day rush is +50%.
+
+**Q: Is there an out-of-province surcharge?**
+
+No. There's no travel, so there's nothing to charge for. Single-trade finish takeoffs and acoustic ceilings start at $450, concrete at $500, misc metals and roofing and envelope and framing wall areas at $600, glazing at $900 — the same in Ontario as anywhere else. Full schedule on the takeoff pricing page.
+
+NEXTStart here
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+
+Get a fixed quote
+See all takeoff pricing
+About SharpBid
+
+### Other provinces
+
+Takeoff services in BC
+Takeoff services in Alberta
+
+…and anywhere else in Canada — everything is digital.
+
+========================================================================
+SOURCE: https://sharpbid.ca/about
+TITLE: About SharpBid Estimating | Takeoffs for Subcontractors
+========================================================================
+
+SHARPBID ESTIMATING · VANCOUVER, BC
+
+# About SharpBid Estimating
+
+SharpBid is a quantity takeoff and estimating support practice for specialty subcontractors, based in Metro Vancouver and working across Canada. We count what's on the drawings and hand you a workbook you can bid from. You keep your unit rates, your suppliers and your margin — we just make sure the numbers underneath them are right.
+
+15+ years senior estimatingNo juniors, nothing farmed outCCDC-fluentOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+Sample takeoff (.xlsx)
+
+BACKGROUNDWhere the experience comes from
+
+## Fifteen years of senior estimating
+
+Behind SharpBid is 15+ years of senior estimating experience on Metro Vancouver multifamily, mixed-use and commercial projects, in both wood-frame and concrete. That's the reason the trade pages on this site read the way they do: head-of-wall deflection, contact area versus volume, and the division-of-work line at a bulkhead aren't researched topics here, they're the daily work.
+
+Every takeoff is measured by that same senior estimator. There are no juniors learning on your bid and nothing is farmed out to a third party or offshore. That's a deliberate constraint on how much work can be taken at once, and it's also the whole proposition — when the counting is what you're buying, who does the counting is the product.
+
+METHODHow we work
+
+## How SharpBid works
+
+TOOLS
+
+### On-Screen Takeoff and Bluebeam Revu
+
+Measurement is done in On-Screen Takeoff and Bluebeam Revu, with the workbook built in Excel. The marked-up plans you receive are the actual measurement overlays, not a presentation made afterwards — which is what makes every quantity checkable against a coloured area on a sheet. Nothing you receive needs special software to open.
+
+STANDARDS
+
+### CSI MasterFormat, or your cost codes
+
+Workbooks are organized to CSI MasterFormat by default. Send your own cost code list and they're built to that instead, so quantities drop into your estimating system without anyone re-mapping them by hand. Takeoffs are delivered in the units you bid in — metric or imperial, or both columns where your suppliers and crews disagree.
+
+BASIS
+
+### The assumptions page is the important page
+
+Every takeoff carries a written basis of measurement: deduction rules, waste stated per material rather than buried in quantities, drawing conflicts flagged with the sheets they come from, and exclusions listed rather than implied. It's the page that lets you defend your number in a scope meeting, and it's why it's never optional.
+
+CONTRACTS
+
+### CCDC-fluent
+
+CCDC contract forms are standard across Canadian construction and familiar territory here. A takeoff is a quantity document rather than a contractual one, but the assumptions and exclusions page is written so it can be attached to a bid and stand up to being read closely.
+
+CONFIDENTIALITY
+
+### Your drawings are never shared
+
+Client drawings, quantities and numbers are never shared, published or reused, and nothing goes to a third party. The sample workbook on this site is a fictitious project for exactly that reason — showing a real client's file to sell work would tell you everything you needed to know about how yours would be handled. If your own confidentiality agreement needs signing, send it.
+
+GUARANTEE
+
+### On time or 50% off
+
+Every written quote carries a delivery date. If the takeoff arrives after it, you pay half — no fine print and no business exceptions. The only thing that moves the date is an addendum that changes scope, and that reset is confirmed in writing before work continues. One revision round and bid-period addenda are included in the fixed price.
+
+SCOPEWhat we do and don't take off
+
+## What we don't do
+
+Published plainly, because a service that claims everything is useless for deciding whether to send drawings.
+
+- No mechanical or electricalSharpBid does not take off Divisions 21 through 28 — no ductwork, piping, conduit or cable tray. Items in those divisions that create work in your scope, like roof penetrations or painted grilles, are still counted for you.
+
+- No high-rise cast-in-place concrete cycle workConcrete and formwork is offered for low-rise and small-site scopes only. High-rise cycle forming has its own production logic and belongs with a specialist.
+
+- No engineeringStructural design, member sizing, connection design, shop drawings, thermal modelling and energy compliance are engineering scopes. A takeoff measures what's drawn; it doesn't design it.
+
+- No pricing by defaultYou keep your unit rates. Price placeholders are an optional add-on at +15% if you want the workbook bid-ready on arrival.
+
+- No work under $450Below the minimum engagement, senior review can't add enough value to be worth your money, and a cheap mill is the better fit. We'd rather say so than take the job.
+
+- Most other CSI divisions, yesThe nine trades on this site are where the work concentrates, but coverage spans most of CSI MasterFormat outside MEP. If your scope isn't listed, ask.
+
+NEXTStart here
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Three fields and a drawings link. A fixed price and a guaranteed delivery date come back within 4 business hours — no meetings, no sales pitch. Or email info@sharpbid.ca and call (604) 245-4344 if it's urgent.
+
+Get a fixed quote
+See all takeoff pricing
+Read the guides
+
+### Where we work
+
+British Columbia
+Alberta
+Ontario
+
+…and anywhere else in Canada — everything is digital.
+
+========================================================================
+SOURCE: https://sharpbid.ca/bid-traps
+TITLE: Bid Traps: Scope Gaps That Cost Subs Money | SharpBid
+========================================================================
+
+12 SCOPE GAPS · BY TRADE
+
+# Bid traps: scope gaps that cost specialty subs money
+
+Twelve conditions that quietly turn a won job into a lost one. None of them are exotic — they're the ordinary places where a drawing set contradicts itself, where a requirement lives on a sheet your trade doesn't normally open, or where two assemblies look identical on plan and cost nothing like each other to build. Grouped by trade, with the drawing each one hides in.
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+
+TRAPSTwelve, grouped by tradeFree, no signup
+
+DIV 09 · FLOORING
+
+## Flooring
+
+Flooring takeoff services →
+
+### Nº 1The finish schedule says LVT-1, the plan tag says CPT-1
+
+Whichever one you priced, the other one shows up in the change order — against you. Finish schedules and plan tags disagree on most sets somewhere, usually in a handful of rooms that were revised late. The fix is to reconcile every room against both documents before measuring, and to raise the conflict as an RFI rather than quietly picking one. A takeoff that doesn't tell you where the set contradicts itself has made the decision for you without saying so.
+
+### Nº 2Moisture mitigation "where RH exceeds spec" is an open allowance
+
+The spec makes mitigation conditional on a test result that doesn't exist at bid time, which leaves the exposure sitting with whoever priced the floor. Qualify a square footage or you own the whole slab — and on a slab-on-grade podium that is a very large number to absorb. The workable answer is to measure the slab areas the requirement could apply to, carry a quantified allowance, and state it in your bid so the risk is visible rather than inherited.
+
+DIV 09 · DRYWALL & STEEL STUD
+
+## Drywall & steel stud
+
+Drywall & steel stud takeoff services →
+
+### Nº 3Head-of-wall deflection details hide in the structural set
+
+Anticipated deflection, slotted track and slip-clip requirements are routinely specified in the structural general notes and never repeated on the architectural partition types. Price partitions off the architectural alone and every top track is wrong — on every wall, on every floor, which is what makes this one expensive rather than merely annoying. Read the structural general notes before the partition legend, and count rated head-of-wall assemblies as their own lineal-foot line.
+
+### Nº 4Rated shaftwall counted as standard partition
+
+Same square footage on plan, different assembly, roughly twice the labour. C-H studs and liner panel go up nothing like a stud partition, and shaftwall hides in the ordinary places — elevator shafts, stair enclosures, service risers. Type marks first, areas second: if the takeoff is organized by wall type mark rather than by location, this one can't happen.
+
+DIV 08 · GLAZING
+
+## Glazing
+
+Glazing takeoff services →
+
+### Nº 5Spandrel shown on elevations, missing from the glass schedule
+
+If your glass quote followed the schedule, you just bought the spandrel. Elevations and glass schedules are produced at different times by different people, and the panels that get added late to an elevation are exactly the ones that never make it into the schedule. Reconcile them panel by panel before anything goes to a supplier, and on a tower elevation that reconciliation pays for the takeoff several times over.
+
+### Nº 6Sealant joints get measured twice by GCs and zero times by subs
+
+Perimeter sealant at head, jamb, sill and every transition to an adjacent assembly is lineal footage with labour and access attached. Subs routinely leave it out on the assumption it's incidental; general contractors routinely assume it's included. Measure it by joint condition — or it's free work, and on a fully glazed building it is a great deal of free work.
+
+DIV 05 · MISC METALS
+
+## Misc metals
+
+Misc metals takeoff services →
+
+### Nº 7Embeds live on S-sheets, the rail lives on A-sheets
+
+Bid one set and half the package is somebody's assumption — usually yours, discovered after the concrete is poured. Embeds, weld plates and anchor bolts are drawn structurally while the item they support is drawn architecturally, and they have to be on site before the pour, so the discovery is late as well as expensive. Division 05 is the trade where reading both sets isn't thoroughness, it's the minimum.
+
+### Nº 8"Miscellaneous metals as required" means everything nobody else claimed
+
+It's a blank cheque written in spec language, and general contractors read it exactly that way in a scope meeting. Exclude by list, not by hope: an itemized list of what you actually measured and priced is defensible, and a blanket qualification is not. If the takeoff hands you that list, the qualification writes itself.
+
+DIV 09 · PAINTING
+
+## Painting
+
+Painting takeoff services →
+
+### Nº 9"Site-painted" vs "pre-finished" doors is decided in Division 08
+
+That decision lives in the door schedule, not in the Division 09 finish plan, and it's never repeated where a painter would look. Count doors from the door schedule, not the finish plan — otherwise you either price factory-finished leaves you were never supplying, or miss a few hundred sides that were always yours. On a large institutional set, either error is material.
+
+### Nº 10Exposed deck spray isn't on the finish schedule
+
+It's a reflected ceiling plan item. On an open-ceiling project the deck, joists, hangers and exposed structure can be the largest painted area in the building, and the room finish schedule says nothing about any of it. Check the RCP or you missed a level's worth of work in a single line — and the spray rate, access and masking that go with it.
+
+DIV 03 · CONCRETE & FORMWORK
+
+## Concrete & formwork
+
+Concrete & formwork takeoff services →
+
+### Nº 11Formwork is priced on contact area, not concrete volume
+
+A thin wall with two faces costs more to form than a thick one with the same cubes. Forming is paid for the surface your crew builds, ties, strips and cleans, and there is no reliable factor that gets you from cubic metres to contact area. Any takeoff that gives you volume and expects you to derive forming from it has handed you the risk along with the number.
+
+### Nº 12Housekeeping pads are shown on the mechanical drawings and poured by you
+
+They're drawn with the equipment they serve, not on the structural plans, which is exactly why they get missed. Read the M-sheets or they're a freebie — and in a building with a full mechanical room that's a long list of small pours, each with its own edge form, its own finish and its own mobilization.
+
+These twelve are the recurring ones. The trade pages carry six more apiece, specific to each scope — and every takeoff we deliver puts the ones found in your set onto a written assumptions and exclusions page, with the sheet each came from.
+
+NEXTStart here
+
+## Send the drawings. We'll find the ones in your set.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+
+Get a fixed quote
+Bid leveling
+Estimating guides
+
+### By trade
+
+Drywall & steel stud
+Acoustic ceilings
+Flooring
+Painting
+Glazing
+Roofing & envelope
+Misc metals
+Concrete & formwork
+Framing
+
+========================================================================
+SOURCE: https://sharpbid.ca/guides/construction-takeoff-cost-canada
+TITLE: What a Construction Takeoff Costs in Canada | SharpBid
+========================================================================
+
+GUIDE · PRICING
+
+# What a construction takeoff costs in Canada
+
+Almost nobody in this industry publishes prices, which makes it hard to tell whether a quote is fair. Here's how takeoffs get priced, what actually drives the number, and what we charge.
+
+Guide · Published 19 September 2026 · SharpBid Estimating
+
+## How much does a construction takeoff cost?
+
+At SharpBid, from $450 for a single-trade finish takeoff, rising to $900 for glazing, with a $450 minimum engagement. Across the wider Canadian market, quoted prices vary enormously because four different pricing models are in use and they aren't comparable to each other.
+
+The reason a straight answer is hard to find is that "a takeoff" isn't one product. A single-trade flooring count on a 40-sheet tenant improvement set and a full envelope takeoff on a six-storey wood-frame building are separated by an order of magnitude in effort, and both get called a takeoff. Before comparing two quotes, it's worth knowing which model each one is built on.
+
+## What are the four pricing models, and which is fairest?
+
+Most takeoff providers use one of four. None is dishonest; they just put the risk in different places.
+
+### Per sheet
+
+A flat rate multiplied by the number of drawings. It's simple to quote and simple to verify, which is why it's common — and it's a poor proxy for effort. A 300-sheet set with six partition types is genuinely less work than a 40-sheet set with forty. Per-sheet pricing rewards providers who take on repetitive sets and punishes you when your set is dense.
+
+### Per square foot
+
+A rate applied to building area. Fine for broadly uniform buildings, badly wrong for anything with varied assemblies. A warehouse and a hospital of identical floor area are not the same takeoff, and a rate that works for one bankrupts the other. It also encourages measuring gross area rather than the conditions that actually carry labour.
+
+### Hourly
+
+Honest in the sense that it tracks effort exactly, and awkward because you don't know the number until the work is finished. Hourly makes sense for open-ended verification work — remeasuring a disputed quantity, checking someone else's numbers — where the scope genuinely can't be defined in advance. It's a poor fit for bid-period work, where you need to know your cost before you commit.
+
+### Fixed price per job
+
+The provider reads your actual set, quotes a number, and absorbs the difference if the drawings turn out worse than they looked. It requires the provider to do real work before quoting, which is why it's less common. It's also the only model where your cost is known before you commit and can't move afterwards.
+
+We use fixed pricing, quoted within 4 business hours of receiving drawings, for that reason. If a set is messier than it appeared, that's absorbed on our side rather than invoiced to you.
+
+## What actually drives the cost of a takeoff?
+
+Four things, roughly in order of impact. All of them are visible in your set before you send it.
+
+- Number of distinct assemblies, not building size. The partition legend, the finish schedule and the details are where effort lives. Forty partition types over 20,000 SF is more work than six types over 100,000 SF, every time.
+
+- Drawing quality. Vector PDFs measure fastest. Scanned sets are workable but slower. A set with no scale bar and no dimension to calibrate against costs real time before any measuring starts.
+
+- Repetition. A tower with fifteen identical floors is close to a single-floor takeoff plus verification. A building where every level differs is fifteen takeoffs. This is why wood-frame and concrete residential often prices better than its square footage suggests.
+
+- Turnaround. Same-day work displaces other jobs and gets priced accordingly — ours is +50%. Standard next-business-day delivery on single-trade sets carries no premium, so a day of lead time is free money.
+
+Notice what isn't on that list: your location. Everything is digital, so there's no travel cost to recover and no reason for a sub in Ontario to pay more than one in BC.
+
+## What does SharpBid charge?
+
+The whole schedule is published on the pricing page. The starting prices:
+
+| | Scope | From (CAD)
+
+| Single-trade finish takeoff — flooring, painting, drywall & steel stud | $450
+
+| Acoustic ceiling (ACT) takeoff | $450
+
+| Concrete & formwork — low-rise / small site | $500
+
+| Misc metals / Div 05 | $600
+
+| Roofing & building envelope | $600
+
+| Framing — wall & sheathing areas | $600
+
+| Glazing — Div 08 | $900
+
+| Framing — full lumber breakdown, quoted per project | $1,500
+
+| Bid leveling / scope-gap analysis | $600
+
+| Change-order & claim quantity checks | $150/hr · 3-hr min
+
+Add-ons are price placeholders at +15%, a quote template at +$150, and same-day rush at +50%. That's the complete list — no file fees, no setup fees, and no charge for the marked-up plans or the assumptions page, which come with every takeoff. Retainers start at $1,500 a month.
+
+## Why is there a minimum engagement?
+
+Ours is $450, and the reason is worth stating plainly: below it, senior review can't add enough value to justify the money. A tiny scope on a clean set genuinely is better served by a cheap high-volume provider, and saying so costs less than taking the job and doing it badly. The work worth paying a senior estimator for is the work where getting quantities right changes whether you win and what you make.
+
+## When is outsourcing a takeoff worth it?
+
+The arithmetic is simpler than it looks. A $450 takeoff on a $120,000 bid is under half a percent of the contract value. The question isn't whether that's affordable — it's whether it changes anything.
+
+It's worth it when:
+
+- You'd otherwise no-bid. A takeoff you can't get to is a job you can't win. This is the single strongest case, and it's most of why subs outsource at all.
+
+- Several bids close in the same week. Peak bid periods are where in-house capacity breaks, and where a rushed takeoff does the most damage.
+
+- The scope has expensive failure modes. Open allowances, contradictory schedules and assemblies that look identical on plan — the sort of thing in our bid traps list.
+
+- You want a second opinion on your own numbers. Independent remeasure before a big bid is cheap protection against an expensive miss.
+
+It isn't worth it when:
+
+- The scope is genuinely tiny. Below the minimum, do it yourself or use a cheap mill.
+
+- You've built this exact building three times. Repeat prototypes with a known material list don't need remeasuring.
+
+- The drawings aren't ready. A takeoff off a 30% set is a budget exercise, not a bid document. Worth doing deliberately — not worth mistaking for the real thing.
+
+- Your estimator has capacity. If nobody is turning down bids, the case is weaker. The longer version of that comparison is in outsourcing takeoffs versus an in-house estimator.
+
+## What should a takeoff include at any price?
+
+Whoever you use, these are the things worth insisting on. They cost the provider effort, which is exactly why cheap quotes often leave them out:
+
+- Marked-up plans showing every measured area, so any line can be checked against a sheet rather than taken on trust.
+
+- A written basis of measurement — deduction rules, and the same rules applied everywhere.
+
+- Waste stated separately rather than folded into quantities, so you can apply your own figures.
+
+- Drawing conflicts flagged, with the sheets they came from, instead of silently resolved.
+
+- Exclusions listed, not implied.
+
+- A delivery date you can rely on. Ours carries a penalty — on time or 50% off — because a takeoff that arrives after the bid closes is worth nothing at any price.
+
+A takeoff without those is a spreadsheet of numbers you can't defend in a scope meeting. That's the part worth paying for, and it's why comparing two quotes on price alone usually compares the wrong thing.
+
+Send drawings — fixed quote in 4 hrs
+See the full schedule
+
+========================================================================
+SOURCE: https://sharpbid.ca/guides/drywall-takeoff-checklist
+TITLE: Drywall Takeoff Checklist for Estimators | SharpBid
+========================================================================
+
+GUIDE · CHECKLIST · DIV 09
+
+# Drywall takeoff checklist
+
+A working list to run against a real set, in the order it's worth working in. Nothing here is exotic — but the jobs that go wrong usually go wrong on item three or item nine, not on the square footage.
+
+Guide · Published 19 September 2026 · SharpBid Estimating
+
+## Where do you start a drywall takeoff?
+
+With the partition type legend, not the floor plan. Every wall gets a type mark before a single square foot is measured, because organizing by location instead of by assembly is what lets a shaftwall end up priced as a stud partition.
+
+The legend or partition schedule is the spine of the whole takeoff. Pull it first and record, for each type: stud gauge and depth, spacing, board layers per side, board type, insulation, and fire and sound ratings. Everything after this is measuring areas against that list.
+
+- Record every partition type from the legend before measuring anything.
+
+- List the untagged walls. Most sets have some. They go on the assumptions page, not into the nearest type by guesswork.
+
+- Check the legend against the spec. Where the two disagree on board type or rating, that's an RFI, not a judgement call.
+
+## How do you handle board layers and framing?
+
+Separately, always. A double-layer-both-sides partition carries four times the board of a single-layer-one-side wall and exactly the same framing. One blended square-foot rate over one area prices both wrong, and it's the most common reason a drywall bid is quietly off.
+
+- Board by layer, per side, per type — four separate quantities on a double-double wall.
+
+- Framing in lineal feet of wall by type, independent of board.
+
+- Finishing by the area actually taped, which is not always the same as the board area.
+
+- Board type recorded — Type X, Type C, abuse-resistant, moisture-resistant, glass-mat. Different material cost, sometimes different labour.
+
+## How do you get wall heights right?
+
+From the sections and the reflected ceiling plans, never from the floor plan. Two identical plan lengths at different heights are different line items, and a wall carried to underside of deck above an open ceiling is a lot taller than the ceiling suggests.
+
+- Identify each termination condition: slab-to-slab, to underside of deck, to underside of structure, or dying off above the ceiling.
+
+- Separate the levels that differ. Ground floors, amenity levels and transfer levels routinely have different heights from the typical floor above.
+
+- Where the set contradicts itself, record both readings and the one you used.
+
+## What about head-of-wall and deflection?
+
+This is where drywall bids are most often wrong, because the requirement isn't where a drywall estimator normally looks. Anticipated deflection, slotted track and slip-clip requirements are usually in the structural drawings and general notes, not on the architectural partition types.
+
+- Read the structural general notes before pricing top track. Every one of them, not just the sheet that looks relevant.
+
+- Count rated head-of-wall assemblies separately, in lineal feet — they carry firestop and their own detail.
+
+- Deflection track and slip clips get their own line, never averaged into standard top track.
+
+- Check the deflection criteria against the structure. A wall under a long-span steel deck moves differently from one under a concrete slab.
+
+## Which ratings do you need to record?
+
+All of them, against the assembly rather than in a note at the end. Fire-resistance and sound ratings decide the assembly, and your qualification page needs to name exactly what you priced.
+
+- Fire-resistance ratings from the legend and the code plans.
+
+- Sound ratings, which often drive insulation and resilient channel that the plan doesn't show.
+
+- Smoke separations and area separations, which are not the same thing as a fire rating and don't always match.
+
+## Have you separated shaftwall?
+
+Same square footage on plan, completely different assembly, roughly twice the labour. C-H studs and liner panel go up nothing like a stud partition. It hides in the ordinary places.
+
+- Elevator shafts, stair enclosures and service risers — check all three on every level.
+
+- Area separation walls between suites or occupancies, which use their own assembly.
+
+- Report shaftwall as its own line with the rating attached. Never in the same total as standard partitions.
+
+## Ceilings, bulkheads and soffits
+
+The bulkhead is where the division-of-work argument happens, so it's worth being precise about both the quantity and whose scope it is.
+
+- GWB ceilings by type, in area.
+
+- Bulkheads and soffits as developed area — the vertical face and the horizontal underside both get measured, with the lineal run kept alongside for framing.
+
+- Suspended framing separately: furring, hat channel, resilient channel, Z-furring, in lineal feet.
+
+- Flag the interface with acoustic ceilings. Where a ceiling dies into a bulkhead, the framing falls to you or to the ceiling sub depending on the spec — and if both of you assume the other has it, somebody eats it. The same condition from the other side is covered on our acoustic ceiling takeoffs page.
+
+## Insulation, trims and the small items that add up
+
+Individually minor, collectively a real number, and the first things to disappear from a rushed takeoff.
+
+- Acoustic and thermal insulation by type and thickness, matched to the partition it sits in.
+
+- Acoustic sealant at wall perimeters in lineal feet — both sides where the assembly calls for it.
+
+- Corner bead, casing bead, L-bead and reveals by profile, taken from the details rather than assumed off wall length.
+
+- Control and expansion joints, which the spec often requires at spacings the drawings don't show.
+
+- Access panels by size and rating, from the details and the reflected ceiling plans.
+
+## Have you found the backing and blocking?
+
+None of it is on a floor plan, and all of it is labour. This is the item most likely to be missing from a takeoff done quickly off the plans alone.
+
+- Interior elevations — the primary source. Read them all.
+
+- Washroom accessory schedule — grab bars, dispensers, mirrors.
+
+- Equipment schedule — anything wall-mounted or wall-supported.
+
+- Millwork drawings — casework and countertop supports.
+
+- Handrails and wall-mounted TVs, which turn up in elevations and nowhere else.
+
+## Level of finish, and the items that may not be yours
+
+Two spec-driven questions to settle before you submit, both of which move real money.
+
+- Level of finish by area. Level 3, 4 and 5 are different rates, and Level 5 lives in the Division 09 spec rather than the finish schedule. Lobbies, feature walls and anything under raking light are the usual candidates.
+
+- Exterior sheathing. Glass-mat sheathing sits in Division 09 on some projects and with the framer or the envelope trade on others. Name the division, then include or exclude it deliberately.
+
+- Firestopping. Sometimes Division 07, sometimes yours. Check before assuming.
+
+## Before you submit
+
+- Does every area trace to a type mark? If a quantity can't be traced, it can't be defended.
+
+- Is the repetition logic visible? Which levels were measured, which were extended, and which differ.
+
+- Is the deduction rule written down, and applied identically everywhere?
+
+- Are the drawing conflicts listed with their sheet numbers?
+
+- Are exclusions itemized rather than covered by a blanket qualification?
+
+That last page is what you attach to the bid, and it's what you'll be reading from in the scope meeting. It's worth as much as the quantities.
+
+If you'd rather have someone else run this list against your set: drywall and steel stud takeoffs start at $450, next business day, with a fixed price back within 4 business hours. The scope gaps above and six more are in our bid traps list.
+
+Send drawings — fixed quote in 4 hrs
+Drywall takeoff services
+Pricing
+
+========================================================================
+SOURCE: https://sharpbid.ca/guides/flooring-takeoff-checklist
+TITLE: Flooring Takeoff Checklist for Estimators | SharpBid
+========================================================================
+
+GUIDE · CHECKLIST · DIV 09
+
+# Flooring takeoff checklist
+
+A working list to run against a real set. Flooring looks like the simplest trade to count and isn't — the area is easy, and almost everything that costs money on a flooring job lives at the edges of it.
+
+Guide · Published 19 September 2026 · SharpBid Estimating
+
+## Where do you start a flooring takeoff?
+
+By reading the finish schedule and the plan tags against each other, room by room, before measuring anything. On most sets the two disagree somewhere — and whichever one you priced, the other is the one that gets built.
+
+Finish schedules and finish plans are produced at different times and revised at different times. Rooms that changed late are exactly the ones where the schedule still says one thing and the plan tag says another. Reconciling them first turns a future change order into an RFI you send during the bid period.
+
+- List every finish code from the schedule with its full specification before measuring.
+
+- Tie every room to a code, from both the schedule and the plan tag.
+
+- Record every disagreement with the room number and both readings. That list goes in your bid.
+
+- Check for rooms with no finish called up at all — they exist on most sets, usually service spaces.
+
+## How should areas be measured?
+
+Room by room, to the finished face of wall, with one deduction rule applied everywhere. Consistency matters more than which rule you pick, because your unit rates need to mean the same thing on every line.
+
+- Measure to the face of finish, not to structure or gridline.
+
+- Decide the deduction rule once — casework, millwork bases, columns, floor-mounted equipment — and write it down.
+
+- Keep rooms separate rather than summing to a floor total. You'll need them again when the schedule changes.
+
+- Separate levels, and on repetitive residential separate suites, corridors and amenity.
+
+## Roll goods and modular tile are different problems
+
+Broadloom and sheet vinyl are governed by roll width and seam layout, not just area. Carpet tile and LVT are area plus pattern. Treating them identically is how material orders come up short.
+
+- Keep roll goods in their own section, with room dimensions preserved so a cut plan can be worked out.
+
+- Note seam-sensitive areas — corridors, long open spans, anywhere the seam layout drives the order.
+
+- Record roll width if the spec or the supplier fixes it.
+
+- Welded seams in sheet vinyl are lineal footage with labour attached, common in institutional work.
+
+## Have you recorded pattern and direction?
+
+Pattern changes what you buy over the same square footage, and it's set in the spec or on the finish plan rather than being an installer's choice.
+
+- Carpet tile lay: quarter-turn, monolithic, ashlar, brick.
+
+- Plank direction for LVT and LVP, and whether it changes between spaces.
+
+- Herringbone, chevron and any feature pattern, which carry materially different cutting.
+
+- Tile layout and setting-out points, where the drawings dictate them.
+
+- Directional or dye-lot-sensitive material, which affects how it must be ordered.
+
+## Transitions, base and the edges where the money is
+
+The single most common flooring undercount: transitions counted per door leaf. Transitions happen wherever two finishes meet, and on an open plan a lot of those junctions have no door anywhere near them.
+
+- Count transitions by condition, not by door — open-plan boundaries, corridor edges, thresholds without doors.
+
+- Identify the profile for each condition: reducer, T-moulding, carpet-to-tile, metal edge, threshold.
+
+- Base off the room perimeter net of openings, by finish type and height.
+
+- Base switches where the floor finish switches — tile base in wet areas, rubber elsewhere. Match them deliberately.
+
+- Coved base is a different product and a different rate from straight base.
+
+## Stair components
+
+Stairs are counted as components, never as "a stair". Each piece carries its own material and its own install rate.
+
+- Treads and risers counted each, by material.
+
+- Nosings in lineal feet, including any tactile or contrasting insert.
+
+- Stringers in lineal feet where they're finished.
+
+- Landings in area, with their own finish and base.
+
+## Moisture mitigation, levelling and the substrate
+
+This is where flooring bids are won and lost, and none of it is on the finish schedule. It's in the Division 09 specification and the existing-conditions notes.
+
+- Find the moisture testing requirement and read what it triggers. "Mitigation where relative humidity exceeds the manufacturer's limit" is an open allowance with your name on it.
+
+- Quantify the slab areas it could apply to — slab-on-grade first, then suspended slabs — and qualify a square footage rather than carrying the whole floor plate.
+
+- Floor preparation: levelling, grinding, patching. On a renovation over an existing slab this is often the largest single variable in the bid.
+
+- Flatness tolerance, which the spec may set higher than the concrete sub was required to deliver — that gap is yours unless you qualify it.
+
+- Crack isolation and uncoupling membrane under tile.
+
+- Waterproofing membrane in wet areas, including the upturns at walls and curbs from the details, not just the flat area.
+
+- Acoustic underlay by assembly, which in multifamily is driven by the acoustic report rather than the finish schedule.
+
+## How should waste be handled?
+
+Stated, never buried. Measured quantities should be net, with waste listed separately per material so you can apply your own figures.
+
+The right allowance is not a universal number and anyone quoting you one without seeing the job is guessing. It depends on the material and how it cuts, the pattern and direction, room shapes and how much cutting the plan forces, roll width and seam layout for roll goods, dye lot and attic stock requirements in the spec, and your own crews' habits. Two estimators can be equally competent and land in different places on the same job — which is exactly why the number belongs in the open where you can change it.
+
+- Keep measured quantities net.
+
+- State waste per material on the assumptions page, as its own column or line.
+
+- Check the spec for attic stock, which is extra material on top of waste and is easy to miss entirely.
+
+- Never accept a takeoff with waste baked in. If you can't see the allowance, you can't check it and you can't change it.
+
+## The items that may not be yours
+
+- Recessed entrance matting. Often Division 12, with the frame supplied by someone else and the recess formed by the concrete trade. Name the division before quoting.
+
+- Demolition of existing finishes on tenant improvement work — sometimes yours, sometimes the general contractor's.
+
+- Sealers and finishes on polished concrete, which may sit with the concrete trade.
+
+- Protection of finished floors after installation, which the spec sometimes assigns and sometimes doesn't.
+
+## Before you submit
+
+- Does every room trace to a finish code and a measured area?
+
+- Is the schedule-versus-plan conflict list in the bid?
+
+- Is the moisture mitigation position stated as a quantity, not left open?
+
+- Is waste visible and stated per material?
+
+- Is the deduction rule written down and applied everywhere?
+
+- Are exclusions itemized rather than covered by a blanket qualification?
+
+If you'd rather have someone else run this list against your set: flooring takeoffs start at $450, next business day, with a fixed price back within 4 business hours. The sample workbook on that page is a flooring takeoff, so you can see the format before sending anything. More scope gaps are in our bid traps list.
+
+Send drawings — fixed quote in 4 hrs
+Flooring takeoff services
+Pricing
+
+========================================================================
+SOURCE: https://sharpbid.ca/guides/outsourcing-takeoffs-vs-in-house-estimator
+TITLE: Outsourcing Takeoffs vs In-House Estimator | SharpBid
+========================================================================
+
+GUIDE · DECISION
+
+# Outsourcing takeoffs vs an in-house estimator
+
+We sell outsourced takeoffs, so treat this with appropriate suspicion. It's still worth writing honestly, because the cases where hiring wins are real and pretending otherwise would waste your time and ours.
+
+Guide · Published 19 September 2026 · SharpBid Estimating
+
+## Which is right for a specialty subcontractor?
+
+It depends almost entirely on bid volume and how evenly that volume arrives. Steady, high, predictable volume favours hiring. Lumpy volume with sharp peaks favours outsourcing. Most specialty subs sit somewhere in between and end up doing both.
+
+The framing that leads people wrong is treating it as a cost comparison. A salaried estimator and a per-job takeoff are different shapes of cost, not different prices for the same thing — one is fixed and one is variable, and which shape suits you is a question about your pipeline, not your rate card.
+
+## What does the volume question actually look like?
+
+Count the takeoffs you'd want done in a year, not the bids you submitted — those are different numbers, and the gap between them is the interesting part. The bids you didn't submit because nobody had time are the hidden cost of your current arrangement.
+
+- Low and irregular volume. A handful of takeoffs a month with quiet stretches. A full-time hire is idle capacity you pay for in the quiet months; per-job pricing costs nothing when nothing is bidding.
+
+- Steady, high volume. Consistent work every week, all year. This is where hiring makes sense — a permanent estimator absorbs an unlimited number of takeoffs at a fixed cost, and the marginal takeoff is effectively free.
+
+- Lumpy volume with sharp peaks. The common case. Sized for the peak, you're overstaffed most of the year; sized for the average, you no-bid during the peak. A retainer plus in-house capacity handles the shape better than either alone.
+
+## The peak bid period is the real problem
+
+Most subs don't lose work because they lack an estimator. They lose it because four bids close in the same week and one person can only do two properly.
+
+What happens then is worse than a no-bid. The third and fourth takeoffs get rushed: the finish schedule doesn't get reconciled against the plan tags, the structural general notes don't get read, the interior elevations get skipped so the backing never gets counted. You submit numbers you don't trust, and you either lose on price or win on a mistake. Winning on a mistake is the expensive outcome.
+
+Overflow capacity is the specific thing outsourcing buys. A retainer that includes a set number of takeoffs plus priority in the queue is bought for the four weeks a year when it decides whether three bids go out or two.
+
+## What does a missed scope actually cost?
+
+This is the number that settles most of the argument, and almost nobody calculates it.
+
+Work it out on your own last big job. Take the contract value and your expected margin — the margin is the number that's actually at risk, not the contract. Then take one realistic miss: head-of-wall deflection on every partition, backing nobody counted, moisture mitigation carried as an open allowance, the spandrel that was on the elevations and not in the glass schedule.
+
+On most specialty packages, a single missed condition consumes a meaningful fraction of the margin on that job, and sometimes all of it. Against that, a $450 to $900 takeoff is a rounding error. The question was never whether you can afford the takeoff — it's whether the takeoff changes the probability of the miss. If it does, it pays for itself many times over; if it doesn't, it's not worth $450 either.
+
+## Quality control: who checks the work?
+
+A genuine advantage of an in-house estimator that outsourcing has to work to match: they know your crews, your production rates, your suppliers and which conditions have burned you before. That knowledge compounds and it doesn't transfer easily.
+
+What outsourcing can offer instead is traceability. Every quantity should trace to a sheet and a marked-up area so you can check any line in minutes. The basis of measurement and the deduction rule should be written down. Waste should be stated separately so you can substitute your own figures. Drawing conflicts should be listed with their sheet numbers rather than silently resolved.
+
+Those are things you can verify on the first job, which is the practical answer: send one takeoff, check it line by line against the drawings, and decide. A provider who can't be checked that way is the wrong provider regardless of price.
+
+- Who is actually measuring? Senior estimator or a junior working from a template? On a high-volume offshore service, the person on your job likely rotates.
+
+- Can you check any line against a sheet and a marked-up area, in minutes?
+
+- Is the basis of measurement written down, and the same everywhere in the workbook?
+
+- Is waste visible and separate from the measured quantity?
+
+- Are drawing conflicts reported rather than resolved on your behalf?
+
+## What about confidentiality?
+
+A real concern and worth asking about directly. You're handing over drawings that may be under an agreement with the general contractor, and on a competitive package you may be handing them to someone who also works for your competitors.
+
+Ask three questions: does the work stay with one person or get distributed, are client drawings and quantities ever shared or reused, and will they sign your confidentiality agreement. An in-house estimator sits inside your existing obligations, which is a genuine structural advantage — matching it requires an explicit commitment rather than an assumption.
+
+Our position, for what it's worth: work stays with one estimator, nothing is farmed out or offshored, client drawings and numbers are never shared or reused, and the sample workbook on this site is a fictitious project for exactly that reason. Showing a real client's file to sell work would tell you everything about how yours would be treated. More on that on the about page.
+
+## When is hiring genuinely the better answer?
+
+Four cases, plainly:
+
+- Your volume is high and steady all year. At real volume the marginal takeoff on salary approaches zero. Nobody beats that on unit cost.
+
+- Your work is highly repetitive. Prototype buildings and repeat clients mean institutional knowledge compounds fast, and an outsider re-learns the same building every time.
+
+- You need estimating, not just takeoffs. Pricing strategy, supplier negotiation, sitting in scope meetings, carrying the number through to award — that's a role, not a deliverable.
+
+- Your drawings genuinely can't leave the building. Rare, but it exists on some secure and government work, and it settles the question.
+
+## When is outsourcing the better answer?
+
+- You're turning down bids. The strongest case there is. A takeoff you can't get to is revenue you didn't compete for.
+
+- Your volume is seasonal or lumpy. Variable cost fits variable work; a salary doesn't shrink in a quiet quarter.
+
+- You can't hire. Experienced estimators are hard to find, and a junior needs supervision from the person who is already the bottleneck.
+
+- You want a second set of eyes on a big bid. An independent remeasure before submitting is cheap relative to what's at stake.
+
+- You're entering unfamiliar territory — a new trade, a new building type, a new province — where your own production instincts don't yet apply.
+
+## The arrangement most subs actually land on
+
+Not either-or. In-house capacity handles the routine work and everything requiring relationship and judgement; outsourced takeoffs absorb peaks, unfamiliar scopes and the bids that would otherwise be declined. The estimator stops being the bottleneck and starts being the person who decides what to bid and how to price it.
+
+That's also the honest case for a retainer over per-job work. Per-job suits occasional overflow. A retainer — ours start at $1,500 a month with included takeoffs and priority queue — suits a business that has decided to stop declining bids, because the capacity is there before the week gets bad rather than after.
+
+## How to test it without committing
+
+Send one job. Pick a real bid with a real deadline, not a test case — a test case tells you nothing about how someone performs under a clock. Then check the result line by line against the drawings, look at whether the assumptions page names the conflicts you'd have found yourself, and see whether it arrived on the date promised.
+
+One takeoff is enough to answer the question, and it costs less than a day of the argument. Ours start at $450 with a fixed price back within 4 business hours and an on-time-or-50%-off guarantee — the full schedule is on the pricing page, and what that costs across the industry is covered in what a construction takeoff costs in Canada.
+
+Send one job — fixed quote in 4 hrs
+See the schedule
+How we work
+

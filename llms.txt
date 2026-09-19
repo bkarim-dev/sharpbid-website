@@ -109,6 +109,26 @@ Deliverables open anywhere — no special software needed at the client's end.
 - Concrete & formwork takeoffs — https://sharpbid.ca/concrete-formwork-takeoffs
 - Framing takeoffs — https://sharpbid.ca/framing-takeoffs
 
-The provincial pages, pricing, bid leveling, about, guides and bid traps are
-being published and will be listed here and in https://sharpbid.ca/sitemap.xml
-as they go live.
+Regions:
+
+- Takeoff services in British Columbia — https://sharpbid.ca/takeoff-services-british-columbia
+- Takeoff services in Alberta — https://sharpbid.ca/takeoff-services-alberta
+- Takeoff services in Ontario — https://sharpbid.ca/takeoff-services-ontario
+
+Services and reference:
+
+- Takeoff pricing, full published schedule — https://sharpbid.ca/pricing
+- Bid leveling & scope-gap analysis — https://sharpbid.ca/bid-leveling
+- About SharpBid — https://sharpbid.ca/about
+- Bid traps: 12 scope gaps by trade — https://sharpbid.ca/bid-traps
+
+Guides:
+
+- Estimating guides index — https://sharpbid.ca/guides
+- What a construction takeoff costs in Canada — https://sharpbid.ca/guides/construction-takeoff-cost-canada
+- Drywall takeoff checklist — https://sharpbid.ca/guides/drywall-takeoff-checklist
+- Flooring takeoff checklist — https://sharpbid.ca/guides/flooring-takeoff-checklist
+- Outsourcing takeoffs vs an in-house estimator — https://sharpbid.ca/guides/outsourcing-takeoffs-vs-in-house-estimator
+
+Full plain-text content of these pages: https://sharpbid.ca/llms-full.txt
+Sitemap: https://sharpbid.ca/sitemap.xml

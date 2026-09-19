@@ -10,20 +10,7 @@ const SITE = "https://sharpbid.ca";
 
 /* Pages on the v4 roadmap that later phases publish. Links to these are
    reported as PENDING, not broken. This list must be empty before launch. */
-const PENDING = new Set([
-  "/takeoff-services-british-columbia",
-  "/takeoff-services-alberta",
-  "/takeoff-services-ontario",
-  "/pricing",
-  "/bid-leveling",
-  "/about",
-  "/guides",
-  "/guides/construction-takeoff-cost-canada",
-  "/guides/drywall-takeoff-checklist",
-  "/guides/flooring-takeoff-checklist",
-  "/guides/outsourcing-takeoffs-vs-in-house-estimator",
-  "/bid-traps",
-]);
+const PENDING = new Set([]);
 
 function walk(dir, acc) {
   acc = acc || [];
