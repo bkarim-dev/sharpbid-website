@@ -141,10 +141,13 @@
     var CFG = {
       flooring: { base: 450, incl: 15000, per: 0.012, label: "Flooring / Div 09" },
       drywall:  { base: 450, incl: 8000,  per: 0.020, label: "Drywall & steel stud" },
-      glazing:  { base: 900, incl: 10000, per: 0.030, label: "Glazing / envelope" },
-      metals:   { base: 600, incl: 10000, per: 0.012, label: "Misc metals / Div 05" },
+      acoustic: { base: 450, incl: 8000,  per: 0.020, label: "Acoustic ceilings (ACT)" },
       painting: { base: 450, incl: 10000, per: 0.014, label: "Painting" },
-      concrete: { base: 500, incl: 5000,  per: 0.020, label: "Concrete / formwork", note: "(low-rise scope)" }
+      glazing:  { base: 900, incl: 10000, per: 0.030, label: "Glazing / Div 08" },
+      roofing:  { base: 600, incl: 10000, per: 0.012, label: "Roofing & building envelope" },
+      metals:   { base: 600, incl: 10000, per: 0.012, label: "Misc metals / Div 05" },
+      concrete: { base: 500, incl: 5000,  per: 0.020, label: "Concrete / formwork", note: "(low-rise scope)" },
+      framing:  { base: 600, incl: 10000, per: 0.012, label: "Framing / wood-frame", note: "(wall & sheathing areas)" }
     };
     var trade = "flooring";
     var range = document.getElementById("sfRange");

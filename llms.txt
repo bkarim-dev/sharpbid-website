@@ -1,0 +1,105 @@
+# SharpBid Estimating
+
+> Construction quantity takeoffs and estimating support for specialty
+> subcontractors. Based in Metro Vancouver (Vancouver, BC), serving
+> subcontractors across Canada. All work is digital.
+
+## What we do
+
+SharpBid measures quantities off construction drawings so a specialty
+subcontractor can price the work with their own unit rates. We count; you
+price. We do not sell a pricing database and we do not bid work ourselves.
+
+Behind the work: 15+ years of senior estimating experience on Metro Vancouver
+multifamily, mixed-use and commercial projects, both wood-frame and concrete.
+No juniors, nothing farmed out. CCDC-fluent.
+
+## Trades covered
+
+- Drywall & steel stud takeoffs — https://sharpbid.ca/drywall-steel-stud-takeoffs
+- Flooring takeoffs — https://sharpbid.ca/flooring-takeoffs
+- Painting takeoffs — https://sharpbid.ca/painting-takeoffs
+- Glazing takeoffs (curtain wall, storefront, windows) — https://sharpbid.ca/glazing-takeoffs
+- Misc metals takeoffs (Div 05) — https://sharpbid.ca/misc-metals-takeoffs
+- Concrete & formwork takeoffs (low-rise / small site) — https://sharpbid.ca/concrete-formwork-takeoffs
+
+Coverage spans most CSI MasterFormat divisions.
+
+## What we do not do
+
+- Mechanical and electrical (no Div 21–28 MEP) — this is excluded, not "on request".
+- We do not price the work by default. Price placeholders are an optional add-on.
+
+## Service area
+
+Vancouver, BC is home base. Work is delivered digitally to subcontractors
+anywhere in Canada — drawings link in, workbook comes back.
+
+## Turnaround
+
+- Fixed written quote within 4 business hours of receiving drawings.
+- Single-trade takeoffs: next business day standard.
+- Same-day rush: +50%.
+- One revision round and bid-period addenda are included.
+
+## Guarantee
+
+On time or 50% off. Addenda that change scope reset the delivery date in
+writing.
+
+## Deliverable
+
+Every takeoff arrives as:
+
+1. An Excel quantity workbook, organized to CSI MasterFormat or the client's
+   own cost codes.
+2. Colour-coded marked-up PDF plans, measured in On-Screen Takeoff and
+   Bluebeam Revu.
+3. An assumptions & exclusions page.
+
+Optional add-ons: price placeholders (+15%), quote template (+$150).
+
+A downloadable sample workbook (a fictitious 3-storey office TI) is at
+https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx
+
+Takeoffs are delivered in the units the client bids in — metric or imperial.
+
+## Pricing (starting prices, CAD)
+
+- Single-trade finish takeoff (flooring, painting, drywall & steel stud): $450
+- Acoustic ceiling (ACT) takeoff: $450
+- Concrete & formwork, low-rise / small site: $500
+- Misc metals / Div 05: $600
+- Roofing & building envelope: $600
+- Framing — wall & sheathing areas: $600
+- Glazing & envelope: $900
+- Bid leveling / scope-gap analysis: $600
+- Framing — full lumber breakdown: $1,500 (quoted per project)
+- Change-order & claim quantity checks: $150/hr, 3-hour minimum
+- Minimum engagement: $450
+- Retainers: from $1,500/month
+
+## Tools
+
+On-Screen Takeoff and Bluebeam Revu for measurement. Excel for the workbook.
+Deliverables open anywhere — no special software needed at the client's end.
+
+## Contact
+
+- Email: info@sharpbid.ca
+- Phone: (604) 245-4344
+- LinkedIn: https://www.linkedin.com/company/sharpbid-estimating
+
+## Key pages
+
+- Home — https://sharpbid.ca/
+- Drywall & steel stud takeoffs — https://sharpbid.ca/drywall-steel-stud-takeoffs
+- Flooring takeoffs — https://sharpbid.ca/flooring-takeoffs
+- Painting takeoffs — https://sharpbid.ca/painting-takeoffs
+- Glazing takeoffs — https://sharpbid.ca/glazing-takeoffs
+- Misc metals takeoffs — https://sharpbid.ca/misc-metals-takeoffs
+- Concrete & formwork takeoffs — https://sharpbid.ca/concrete-formwork-takeoffs
+
+Further pages (acoustic ceilings, roofing & envelope, framing, the provincial
+pages, pricing, bid leveling, about, guides and bid traps) are being published
+and will be listed here and in https://sharpbid.ca/sitemap.xml as they go live.

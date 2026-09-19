@@ -22,6 +22,9 @@
   --t-metals: #E0701F;
   --t-painting: #C94B9B;
   --t-concrete: #74838F;
+  --t-acoustic: #6E5BD0;
+  --t-roofing: #B4342B;
+  --t-framing: #8A6A3B;
 
   --font-display: "Big Shoulders", "Big Shoulders Display", "Arial Narrow", sans-serif;
   --font-body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
@@ -768,3 +771,142 @@ input[type="range"]::-moz-range-thumb { width: 24px; height: 24px; background: v
   .tile.t-big, .tile.t-plan, .tile.t-dl { grid-column: span 2; }
   .bigstats { grid-template-columns: 1fr 1fr; }
 }
+
+/* ============================================================
+   V4 ADDITIONS — SEO structure: hero H1 + display headline,
+   breadcrumbs, region cards, footer title block (5 columns)
+   ============================================================ */
+
+/* hero: the H1 carries the search term, the display line carries the voice */
+.hero-h1 {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 14px;
+  max-width: 46ch;
+  line-height: 1.5;
+}
+.hero-display {
+  font-family: var(--font-display);
+  font-size: clamp(44px, 7.2vw, 84px);
+  font-weight: 800;
+  line-height: 1.02;
+  letter-spacing: 0.005em;
+  text-transform: uppercase;
+  margin-bottom: 22px;
+}
+
+/* breadcrumb — every non-home page */
+.crumbs {
+  border-bottom: 1px solid var(--line);
+  background: var(--sheet);
+}
+.crumbs ol {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 11px 24px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.crumbs li { display: flex; align-items: center; gap: 8px; }
+.crumbs li + li::before { content: "›"; color: var(--line); }
+.crumbs a { color: var(--ink-soft); text-decoration: none; }
+.crumbs a:hover { color: var(--ink); border-bottom: 2px solid var(--hilite); }
+.crumbs [aria-current="page"] { color: var(--ink); }
+
+/* where we work */
+.regions { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin-top: 34px; }
+.region-card {
+  display: block;
+  text-decoration: none;
+  border: 1.5px solid var(--ink);
+  background: var(--sheet);
+  padding: 22px 22px 20px;
+  transition: transform 0.14s ease, box-shadow 0.14s ease;
+}
+.region-card:hover { transform: translate(-3px, -3px); box-shadow: 5px 5px 0 var(--hilite); }
+.region-card .code {
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  display: block;
+  margin-bottom: 8px;
+}
+.region-card h3 { margin-bottom: 8px; }
+.region-card p { font-size: 14.5px; color: var(--ink-soft); }
+.region-foot { margin-top: 22px; font-family: var(--font-mono); font-size: 13.5px; color: var(--ink-soft); }
+
+/* resource teasers — guides + bid traps */
+.teasers { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 34px; }
+.teaser {
+  display: block;
+  text-decoration: none;
+  border: 1.5px solid var(--ink);
+  background: var(--sheet);
+  border-left-width: 8px;
+  padding: 24px 24px 22px;
+  transition: transform 0.14s ease, box-shadow 0.14s ease;
+}
+.teaser:hover { transform: translate(-3px, -3px); box-shadow: 5px 5px 0 var(--ink); }
+.teaser h3 { margin-bottom: 10px; }
+.teaser p { font-size: 14.5px; color: var(--ink-soft); margin-bottom: 14px; }
+.teaser .go { font-family: var(--font-mono); font-size: 13px; font-weight: 500; }
+.teaser .go::after { content: " →"; }
+
+/* footer title block — 5 columns in v4 */
+.tblock { grid-template-columns: 1.25fr 1fr 1fr 1fr 0.9fr; }
+.tblock h4.h4-gap { margin-top: 22px; }
+.foot-name { font-family: var(--font-display); font-size: 22px; font-weight: 800; text-transform: uppercase; }
+.foot-nap { font-size: 13.5px; color: var(--ink-soft); margin-top: 8px; }
+.foot-nap a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--line); }
+.foot-nap a:hover { color: var(--ink); }
+.foot-blurb { font-size: 13.5px; color: var(--ink-soft); margin-top: 10px; }
+
+/* related-trade links on trade + region pages */
+.related { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 26px; }
+.related a {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  text-decoration: none;
+  border: 1.5px solid var(--ink);
+  background: var(--sheet);
+  border-left-width: 7px;
+  padding: 9px 14px;
+}
+.related a:hover { background: var(--hilite); }
+
+/* 404 */
+.notfound { padding: 96px 0 84px; text-align: left; }
+.notfound .big { font-family: var(--font-display); font-size: clamp(90px, 18vw, 190px); font-weight: 800; line-height: 0.9; color: var(--hilite); -webkit-text-stroke: 2px var(--ink); }
+
+/* tables never push the page sideways */
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+@media (max-width: 960px) {
+  .tblock { grid-template-columns: 1fr 1fr; }
+  .regions { grid-template-columns: 1fr; }
+  .teasers { grid-template-columns: 1fr; }
+}
+@media (max-width: 680px) {
+  .hero-h1 { font-size: 12px; letter-spacing: 0.12em; }
+  .crumbs ol { font-size: 11px; }
+}
+
+/* the sample workbook table scrolls inside its tile on small screens.
+   grid/flex children need min-width:0 or they refuse to shrink. */
+.bento .tile, .tile > * { min-width: 0; }
+.tile .table-scroll { max-width: 100%; }
+.tile .mocktab { min-width: 340px; }

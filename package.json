@@ -1,8 +1,15 @@
 {
   "name": "sharpbid-website",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "private": true,
   "scripts": {
-    "build": "rm -rf build && mkdir build && cp -r assets downloads index.html flooring-takeoffs.html drywall-steel-stud-takeoffs.html glazing-takeoffs.html misc-metals-takeoffs.html painting-takeoffs.html concrete-formwork-takeoffs.html favicon.ico logo192.png logo512.png robots.txt sitemap.xml build/"
+    "sync": "node tools/sync-partials.js",
+    "llms": "node tools/make-llms-full.js",
+    "og": "node tools/make-og.js",
+    "prebuild": "npm run sync && npm run llms",
+    "build": "node tools/build.js",
+    "check": "node tools/check-links.js && node tools/audit.js",
+    "serve": "npx serve build",
+    "verify": "npm run build && npm run check"
   }
 }

@@ -1,0 +1,411 @@
+# SharpBid Estimating — full page text
+
+Plain-text content of the SharpBid trade and pricing pages, for machine
+reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-09-19.
+
+Contact: info@sharpbid.ca · (604) 245-4344 · https://sharpbid.ca
+
+========================================================================
+SOURCE: https://sharpbid.ca/drywall-steel-stud-takeoffs
+TITLE: Drywall & Steel Stud Takeoff Services in Canada | SharpBid
+========================================================================
+
+DIV 09 · PARTITIONS / CEILINGS / FRAMING
+
+# Drywall & steel stud takeoffs by type mark
+
+Partitions quantified assembly by assembly — gauges, spacing, layers and ratings separated — so your labour pricing reflects exactly what your crews will build.
+
+On time or 50% off ✓Single-trade takeoffs from $450 · next business day
+
+Send drawings — quote in 4 hrs
+Full pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat gets countedEvery line traceable
+
+## On the takeoff
+
+- Partition SF by wall type mark — stud gauge, spacing, layers, ratings
+
+- Track and framing LF by partition type
+
+- Head-of-wall and deflection conditions separated out
+
+- GWB and specialty ceilings SF; bulkheads and dropped soffits LF
+
+- Acoustic and thermal insulation SF by type
+
+- Shaftwall and area separation assemblies SF
+
+- Corner bead, trims and reveals LF
+
+- Backing and blocking LF flagged from interior elevations
+
+- Fire-rated assemblies identified by rating for your qualifications
+
+DELIVHow it arrives
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes.
+
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+
+- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+
+- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+
+FAQTrade-specific
+
+**Q: Do you split labour-driving items from board count?**
+
+Yes — framing, board, insulation and finishing quantities are separated so you can apply different labour rates to each, instead of pricing everything off one blended SF number.
+
+**Q: What about mid-rise and high-rise repetition?**
+
+Typical floors are measured once and extended with a clear multiplier logic shown in the workbook — you see exactly which levels were counted and which were extended.
+
+**Q: How do I start?**
+
+Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+
+Get a fixed quote
+All trades
+
+========================================================================
+SOURCE: https://sharpbid.ca/flooring-takeoffs
+TITLE: Flooring Takeoff Services in Canada | SharpBid
+========================================================================
+
+DIV 09 · RESILIENT / CARPET / TILE / BASE
+
+# Flooring takeoffs, counted the way you bid
+
+Every finish type measured room by room against the finish schedule — so you can drop in your unit rates and submit with confidence. Measured in On-Screen Takeoff and Bluebeam by a 15-year estimator.
+
+On time or 50% off ✓Single-trade takeoffs from $450 · next business day
+
+Send drawings — quote in 4 hrs
+Full pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat gets countedEvery line traceable
+
+## On the takeoff
+
+- Resilient flooring (LVT / VCT / sheet) SF by room and spec type
+
+- Carpet tile and broadloom SF, with direction and pattern noted
+
+- Floor and wall tile SF by size and setting method
+
+- Wall base LF by type and height
+
+- Transitions and edge trims LF by condition
+
+- Moisture mitigation and self-leveling SF where the spec calls it
+
+- Stair treads, risers and nosings — each and LF
+
+- Waste factors stated per material — on the page, not buried
+
+DELIVHow it arrives
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes.
+
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+
+- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+
+- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+
+FAQTrade-specific
+
+**Q: Do you follow the finish schedule or the plans?**
+
+Both — quantities are measured from the plans and reconciled against the finish schedule and finish legend. Conflicts between the two are flagged on the assumptions page so you can qualify your bid instead of eating the difference.
+
+**Q: Can you match my bid structure?**
+
+Yes. The workbook is organized to CSI MasterFormat by default, or to your own cost codes and room/area breakdown — whatever your crews and suppliers price from.
+
+**Q: How do I start?**
+
+Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+
+Get a fixed quote
+All trades
+
+========================================================================
+SOURCE: https://sharpbid.ca/painting-takeoffs
+TITLE: Painting Takeoff Services in Canada | SharpBid
+========================================================================
+
+DIV 09 · PAINTING & COATINGS
+
+# Painting takeoffs by substrate and system
+
+Surface areas measured by substrate and mapped to the spec's finish systems — so every SF in your bid carries the right prep, primer and coat count.
+
+On time or 50% off ✓Single-trade takeoffs from $450 · next business day
+
+Send drawings — quote in 4 hrs
+Full pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat gets countedEvery line traceable
+
+## On the takeoff
+
+- Wall SF by substrate and finish system, mapped to spec sections
+
+- Ceiling SF by system, separated from walls
+
+- Doors and frames counted each, by paint system — sides counted
+
+- Exposed structure and deck SF where specified
+
+- Epoxy and high-performance coating SF separated
+
+- Block filler and sealer areas identified
+
+- Touch-up and site-painted vs. pre-finished scope flagged
+
+DELIVHow it arrives
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes.
+
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+
+- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+
+- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+
+FAQTrade-specific
+
+**Q: How do you handle spec-to-drawing conflicts?**
+
+The room finish schedule, the painting spec and the drawings are reconciled — where they disagree, the conflict is flagged so you can qualify it rather than absorb it.
+
+**Q: Do you count repaint / occupied work differently?**
+
+Yes — repaint scope is measured with access and protection conditions noted, since your production rates depend on them.
+
+**Q: How do I start?**
+
+Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+
+Get a fixed quote
+All trades
+
+========================================================================
+SOURCE: https://sharpbid.ca/glazing-takeoffs
+TITLE: Glazing & Curtain Wall Takeoff Services | SharpBid
+========================================================================
+
+DIV 08 · CURTAIN WALL / STOREFRONT / WINDOWS
+
+# Glazing takeoffs by elevation and type mark
+
+Curtain wall, storefront and windows measured against the elevations and schedules — with glass makeups, framing and sealants separated so your fabrication and glass quotes line up with your bid.
+
+On time or 50% off ✓Glazing & envelope takeoffs from $900 · firm date with quote
+
+Send drawings — quote in 4 hrs
+Full pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat gets countedEvery line traceable
+
+## On the takeoff
+
+- Curtain wall SF by elevation and system type
+
+- Storefront and entrance systems SF; door leafs counted each
+
+- Windows by type mark — each, with rough opening dimensions
+
+- Glass types and IGU makeups SF, separated for your glass supplier
+
+- Aluminum framing LF and mullion counts
+
+- Spandrel, panel and louvre infills SF
+
+- Sealant joints LF by condition (perimeter, stack, control)
+
+- Interior glazing, sidelites and mirrors separated from envelope scope
+
+DELIVHow it arrives
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes.
+
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+
+- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+
+- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+
+FAQTrade-specific
+
+**Q: Why do glazing takeoffs start higher?**
+
+Envelope scope carries the most detail risk of any division — schedules, elevations, sections and specs all have to agree, and they often don't. The takeoff reconciles them and flags every conflict, which is exactly where bids are won or blown.
+
+**Q: Can you break out alternates?**
+
+Yes — alternate systems or glass makeups are quantified side by side so you can price options without redoing the count.
+
+**Q: How do I start?**
+
+Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+
+Get a fixed quote
+All trades
+
+========================================================================
+SOURCE: https://sharpbid.ca/misc-metals-takeoffs
+TITLE: Misc Metals Takeoff Services (Div 05) | SharpBid
+========================================================================
+
+DIV 05 · MISC & ORNAMENTAL METALS
+
+# Misc metals takeoffs, fabrication-ready
+
+Rails, stairs, lintels and embeds counted by detail number against both the architectural and structural sets — a quantity list your shop can fabricate from, not a lump-sum guess.
+
+On time or 50% off ✓Div 05 takeoffs from $600 · next business day
+
+Send drawings — quote in 4 hrs
+Full pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat gets countedEvery line traceable
+
+## On the takeoff
+
+- Guardrails and handrails LF by detail and mounting condition
+
+- Stairs broken out per flight — stringers, treads, landings
+
+- Ladders, gates and bollards counted each
+
+- Lintels and shelf angles LF by size and condition
+
+- Embeds and anchors counted each against the structural set
+
+- Miscellaneous supports and frames per detail sheets
+
+- Finish (galvanized / painted / stainless) separated per item
+
+DELIVHow it arrives
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes.
+
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+
+- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+
+- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+
+FAQTrade-specific
+
+**Q: Do you check both arch and structural sets?**
+
+Always — misc metals live in the gaps between the two. Items shown on one set and missing from the other are the classic scope trap, and they're flagged on the assumptions page.
+
+**Q: Can quantities be organized for shop estimating?**
+
+Yes — by detail number and assembly, so your shop can price material and fab hours item by item.
+
+**Q: How do I start?**
+
+Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+
+Get a fixed quote
+All trades
+
+========================================================================
+SOURCE: https://sharpbid.ca/concrete-formwork-takeoffs
+TITLE: Concrete & Formwork Takeoff Services | SharpBid
+========================================================================
+
+DIV 03 · LOW-RISE / SMALL SITES
+
+# Concrete & formwork takeoffs — low-rise, done right
+
+Volumes, contact areas and finishing measured element by element for low-rise buildings and small sites — footings to slabs — with a clear basis of measurement your crews can check.
+
+On time or 50% off ✓Concrete & formwork from $500 · scope confirmed with quote
+
+Send drawings — quote in 4 hrs
+Full pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat gets countedEvery line traceable
+
+## On the takeoff
+
+- Concrete volumes (m³) by element — footings, walls, columns, slabs, stairs
+
+- Formwork contact area SF by element type
+
+- Slab-on-grade SF with thickness and reinforcing basis noted
+
+- Finishing SF by spec — trowel, broom, cure and seal
+
+- Control and construction joints LF
+
+- Anchor bolts and embeds counted each
+
+- Rebar carried as supplier-quote allowance — clearly stated
+
+DELIVHow it arrives
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes.
+
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+
+- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+
+- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+
+FAQTrade-specific
+
+**Q: Do you take off high-rise concrete?**
+
+SharpBid focuses on low-rise and small-site concrete scopes — the work where a fast, senior takeoff changes your bid. Full high-rise structural takeoffs are quoted case by case and only when the timeline supports doing them properly.
+
+**Q: Is rebar included?**
+
+Rebar detailing is carried as a supplier-quote allowance and stated plainly on the assumptions page — you get accurate concrete and formwork numbers without paying for detailing you'd source elsewhere anyway.
+
+**Q: How do I start?**
+
+Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+
+Get a fixed quote
+All trades
+
