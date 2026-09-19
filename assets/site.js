@@ -146,7 +146,7 @@
       glazing:  { base: 900, incl: 10000, per: 0.030, label: "Glazing / Div 08" },
       roofing:  { base: 600, incl: 10000, per: 0.012, label: "Roofing & building envelope" },
       metals:   { base: 600, incl: 10000, per: 0.012, label: "Misc metals / Div 05" },
-      concrete: { base: 500, incl: 5000,  per: 0.020, label: "Concrete / formwork", note: "(low-rise scope)" },
+      concrete: { base: 500, incl: 5000,  per: 0.020, label: "Concrete / formwork", note: "(low-rise / small site \u2014 high-rise quoted per project)" },
       framing:  { base: 600, incl: 10000, per: 0.012, label: "Framing / wood-frame", note: "(wall & sheathing areas)" }
     };
     var trade = "flooring";

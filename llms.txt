@@ -23,7 +23,7 @@ No juniors, nothing farmed out. CCDC-fluent.
 - Glazing takeoffs, Div 08 only: curtain wall, storefront, windows, glass — https://sharpbid.ca/glazing-takeoffs
 - Roofing & building envelope takeoffs: roofing, cladding, insulation, air/vapour barrier, rainscreen — https://sharpbid.ca/roofing-envelope-takeoffs
 - Misc metals takeoffs (Div 05) — https://sharpbid.ca/misc-metals-takeoffs
-- Concrete & formwork takeoffs (low-rise / small site only) — https://sharpbid.ca/concrete-formwork-takeoffs
+- Concrete & formwork takeoffs, foundations through high-rise cast-in-place — https://sharpbid.ca/concrete-formwork-takeoffs
 - Wood-frame framing takeoffs, in two tiers — https://sharpbid.ca/framing-takeoffs
 
 Coverage spans most CSI MasterFormat divisions.
@@ -31,7 +31,6 @@ Coverage spans most CSI MasterFormat divisions.
 ## What we do not do
 
 - Mechanical and electrical (no Div 21–28 MEP) — this is excluded, not "on request".
-- High-rise cast-in-place concrete cycle work. Concrete is low-rise and small-site only.
 - Engineering: structural design, member sizing, thermal modelling, connection design,
   shop drawings. Those are not takeoffs.
 - We do not price the work by default. Price placeholders are an optional add-on.
@@ -75,6 +74,7 @@ Takeoffs are delivered in the units the client bids in — metric or imperial.
 - Single-trade finish takeoff (flooring, painting, drywall & steel stud): $450
 - Acoustic ceiling (ACT) takeoff: $450
 - Concrete & formwork, low-rise / small site: $500
+- Concrete & formwork, high-rise cast-in-place: quoted per project (needs lead time)
 - Misc metals / Div 05: $600
 - Roofing & building envelope: $600
 - Framing — wall & sheathing areas: $600 (no lumber piece counts at this tier)

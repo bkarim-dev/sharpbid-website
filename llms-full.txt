@@ -1707,13 +1707,13 @@ SOURCE: https://sharpbid.ca/concrete-formwork-takeoffs
 TITLE: Concrete & Formwork Takeoff Services | SharpBid
 ========================================================================
 
-DIV 03 · LOW-RISE / SMALL SITES
+DIV 03 · CAST-IN-PLACE / FORMWORK
 
 # Concrete & formwork takeoff services
 
-We measure concrete by volume per element and formwork by contact area — the two numbers that price differently and get confused constantly — plus reinforcing, finishing, joints and embedded items. Scoped for low-rise and small-site work across Canada: from $500, on time or 50% off.
+We measure concrete by volume per element and formwork by contact area — the two numbers that price differently and get confused constantly — plus reinforcing, finishing, joints and embedded items. For concrete subcontractors across Canada: low-rise and small-site work from $500, high-rise cast-in-place quoted per project. On time or 50% off.
 
-From $500Firm date with the quoteFixed quote in 4 business hoursOn time or 50% off ✓
+From $500 · low-rise & small siteHigh-rise quoted per projectFixed quote in 4 business hoursOn time or 50% off ✓
 
 Send drawings — quote in 4 hrs
 Takeoff pricing
@@ -1807,6 +1807,12 @@ M-SHEETS
 
 Equipment bases and housekeeping pads are drawn on the mechanical sheets and poured by you. We read the M-sheets as part of the takeoff, count them each with volume attached, and note the equipment they serve.
 
+CYCLE
+
+### On a tower, the typical floor is measured once and extended visibly
+
+High-rise cast-in-place lives or dies on repetition. The typical floor is measured in full — volume, contact area by form condition, reinforcing and finish — then extended across the levels it applies to, with transfer slabs, mechanical levels and the podium measured on their own. The workbook shows which levels were measured and which were extended, so you can audit the multiplier instead of trusting it.
+
 UNITS
 
 ### Metric or imperial, whichever you bid in
@@ -1879,7 +1885,9 @@ TYPESProject types
 
 ## Project types we take off
 
-This scope is deliberately limited to low-rise and small-site concrete, where a senior read of the structural set changes the number. High-rise cast-in-place cycle work isn't offered.
+Low-rise and small-site work is the published tier at $500. High-rise cast-in-place is taken on as well, quoted per project — cycle forming needs realistic lead time, so send it early rather than the night before.
+
+- High-rise cast-in-placeCycle forming on a repetitive tower: typical floor measured once and extended visibly, contact area split by form condition, shoring and reshoring read off the sequence. Quoted per project, and it needs lead time.
 
 - Low-rise commercial and industrialFootings, grade beams, slab-on-grade, and site concrete with a straightforward pour sequence.
 
@@ -1897,7 +1905,7 @@ FAQConcrete takeoff questions
 
 **Q: How much does a concrete takeoff cost?**
 
-From $500 for low-rise and small-site scopes. What moves the fixed price is how many distinct elements the structural set carries, whether reinforcing is in scope, and the amount of site concrete. A written fixed quote comes back within 4 business hours of sending drawings. Full schedule on the takeoff pricing page.
+From $500 for low-rise and small-site scopes. What moves the fixed price is how many distinct elements the structural set carries, whether reinforcing is in scope, and the amount of site concrete. High-rise cast-in-place is quoted per project rather than off the schedule. A written fixed quote comes back within 4 business hours either way. Full schedule on the takeoff pricing page.
 
 **Q: How fast is it delivered?**
 
@@ -1905,7 +1913,7 @@ Every concrete set gets a firm delivery date with the fixed quote, sized to the 
 
 **Q: Do you take off high-rise cast-in-place work?**
 
-No. This scope is low-rise and small-site concrete — foundations, slab-on-grade, low-rise structure and site work. High-rise cycle forming is a specialist scope with its own production logic, and we'd rather say so than take it on badly. If you need it, we'll tell you straight away rather than after you've sent drawings.
+Yes — with the right lead time and priced per project rather than off the $500 schedule. Cycle forming has its own production logic: typical-floor repetition measured once and extended visibly, contact area separated by form condition, and the shoring and reshoring cycle read properly. That takes longer than a foundation package, so send the structural set early and say it's high-rise when you ask for the quote.
 
 **Q: Do you give formwork as contact area or as volume?**
 
@@ -1921,7 +1929,7 @@ The structural set including reinforcing and element schedules, the architectura
 
 **Q: What's excluded?**
 
-Pricing, unless you add price placeholders. High-rise cast-in-place work, as above. Shoring design, mix design and any structural engineering are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though blockouts and pads serving that equipment are counted. Over-pour and waste are stated separately rather than built into the volume.
+Pricing, unless you add price placeholders. Shoring design, mix design and any structural engineering are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though blockouts and pads serving that equipment are counted. Over-pour and waste are stated separately rather than built into the volume.
 
 NEXTRelated scopes & regions
 
@@ -2156,6 +2164,8 @@ Schedule of services — one-off takeoffs (CAD)
 
 | 3.0 | Concrete & formwork — low-rise / small site Volumes, contact area, finishing, joints | $500
 
+| 3.1 | Concrete & formwork — high-rise cast-in-place Cycle forming, typical-floor repetition, shoring and reshoring — quoted per project | On request
+
 | 4.0 | Misc metals / Div 05 takeoff Rails, stairs, lintels, embeds by detail | $600
 
 | 5.0 | Roofing & building envelope takeoff Roof assemblies, cladding, insulation, air/vapour barrier | $600
@@ -2284,7 +2294,7 @@ SHEET 05Cost questions
 
 **Q: How much does a construction takeoff cost in Canada?**
 
-At SharpBid, from $450 for a single-trade finish takeoff or acoustic ceilings, $500 for low-rise concrete and formwork, $600 for misc metals, roofing and envelope, or framing wall areas, and $900 for glazing. A full lumber breakdown starts at $1,500 and is quoted per project. Across the wider market, pricing models vary — per sheet, per square foot, hourly, or fixed — and published prices are rare, which is part of why the whole schedule is on this page.
+At SharpBid, from $450 for a single-trade finish takeoff or acoustic ceilings, $500 for low-rise concrete and formwork (high-rise cast-in-place quoted per project), $600 for misc metals, roofing and envelope, or framing wall areas, and $900 for glazing. A full lumber breakdown starts at $1,500 and is quoted per project. Across the wider market, pricing models vary — per sheet, per square foot, hourly, or fixed — and published prices are rare, which is part of why the whole schedule is on this page.
 
 **Q: Why is the $450 minimum there?**
 
@@ -2575,7 +2585,7 @@ TRADESAll nine, in a BC context
 
 - Misc metals takeoffsBalcony guards and exterior stairs on wood-frame, embeds coordinated to the pour on concrete.
 
-- Concrete & formwork takeoffsWood-frame foundations, parkade slabs and site concrete — low-rise and small-site scopes only.
+- Concrete & formwork takeoffsWood-frame foundations, parkade slabs and site concrete from $500; high-rise cast-in-place quoted per project.
 
 - Framing takeoffsSix-storey wood-frame wall and sheathing areas by floor, with shear wall hardware quantified at the full-breakdown tier.
 
@@ -2721,7 +2731,7 @@ TRADESAll nine, in an Alberta context
 
 - Misc metals takeoffsStair and guard packages repeated floor to floor, plus equipment dunnage off the mechanical sheets.
 
-- Concrete & formwork takeoffsWood-frame foundations, parkade slabs and site concrete — low-rise and small-site scopes only.
+- Concrete & formwork takeoffsWood-frame foundations, parkade slabs and site concrete from $500; high-rise cast-in-place quoted per project.
 
 - Framing takeoffsSix-storey wood-frame wall and sheathing areas by floor, with shear wall hardware at the full-breakdown tier.
 
@@ -2865,7 +2875,7 @@ TRADESAll nine, in an Ontario context
 
 - Misc metals takeoffsRepetitive stair and guard packages, hoistway steel, and embeds coordinated to the pour.
 
-- Concrete & formwork takeoffsFoundations, slab-on-grade and site concrete — low-rise and small-site scopes only.
+- Concrete & formwork takeoffsFoundations, slab-on-grade and site concrete from $500; high-rise cast-in-place quoted per project.
 
 - Framing takeoffsMid-rise wood-frame wall and sheathing areas by floor, with shear wall hardware at the full-breakdown tier.
 
@@ -2990,8 +3000,6 @@ SCOPEWhat we do and don't take off
 Published plainly, because a service that claims everything is useless for deciding whether to send drawings.
 
 - No mechanical or electricalSharpBid does not take off Divisions 21 through 28 — no ductwork, piping, conduit or cable tray. Items in those divisions that create work in your scope, like roof penetrations or painted grilles, are still counted for you.
-
-- No high-rise cast-in-place concrete cycle workConcrete and formwork is offered for low-rise and small-site scopes only. High-rise cycle forming has its own production logic and belongs with a specialist.
 
 - No engineeringStructural design, member sizing, connection design, shop drawings, thermal modelling and energy compliance are engineering scopes. A takeoff measures what's drawn; it doesn't design it.
 
@@ -3209,6 +3217,8 @@ The whole schedule is published on the pricing page. The starting prices:
 | Acoustic ceiling (ACT) takeoff | $450
 
 | Concrete & formwork — low-rise / small site | $500
+
+| Concrete & formwork — high-rise cast-in-place, quoted per project | On request
 
 | Misc metals / Div 05 | $600
 
