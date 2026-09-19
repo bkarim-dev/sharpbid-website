@@ -37,10 +37,18 @@
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Painting takeoffs by substrate and system",
+    "name": "Painting takeoff services",
     "serviceType": "Construction quantity takeoff",
-    "provider": { "@type": "ProfessionalService", "name": "SharpBid Estimating", "url": "https://sharpbid.ca", "telephone": "+1-604-245-4344", "email": "info@sharpbid.ca" },
-    "areaServed": [ { "@type": "AdministrativeArea", "name": "Metro Vancouver" }, { "@type": "Country", "name": "Canada" } ]
+    "description": "Quantity takeoffs for painting and coating subcontractors: wall and ceiling areas by substrate and finish system, doors and frames counted by side, exposed structure and deck, specialty and high-performance coatings separated, with coats and preparation stated per system.",
+    "provider": { "@id": "https://sharpbid.ca/#business" },
+    "areaServed": { "@type": "Country", "name": "Canada" },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "CAD",
+      "price": "450",
+      "description": "starting price",
+      "url": "https://sharpbid.ca/painting-takeoffs"
+    }
   }
   </script>
   <script type="application/ld+json">
@@ -48,24 +56,9 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://sharpbid.ca/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Trades",
-        "item": "https://sharpbid.ca/#trades"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Painting takeoffs",
-        "item": "https://sharpbid.ca/painting-takeoffs"
-      }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://sharpbid.ca/" },
+      { "@type": "ListItem", "position": 2, "name": "Trades", "item": "https://sharpbid.ca/#trades" },
+      { "@type": "ListItem", "position": 3, "name": "Painting takeoffs", "item": "https://sharpbid.ca/painting-takeoffs" }
     ]
   }
   </script>
@@ -76,26 +69,58 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "How do you handle spec-to-drawing conflicts?",
+        "name": "How much does a painting takeoff cost?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The room finish schedule, the painting spec and the drawings are reconciled — where they disagree, the conflict is flagged so you can qualify it rather than absorb it."
+          "text": "From $450 — the single-trade finish takeoff tier. What moves the fixed price is sheet count, how many coating systems the spec runs, how many levels there are, and how much of the set genuinely repeats. A written fixed quote comes back within 4 business hours and doesn't move afterwards. Full schedule on the takeoff pricing page."
         }
       },
       {
         "@type": "Question",
-        "name": "Do you count repaint / occupied work differently?",
+        "name": "How fast is it delivered?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes — repaint scope is measured with access and protection conditions noted, since your production rates depend on them."
+          "text": "Next business day on single-trade painting sets. Larger or multi-building sets get a firm delivery date with the quote. Same-day rush is +50%. If it lands after the date on the quote, you pay half."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I start?",
+        "name": "Do you separate substrates and coating systems?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours."
+          "text": "Always. Substrate decides preparation and material consumption, and the system decides coats. Gypsum, CMU, concrete, plaster, wood and metal each get their own lines, with the spec's system code and coat count written against them, so your production rates apply to surfaces that actually behave the same way."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you count doors and frames?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes — by leaf and by side, taken from the Division 08 door schedule rather than the finish plan, with factory-finished leaves marked as excluded. Hollow metal frames, borrowed lights and relites are counted separately."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What do you need besides the drawings?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Division 09 painting spec section and the door schedule, if they aren't in the drawing set. Without the spec we can measure areas but can't attach systems, coats or preparation — and that's the part your rate is built on. Send a link through the quote form: Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login all work."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can the workbook use our own cost codes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's excluded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though items in those divisions that are scheduled to be painted are still quantified for you. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity."
         }
       }
     ]
@@ -129,16 +154,15 @@
 </nav>
 
 <main>
-
 <header class="trade-hero">
   <div class="wrap">
-    <span class="code" style="border-left-color:var(--t-painting)">DIV 09 · PAINTING & COATINGS</span>
-    <h1>Painting takeoffs by substrate and system</h1>
-    <p class="lede">Surface areas measured by substrate and mapped to the spec's finish systems — so every SF in your bid carries the right prep, primer and coat count.</p>
-    <div class="trade-price"><span>On time or 50% off ✓</span><span>Single-trade takeoffs from $450 · next business day</span></div>
+    <span class="code" style="border-left-color:var(--t-painting)">DIV 09 · PAINTING &amp; COATINGS</span>
+    <h1>Painting takeoff services</h1>
+    <p class="lede">We measure every painted surface by substrate and finish system — walls, ceilings, exposed structure, doors, frames and the specialty coatings that hide in the spec — with coats and preparation stated against each one. For painting and coating subcontractors across Canada: from $450, next business day, on time or 50% off.</p>
+    <div class="trade-price"><span>From $450</span><span>Next business day</span><span>Fixed quote in 4 business hours</span><span>On time or 50% off ✓</span></div>
     <div class="hero-ctas" style="margin-top:22px;">
       <a class="btn btn-ink" href="/#quote">Send drawings — quote in 4 hrs</a>
-      <a class="btn" href="/#pricing">Full pricing</a>
+      <a class="btn" href="/pricing">Takeoff pricing</a>
       <a class="btn" href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Sample takeoff (.xlsx)</a>
     </div>
   </div>
@@ -146,60 +170,216 @@
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">SCOPE</span><span>What gets counted</span><span class="dim"></span><span>Every line traceable</span></div>
-    <h2 class="rev-up" style="margin-bottom:36px;">On the <span class="mark">takeoff</span></h2>
+    <div class="sheet-strip"><span class="no">SCOPE</span><span>What we count</span><span class="dim"></span><span>Every line traceable</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">What we count on a<br /><span class="mark">painting takeoff</span></h2>
+    <p class="answer rev-up">Every surface with a coating on it, split by substrate and by the system the spec applies to it. Substrate drives preparation and coats, which drive labour — so a gypsum wall and a CMU wall of identical area never share a line.</p>
     <ul class="countlist rev-up" style="--tp:var(--t-painting)">
-      <li>Wall SF by substrate and finish system, mapped to spec sections</li>
-      <li>Ceiling SF by system, separated from walls</li>
-      <li>Doors and frames counted each, by paint system — sides counted</li>
-      <li>Exposed structure and deck SF where specified</li>
-      <li>Epoxy and high-performance coating SF separated</li>
-      <li>Block filler and sealer areas identified</li>
-      <li>Touch-up and site-painted vs. pre-finished scope flagged</li>
+      <li><b>Wall areas by substrate and finish system</b><span class="u">SF / m²</span><span class="note">Gypsum board, CMU, concrete, plaster and wood kept apart — block fill and primer requirements differ, and so does the rate.</span></li>
+      <li><b>Ceiling areas by substrate</b><span class="u">SF / m²</span><span class="note">Gypsum ceilings and bulkheads separated from exposed deck.</span></li>
+      <li><b>Exposed structure and deck</b><span class="u">SF / m²</span><span class="note">Spray-painted deck, joists, beams and hangers, taken off the reflected ceiling plans where the finish is called up.</span></li>
+      <li><b>Doors and frames</b><span class="u">EA</span><span class="note">Counted by leaf and by side, with site-painted separated from factory- or pre-finished per the Division 08 schedule.</span></li>
+      <li><b>Hollow metal frames, borrowed lights and relites</b><span class="u">EA</span></li>
+      <li><b>Millwork and architectural woodwork finishing</b><span class="u">LF / SF / EA</span><span class="note">Only where the spec puts it in your division — flagged where it sits with the millwork supplier instead.</span></li>
+      <li><b>Handrails, guards and exposed metals</b><span class="u">LF / EA</span></li>
+      <li><b>Mechanical and electrical items scheduled to be painted</b><span class="u">EA / LF</span><span class="note">Grilles, diffusers, exposed conduit, bollards and equipment — quantified from the schedules even though the equipment isn't your scope.</span></li>
+      <li><b>High-performance and specialty coatings</b><span class="u">SF / m²</span><span class="note">Epoxy, urethane, intumescent, anti-graffiti, elastomeric and dry-fall, each as its own system.</span></li>
+      <li><b>Parking structure and traffic coatings where in scope</b><span class="u">SF / m²</span></li>
+      <li><b>Exterior coatings by elevation</b><span class="u">SF / m²</span><span class="note">Split by elevation so access and staging can be priced against real areas.</span></li>
+      <li><b>Line striping and pavement markings</b><span class="u">LF / EA</span></li>
+      <li><b>Sealers and block filler</b><span class="u">SF / m²</span></li>
+      <li><b>Coats and surface preparation per system</b><span class="u">stated</span><span class="note">Written against every line so the labour side of your rate has something to sit on.</span></li>
+      <li><b>Wall protection and coverings where they fall to you</b><span class="u">SF / LF</span></li>
     </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">METHOD</span><span>How we measure it</span><span class="dim"></span><span>Basis stated in writing</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">How we measure<br />painting and coatings</h2>
+    <p class="answer rev-up">We measure from the painting schedule in the specification, not the room finish schedule. The room finish schedule tells you a wall is painted; the spec tells you which system, how many coats and what preparation — and that is what your rate is actually built on.</p>
+    <div class="method rev-up">
+      <div>
+        <span class="tag">SYSTEM FIRST</span>
+        <h3>The spec's coating schedule drives the workbook</h3>
+        <p>Each surface is matched to its system — substrate, primer, number of finish coats, sheen and preparation. Areas are then measured against that list. Two walls with the same square footage and different systems are two lines, because they're two different costs.</p>
+      </div>
+      <div>
+        <span class="tag">SUBSTRATE</span>
+        <h3>Substrate is never averaged</h3>
+        <p>CMU takes block filler and soaks up material at a completely different rate from gypsum board. Concrete, plaster and wood each behave differently again. Substrate is recorded per area so material and labour both track what's actually being coated.</p>
+      </div>
+      <div>
+        <span class="tag">HEIGHT</span>
+        <h3>Wall height and access come off the sections</h3>
+        <p>Painted height follows the wall, not the ceiling — a wall carried to underside of deck above an open ceiling is painted well past the visible line. High work, atriums, stairwells and exterior elevations are separated so staging and access can be priced against real areas instead of an average.</p>
+      </div>
+      <div>
+        <span class="tag">DOORS</span>
+        <h3>Doors and frames counted from the door schedule</h3>
+        <p>Whether a door is site-painted or pre-finished is decided in the Division 08 door schedule, not in the Division 09 finish plan. We count leaves and sides from the door schedule and mark which ones the spec hands to the factory, so you don't price a finish that was never yours.</p>
+      </div>
+      <div>
+        <span class="tag">RCP</span>
+        <h3>Exposed deck is a reflected ceiling plan item</h3>
+        <p>Spray-painted exposed structure almost never appears on the room finish schedule. It's called up on the reflected ceiling plans and in the spec, and it is one of the largest single areas on an open-ceiling project. We take it off the RCPs level by level.</p>
+      </div>
+      <div>
+        <span class="tag">DEDUCTIONS</span>
+        <h3>Openings and unpainted surfaces follow one stated rule</h3>
+        <p>Glazing, millwork faces, wall protection and anything factory-finished are deducted or not according to a rule written on the assumptions page and applied identically everywhere. Consistency is what lets your unit rate mean the same thing on every line.</p>
+      </div>
+      <div>
+        <span class="tag">SPECIALTY</span>
+        <h3>High-performance systems stay in their own sections</h3>
+        <p>Epoxy, urethane, intumescent and traffic coatings carry different material costs, different applicators and often different warranty obligations. Folding them into a general wall area is the fastest way to lose money on a job you won.</p>
+      </div>
+      <div>
+        <span class="tag">UNITS</span>
+        <h3>Metric or imperial, whichever you bid in</h3>
+        <p>Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with the spec's own system codes carried through unchanged.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">GAPS</span><span>Scope gaps we flag</span><span class="dim"></span><span>Caught before you bid</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Scope gaps we flag<br />on painting packages</h2>
+    <p class="answer rev-up">The six that cost painting subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.</p>
+    <div class="grid-2">
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-painting)">DIV 08, NOT DIV 09</span>
+        <h3>Site-painted versus pre-finished doors</h3>
+        <p>That decision is made in the Division 08 door schedule and never repeated in Division 09. Count doors off the finish plan and you'll either price factory-finished leaves you were never supplying, or miss a few hundred sides that were always yours.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-painting)">RCP</span>
+        <h3>Exposed deck spray that's on no finish schedule</h3>
+        <p>On an open-ceiling project the deck, joists and hangers can be the largest painted area in the building, and it appears only on the reflected ceiling plans. Miss it and you've missed a level's worth of work in a single line.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-painting)">SUBSTRATE</span>
+        <h3>Block filler treated as primer</h3>
+        <p>CMU needs block filler before anything else goes on, and it consumes material at a rate nothing like a sealer on drywall. Priced as a coat of primer over the same square footage, a large block wall quietly eats the margin on the whole package.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-painting)">SCHEDULES</span>
+        <h3>Mechanical and electrical items scheduled to be painted</h3>
+        <p>Exposed conduit, ductwork, grilles, diffusers and bollards routinely carry a "paint to match" note in a schedule that isn't yours to read. The equipment belongs to another trade; the coating on it belongs to you.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-painting)">PREP</span>
+        <h3>Surface preparation written only in the spec</h3>
+        <p>Level of finish on the drywall, patching of existing surfaces, and the cleaning or profiling a high-performance system demands are all Division 09 spec items. None of it shows on a plan, and all of it is labour. It pairs directly with the <a href="/drywall-steel-stud-takeoffs">drywall takeoff</a> on the same job.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-painting)">ACCESS</span>
+        <h3>High work averaged in with the rest</h3>
+        <p>Stairwells, atriums, high lobbies and exterior elevations need lifts, swing stages or scaffold. Rolled into one blended wall area, the access cost disappears — and it doesn't disappear on site.</p>
+      </div>
+    </div>
+    <p class="region-foot rev-up">More of these by trade in the <a href="/bid-traps">bid traps list</a>, and the cost side in <a href="/guides/construction-takeoff-cost-canada">what a construction takeoff costs in Canada</a>.</p>
   </div>
 </section>
 
 <section class="alt">
   <div class="wrap deliv">
     <div>
-      <div class="sheet-strip"><span class="no">DELIV</span><span>How it arrives</span><span class="dim"></span></div>
+      <div class="sheet-strip"><span class="no">DELIV</span><span>What you receive</span><span class="dim"></span></div>
       <h2 class="rev-up">Workbook +<br /><span class="mark">marked plans</span></h2>
-      <p class="lede rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.</p>
+      <p class="answer rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces back to a sheet, a system code and a coloured area on the marked-up plans — spot-check any line in a couple of minutes instead of taking a number on faith.</p>
+      <p class="region-foot rev-up"><a href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Download the sample workbook (.xlsx)</a> — a fictitious office TI, in the real format.</p>
     </div>
     <ul class="speclist rev-up">
-      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Colour-coded plan markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>Waste, basis of measurement, drawing conflicts flagged.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Optional: placeholders &amp; quote template</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes, by system and substrate.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Colour-coded plan markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam Revu.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>Coats, preparation, deduction rule and drawing conflicts, all in writing.</span></div></li>
+      <li><span class="tickbox"></span><div><b>One revision round and bid-period addenda</b><span>Included, not billed as an extra.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Optional: price placeholders (+15%) and quote template (+$150)</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
     </ul>
   </div>
 </section>
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">FAQ</span><span>Trade-specific</span><span class="dim"></span></div>
+    <div class="sheet-strip"><span class="no">TYPES</span><span>Project types</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Project types we<br />take off most</h2>
+    <p class="answer rev-up">The set types where senior counting changes the number most.</p>
+    <ul class="speclist rev-up" style="max-width:840px;">
+      <li><span class="tickbox"></span><div><b>Commercial tenant improvements</b><span>Open ceilings with sprayed deck, dense door counts, and feature walls that carry their own system.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Wood-frame and concrete multifamily</b><span>Suites, corridors and amenity separated, with typical-floor repetition you can audit and parkade coatings priced apart.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Mixed-use podium</b><span>Retail and lobby systems at grade over residential above, with exterior elevations split for access.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Institutional</b><span>CMU everywhere, epoxy in wet and clinical areas, and long corridors of high-traffic finishes.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Industrial and parking structures</b><span>High-performance and traffic coatings, exposed structure, and access that has to be priced honestly.</span></div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">FAQ</span><span>Painting takeoff questions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:36px;">Painting takeoff FAQs</h2>
     <div class="faq rev-up">
       <details>
-        <summary>How do you handle spec-to-drawing conflicts?</summary>
-        <div class="a">The room finish schedule, the painting spec and the drawings are reconciled — where they disagree, the conflict is flagged so you can qualify it rather than absorb it.</div>
+        <summary>How much does a painting takeoff cost?</summary>
+        <div class="a">From $450 — the single-trade finish takeoff tier. What moves the fixed price is sheet count, how many coating systems the spec runs, how many levels there are, and how much of the set genuinely repeats. A written fixed quote comes back within 4 business hours and doesn't move afterwards. Full schedule on the <a href="/pricing">takeoff pricing page</a>.</div>
       </details>
       <details>
-        <summary>Do you count repaint / occupied work differently?</summary>
-        <div class="a">Yes — repaint scope is measured with access and protection conditions noted, since your production rates depend on them.</div>
+        <summary>How fast is it delivered?</summary>
+        <div class="a">Next business day on single-trade painting sets. Larger or multi-building sets get a firm delivery date with the quote. Same-day rush is +50%. If it lands after the date on the quote, you pay half.</div>
       </details>
       <details>
-        <summary>How do I start?</summary>
-        <div class="a">Send a drawings link through the <a href="/#quote">quote form</a> or to <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and delivery date come back within 4 business hours.</div>
+        <summary>Do you separate substrates and coating systems?</summary>
+        <div class="a">Always. Substrate decides preparation and material consumption, and the system decides coats. Gypsum, CMU, concrete, plaster, wood and metal each get their own lines, with the spec's system code and coat count written against them, so your production rates apply to surfaces that actually behave the same way.</div>
       </details>
-    </div>
-    <div class="hero-ctas" style="margin-top:36px;">
-      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
-      <a class="btn" href="/#trades">All trades</a>
+      <details>
+        <summary>Do you count doors and frames?</summary>
+        <div class="a">Yes — by leaf and by side, taken from the Division 08 door schedule rather than the finish plan, with factory-finished leaves marked as excluded. Hollow metal frames, borrowed lights and relites are counted separately.</div>
+      </details>
+      <details>
+        <summary>What do you need besides the drawings?</summary>
+        <div class="a">The Division 09 painting spec section and the door schedule, if they aren't in the drawing set. Without the spec we can measure areas but can't attach systems, coats or preparation — and that's the part your rate is built on. Send a link through the quote form: Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login all work.</div>
+      </details>
+      <details>
+        <summary>Can the workbook use our own cost codes?</summary>
+        <div class="a">Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping.</div>
+      </details>
+      <details>
+        <summary>What's excluded?</summary>
+        <div class="a">Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though items in those divisions that are scheduled to be painted are still quantified for you. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.</div>
+      </details>
     </div>
   </div>
 </section>
 
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">NEXT</span><span>Related scopes &amp; regions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:18px;">Send the drawings.<br /><span class="mark">Fixed quote in 4 hours.</span></h2>
+    <p class="answer rev-up">Drop a link through the quote form or email <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and a guaranteed delivery date come back within 4 business hours.</p>
+    <div class="hero-ctas" style="margin-bottom:34px;">
+      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
+      <a class="btn" href="/pricing">See all takeoff pricing</a>
+    </div>
+
+    <h3 style="margin-bottom:12px;">Trades that usually come with it</h3>
+    <div class="related">
+      <a style="border-left-color:var(--t-drywall)" href="/drywall-steel-stud-takeoffs">Drywall &amp; steel stud takeoff services</a>
+      <a style="border-left-color:var(--t-acoustic)" href="/acoustic-ceiling-takeoffs">Acoustic ceiling takeoff services</a>
+      <a style="border-left-color:var(--t-flooring)" href="/flooring-takeoffs">Flooring takeoff services</a>
+    </div>
+
+    <h3 style="margin:34px 0 12px;">Where we work</h3>
+    <div class="related">
+      <a href="/takeoff-services-british-columbia">Painting takeoffs in British Columbia</a>
+      <a href="/takeoff-services-alberta">Painting takeoffs in Alberta</a>
+      <a href="/takeoff-services-ontario">Painting takeoffs in Ontario</a>
+    </div>
+    <p class="region-foot rev-up">…and anywhere else in Canada — everything is digital.</p>
+  </div>
+</section>
 </main>
 
 <!-- #footer -->

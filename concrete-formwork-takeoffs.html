@@ -37,10 +37,18 @@
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Concrete & formwork takeoffs — low-rise, done right",
+    "name": "Concrete and formwork takeoff services",
     "serviceType": "Construction quantity takeoff",
-    "provider": { "@type": "ProfessionalService", "name": "SharpBid Estimating", "url": "https://sharpbid.ca", "telephone": "+1-604-245-4344", "email": "info@sharpbid.ca" },
-    "areaServed": [ { "@type": "AdministrativeArea", "name": "Metro Vancouver" }, { "@type": "Country", "name": "Canada" } ]
+    "description": "Quantity takeoffs for concrete and formwork subcontractors on low-rise and small-site work: concrete volumes by element and mix, formwork measured as contact area, reinforcing, finishing by specification, joints and embedded items, with waste and over-pour stated separately.",
+    "provider": { "@id": "https://sharpbid.ca/#business" },
+    "areaServed": { "@type": "Country", "name": "Canada" },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "CAD",
+      "price": "500",
+      "description": "starting price",
+      "url": "https://sharpbid.ca/concrete-formwork-takeoffs"
+    }
   }
   </script>
   <script type="application/ld+json">
@@ -48,24 +56,9 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://sharpbid.ca/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Trades",
-        "item": "https://sharpbid.ca/#trades"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Concrete & formwork takeoffs",
-        "item": "https://sharpbid.ca/concrete-formwork-takeoffs"
-      }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://sharpbid.ca/" },
+      { "@type": "ListItem", "position": 2, "name": "Trades", "item": "https://sharpbid.ca/#trades" },
+      { "@type": "ListItem", "position": 3, "name": "Concrete & formwork takeoffs", "item": "https://sharpbid.ca/concrete-formwork-takeoffs" }
     ]
   }
   </script>
@@ -76,26 +69,58 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Do you take off high-rise concrete?",
+        "name": "How much does a concrete takeoff cost?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "SharpBid focuses on low-rise and small-site concrete scopes — the work where a fast, senior takeoff changes your bid. Full high-rise structural takeoffs are quoted case by case and only when the timeline supports doing them properly."
+          "text": "From $500 for low-rise and small-site scopes. What moves the fixed price is how many distinct elements the structural set carries, whether reinforcing is in scope, and the amount of site concrete. A written fixed quote comes back within 4 business hours of sending drawings. Full schedule on the takeoff pricing page."
         }
       },
       {
         "@type": "Question",
-        "name": "Is rebar included?",
+        "name": "How fast is it delivered?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Rebar detailing is carried as a supplier-quote allowance and stated plainly on the assumptions page — you get accurate concrete and formwork numbers without paying for detailing you'd source elsewhere anyway."
+          "text": "Every concrete set gets a firm delivery date with the fixed quote, sized to the structural set. Same-day rush is +50%. If it lands after the date on the quote, you pay half."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I start?",
+        "name": "Do you take off high-rise cast-in-place work?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours."
+          "text": "No. This scope is low-rise and small-site concrete — foundations, slab-on-grade, low-rise structure and site work. High-rise cycle forming is a specialist scope with its own production logic, and we'd rather say so than take it on badly. If you need it, we'll tell you straight away rather than after you've sent drawings."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you give formwork as contact area or as volume?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Contact area, always, measured face by face and reported separately from concrete volume. Forming is paid by the surface your crew builds and strips, and no factor gets you there reliably from cubic metres."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is reinforcing included?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It can be. Bars are taken from the reinforcing schedule by size and element, with mesh by area and dowels and couplers counted each, and weights reported by size. Tell us at quote time whether rebar is in your scope, since it changes the fixed price."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What drawings do you need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The structural set including reinforcing and element schedules, the architectural for finishes and site elements, and the mechanical drawings if housekeeping pads are yours. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's excluded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pricing, unless you add price placeholders. High-rise cast-in-place work, as above. Shoring design, mix design and any structural engineering are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though blockouts and pads serving that equipment are counted. Over-pour and waste are stated separately rather than built into the volume."
         }
       }
     ]
@@ -129,16 +154,15 @@
 </nav>
 
 <main>
-
 <header class="trade-hero">
   <div class="wrap">
     <span class="code" style="border-left-color:var(--t-concrete)">DIV 03 · LOW-RISE / SMALL SITES</span>
-    <h1>Concrete &amp; formwork takeoffs — low-rise, done right</h1>
-    <p class="lede">Volumes, contact areas and finishing measured element by element for low-rise buildings and small sites — footings to slabs — with a clear basis of measurement your crews can check.</p>
-    <div class="trade-price"><span>On time or 50% off ✓</span><span>Concrete &amp; formwork from $500 · scope confirmed with quote</span></div>
+    <h1>Concrete &amp; formwork takeoff services</h1>
+    <p class="lede">We measure concrete by volume per element and formwork by contact area — the two numbers that price differently and get confused constantly — plus reinforcing, finishing, joints and embedded items. Scoped for low-rise and small-site work across Canada: from $500, on time or 50% off.</p>
+    <div class="trade-price"><span>From $500</span><span>Firm date with the quote</span><span>Fixed quote in 4 business hours</span><span>On time or 50% off ✓</span></div>
     <div class="hero-ctas" style="margin-top:22px;">
       <a class="btn btn-ink" href="/#quote">Send drawings — quote in 4 hrs</a>
-      <a class="btn" href="/#pricing">Full pricing</a>
+      <a class="btn" href="/pricing">Takeoff pricing</a>
       <a class="btn" href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Sample takeoff (.xlsx)</a>
     </div>
   </div>
@@ -146,60 +170,218 @@
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">SCOPE</span><span>What gets counted</span><span class="dim"></span><span>Every line traceable</span></div>
-    <h2 class="rev-up" style="margin-bottom:36px;">On the <span class="mark">takeoff</span></h2>
+    <div class="sheet-strip"><span class="no">SCOPE</span><span>What we count</span><span class="dim"></span><span>Every line traceable</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">What we count on a<br /><span class="mark">concrete takeoff</span></h2>
+    <p class="answer rev-up">Volume, contact area, steel and finish — reported as four separate things against every element, because they are four separate costs with four different production rates. Elements are grouped the way you pour, not the way the plan is drawn.</p>
     <ul class="countlist rev-up" style="--tp:var(--t-concrete)">
-      <li>Concrete volumes (m³) by element — footings, walls, columns, slabs, stairs</li>
-      <li>Formwork contact area SF by element type</li>
-      <li>Slab-on-grade SF with thickness and reinforcing basis noted</li>
-      <li>Finishing SF by spec — trowel, broom, cure and seal</li>
-      <li>Control and construction joints LF</li>
-      <li>Anchor bolts and embeds counted each</li>
-      <li>Rebar carried as supplier-quote allowance — clearly stated</li>
+      <li><b>Concrete volume by element and mix</b><span class="u">CY / m³</span><span class="note">Footings, grade beams, walls, columns, slabs-on-grade, suspended slabs, stairs and site elements each on their own line, with the specified strength recorded.</span></li>
+      <li><b>Formwork as contact area</b><span class="u">SFCA / m²</span><span class="note">Measured face by face — the number that actually prices forming, and not derivable from volume.</span></li>
+      <li><b>Form type by condition</b><span class="u">SFCA</span><span class="note">Wall forms, column forms, edge forms, one-sided forms against shoring or rock, and architectural form liner kept apart.</span></li>
+      <li><b>Shoring and reshoring areas</b><span class="u">SF / m²</span></li>
+      <li><b>Reinforcing steel by size and element</b><span class="u">tonnes / lbs + EA</span><span class="note">Bars by size against the schedule, mesh by area, with dowels and couplers counted each.</span></li>
+      <li><b>Slab finishes by specification</b><span class="u">SF / m²</span><span class="note">Broom, steel trowel, burnished and exposed finishes separated, with flatness requirements noted.</span></li>
+      <li><b>Curing and sealing</b><span class="u">SF / m²</span></li>
+      <li><b>Joints by type</b><span class="u">LF / m</span><span class="note">Construction, control, saw-cut, isolation and expansion joints counted separately, with filler and sealant.</span></li>
+      <li><b>Waterstop and joint sealing</b><span class="u">LF / m</span></li>
+      <li><b>Vapour barrier and under-slab granular</b><span class="u">SF / m² + CY</span></li>
+      <li><b>Under-slab insulation</b><span class="u">SF / m²</span></li>
+      <li><b>Embedded items and blockouts</b><span class="u">EA</span><span class="note">Anchor bolts, weld plates, sleeves and openings — read against the structural and mechanical sets.</span></li>
+      <li><b>Housekeeping pads and equipment bases</b><span class="u">EA + CY</span><span class="note">Taken off the mechanical drawings, where they're drawn and where they're usually missed.</span></li>
+      <li><b>Stairs, landings and pits</b><span class="u">EA + CY + SFCA</span></li>
+      <li><b>Site concrete — curbs, walks, pads and aprons</b><span class="u">LF + SF + CY</span></li>
+      <li><b>Excavation and backfill where in your scope</b><span class="u">CY / m³</span></li>
+      <li><b>Over-pour and waste, stated separately</b><span class="u">assumptions page</span><span class="note">Listed beside the neat volume, never folded into it.</span></li>
     </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">METHOD</span><span>How we measure it</span><span class="dim"></span><span>Basis stated in writing</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">How we measure<br />concrete and formwork</h2>
+    <p class="answer rev-up">Volume and contact area are measured independently, element by element, off the structural drawings. The single most expensive mistake in this trade is pricing forming from concrete volume — a thin wall with two faces costs far more to form than a thick one with the same cubic metres.</p>
+    <div class="method rev-up">
+      <div>
+        <span class="tag">CONTACT AREA</span>
+        <h3>Formwork is measured as surface, not derived from volume</h3>
+        <p>Every formed face is measured on its own. Two-sided walls, one-sided walls against shoring, column perimeters, beam sides and soffits, and slab edges all get counted as the surfaces they are. Contact area is what your forming crew is paid for, and there's no factor that gets you there from cubic metres.</p>
+      </div>
+      <div>
+        <span class="tag">BY ELEMENT</span>
+        <h3>Volume grouped the way you pour</h3>
+        <p>Footings, grade beams, walls, columns, slab-on-grade, suspended slabs and site work are separated, with the specified mix and strength against each. That's how the ready-mix gets ordered and how the pour gets scheduled, so that's how the workbook reports it.</p>
+      </div>
+      <div>
+        <span class="tag">S-SHEETS</span>
+        <h3>Measured from the structural set, checked against architectural</h3>
+        <p>Dimensions, reinforcing and element sizes come from the structural drawings. The architectural set is read alongside for finishes, site elements and anything the two disagree about — and where they do, both readings go on the assumptions page with the one we measured.</p>
+      </div>
+      <div>
+        <span class="tag">FORM TYPE</span>
+        <h3>Form conditions separated, because rates differ</h3>
+        <p>A straight wall form, a curved form, a one-sided form braced against shoring and an architectural liner are four different costs over the same square footage of contact area. Each is reported separately with the condition named, so your rates land where they belong.</p>
+      </div>
+      <div>
+        <span class="tag">REBAR</span>
+        <h3>Reinforcing from the schedule, by size</h3>
+        <p>Bars are taken from the reinforcing schedule by size and element, with mesh by area and dowels and couplers counted each. Weights are reported by size so your supplier can quote and your crew can plan placing, rather than one blended tonnage.</p>
+      </div>
+      <div>
+        <span class="tag">FINISH</span>
+        <h3>Slab finishes are their own quantity</h3>
+        <p>Broom, steel trowel, burnished and exposed finishes are separate line items with the specified flatness noted. Finishing is labour over area and has nothing to do with the volume underneath it.</p>
+      </div>
+      <div>
+        <span class="tag">M-SHEETS</span>
+        <h3>Housekeeping pads read off the mechanical drawings</h3>
+        <p>Equipment bases and housekeeping pads are drawn on the mechanical sheets and poured by you. We read the M-sheets as part of the takeoff, count them each with volume attached, and note the equipment they serve.</p>
+      </div>
+      <div>
+        <span class="tag">UNITS</span>
+        <h3>Metric or imperial, whichever you bid in</h3>
+        <p>Structural sets in Canada are commonly metric; smaller residential and site work is often imperial. The workbook arrives in the units you price with, or both columns, with element marks carried through exactly as the structural drawings write them.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">GAPS</span><span>Scope gaps we flag</span><span class="dim"></span><span>Caught before you bid</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Scope gaps we flag<br />on concrete packages</h2>
+    <p class="answer rev-up">The six that cost concrete subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.</p>
+    <div class="grid-2">
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-concrete)">CONTACT AREA</span>
+        <h3>Formwork priced off concrete volume</h3>
+        <p>Formwork is paid by contact area, not by cubic metres. A 200 mm wall with two faces costs far more to form than a 400 mm wall of the same volume. Any takeoff that gives you cubes and expects you to derive forming from them is handing you the risk.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-concrete)">M-SHEETS</span>
+        <h3>Housekeeping pads on the mechanical drawings</h3>
+        <p>They're shown with the equipment, not on the structural plans, and they're poured by you. Read the M-sheets or they're a freebie — and on a building with a full mechanical room, it's a lot of small pours with a lot of edge form.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-concrete)">SITE CONDITIONS</span>
+        <h3>One-sided forming against shoring or rock</h3>
+        <p>A one-sided form has to be braced and tied back, and it costs multiples of a conventional two-sided wall over the same contact area. Whether it applies is a site and shoring question the structural drawings don't always answer, so we flag it rather than assume.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-concrete)">SPEC</span>
+        <h3>Slab flatness and finish written only in the spec</h3>
+        <p>The finish class and any flatness tolerance are Division 03 spec items. A burnished or high-tolerance slab is a different crew, a different rate and sometimes a different pour sequence — none of which appears on a plan.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-concrete)">COORDINATION</span>
+        <h3>Embeds and blockouts owned by other trades</h3>
+        <p>Weld plates, sleeves, anchor bolts and openings come from the metals, mechanical and electrical packages but get installed by you before the pour. We count them and name where they came from, which is the same reading behind the <a href="/misc-metals-takeoffs">misc metals takeoff</a>.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-concrete)">JOINTS</span>
+        <h3>Saw-cut and control joints left out of the number</h3>
+        <p>Joint layout is lineal footage with saw time, filler and sealant attached, and on a large slab-on-grade it's a real line. It's easy to price the slab and forget the cutting, the filling and the second mobilization it usually takes.</p>
+      </div>
+    </div>
+    <p class="region-foot rev-up">More of these by trade in the <a href="/bid-traps">bid traps list</a>, and the cost side in <a href="/guides/construction-takeoff-cost-canada">what a construction takeoff costs in Canada</a>.</p>
   </div>
 </section>
 
 <section class="alt">
   <div class="wrap deliv">
     <div>
-      <div class="sheet-strip"><span class="no">DELIV</span><span>How it arrives</span><span class="dim"></span></div>
+      <div class="sheet-strip"><span class="no">DELIV</span><span>What you receive</span><span class="dim"></span></div>
       <h2 class="rev-up">Workbook +<br /><span class="mark">marked plans</span></h2>
-      <p class="lede rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.</p>
+      <p class="answer rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces back to an element, a sheet and a coloured area on the marked-up structural drawings — with volume, contact area, steel and finish as separate columns.</p>
+      <p class="region-foot rev-up"><a href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Download the sample workbook (.xlsx)</a> — a fictitious office TI, in the real format.</p>
     </div>
     <ul class="speclist rev-up">
-      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Colour-coded plan markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>Waste, basis of measurement, drawing conflicts flagged.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Optional: placeholders &amp; quote template</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes, by element and pour.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Colour-coded plan markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam Revu.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>Over-pour and waste, form conditions assumed, and drawing conflicts, all in writing.</span></div></li>
+      <li><span class="tickbox"></span><div><b>One revision round and bid-period addenda</b><span>Included, not billed as an extra.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Optional: price placeholders (+15%) and quote template (+$150)</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
     </ul>
   </div>
 </section>
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">FAQ</span><span>Trade-specific</span><span class="dim"></span></div>
+    <div class="sheet-strip"><span class="no">TYPES</span><span>Project types</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Project types we<br />take off</h2>
+    <p class="answer rev-up">This scope is deliberately limited to low-rise and small-site concrete, where a senior read of the structural set changes the number. High-rise cast-in-place cycle work isn't offered.</p>
+    <ul class="speclist rev-up" style="max-width:840px;">
+      <li><span class="tickbox"></span><div><b>Low-rise commercial and industrial</b><span>Footings, grade beams, slab-on-grade, and site concrete with a straightforward pour sequence.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Wood-frame multifamily foundations</b><span>Foundation walls, grade beams, parkade slab and the stair and pit pours that come with them.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Small-site mixed-use</b><span>Podium foundations and at-grade work under a wood-frame or light structure above.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Tenant improvement and renovation concrete</b><span>Infill slabs, pads, curbs, pits and patching over existing structure.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Site and civil concrete</b><span>Curbs, walks, pads, aprons and equipment bases measured on their own.</span></div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">FAQ</span><span>Concrete takeoff questions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:36px;">Concrete &amp; formwork takeoff FAQs</h2>
     <div class="faq rev-up">
       <details>
-        <summary>Do you take off high-rise concrete?</summary>
-        <div class="a">SharpBid focuses on low-rise and small-site concrete scopes — the work where a fast, senior takeoff changes your bid. Full high-rise structural takeoffs are quoted case by case and only when the timeline supports doing them properly.</div>
+        <summary>How much does a concrete takeoff cost?</summary>
+        <div class="a">From $500 for low-rise and small-site scopes. What moves the fixed price is how many distinct elements the structural set carries, whether reinforcing is in scope, and the amount of site concrete. A written fixed quote comes back within 4 business hours of sending drawings. Full schedule on the <a href="/pricing">takeoff pricing page</a>.</div>
       </details>
       <details>
-        <summary>Is rebar included?</summary>
-        <div class="a">Rebar detailing is carried as a supplier-quote allowance and stated plainly on the assumptions page — you get accurate concrete and formwork numbers without paying for detailing you'd source elsewhere anyway.</div>
+        <summary>How fast is it delivered?</summary>
+        <div class="a">Every concrete set gets a firm delivery date with the fixed quote, sized to the structural set. Same-day rush is +50%. If it lands after the date on the quote, you pay half.</div>
       </details>
       <details>
-        <summary>How do I start?</summary>
-        <div class="a">Send a drawings link through the <a href="/#quote">quote form</a> or to <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and delivery date come back within 4 business hours.</div>
+        <summary>Do you take off high-rise cast-in-place work?</summary>
+        <div class="a">No. This scope is low-rise and small-site concrete — foundations, slab-on-grade, low-rise structure and site work. High-rise cycle forming is a specialist scope with its own production logic, and we'd rather say so than take it on badly. If you need it, we'll tell you straight away rather than after you've sent drawings.</div>
       </details>
-    </div>
-    <div class="hero-ctas" style="margin-top:36px;">
-      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
-      <a class="btn" href="/#trades">All trades</a>
+      <details>
+        <summary>Do you give formwork as contact area or as volume?</summary>
+        <div class="a">Contact area, always, measured face by face and reported separately from concrete volume. Forming is paid by the surface your crew builds and strips, and no factor gets you there reliably from cubic metres.</div>
+      </details>
+      <details>
+        <summary>Is reinforcing included?</summary>
+        <div class="a">It can be. Bars are taken from the reinforcing schedule by size and element, with mesh by area and dowels and couplers counted each, and weights reported by size. Tell us at quote time whether rebar is in your scope, since it changes the fixed price.</div>
+      </details>
+      <details>
+        <summary>What drawings do you need?</summary>
+        <div class="a">The structural set including reinforcing and element schedules, the architectural for finishes and site elements, and the mechanical drawings if housekeeping pads are yours. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login.</div>
+      </details>
+      <details>
+        <summary>What's excluded?</summary>
+        <div class="a">Pricing, unless you add price placeholders. High-rise cast-in-place work, as above. Shoring design, mix design and any structural engineering are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though blockouts and pads serving that equipment are counted. Over-pour and waste are stated separately rather than built into the volume.</div>
+      </details>
     </div>
   </div>
 </section>
 
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">NEXT</span><span>Related scopes &amp; regions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:18px;">Send the drawings.<br /><span class="mark">Fixed quote in 4 hours.</span></h2>
+    <p class="answer rev-up">Drop a link through the quote form or email <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and a guaranteed delivery date come back within 4 business hours.</p>
+    <div class="hero-ctas" style="margin-bottom:34px;">
+      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
+      <a class="btn" href="/pricing">See all takeoff pricing</a>
+    </div>
+
+    <h3 style="margin-bottom:12px;">Trades that usually come with it</h3>
+    <div class="related">
+      <a style="border-left-color:var(--t-metals)" href="/misc-metals-takeoffs">Misc metals takeoff services</a>
+      <a style="border-left-color:var(--t-framing)" href="/framing-takeoffs">Framing takeoff services</a>
+      <a style="border-left-color:var(--t-roofing)" href="/roofing-envelope-takeoffs">Roofing &amp; envelope takeoff services</a>
+    </div>
+
+    <h3 style="margin:34px 0 12px;">Where we work</h3>
+    <div class="related">
+      <a href="/takeoff-services-british-columbia">Concrete takeoffs in British Columbia</a>
+      <a href="/takeoff-services-alberta">Concrete takeoffs in Alberta</a>
+      <a href="/takeoff-services-ontario">Concrete takeoffs in Ontario</a>
+    </div>
+    <p class="region-foot rev-up">…and anywhere else in Canada — everything is digital.</p>
+  </div>
+</section>
 </main>
 
 <!-- #footer -->

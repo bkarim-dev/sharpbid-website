@@ -253,72 +253,484 @@ Drywall takeoffs in Ontario
 …and anywhere else in Canada — everything is digital.
 
 ========================================================================
+SOURCE: https://sharpbid.ca/acoustic-ceiling-takeoffs
+TITLE: Acoustic Ceiling (ACT) Takeoff Services | SharpBid
+========================================================================
+
+DIV 09 · ACOUSTICAL CEILINGS
+
+# Acoustic ceiling (ACT) takeoff services
+
+We measure ceiling areas by ceiling type and tile spec, grid in lineal feet by profile, and perimeter trim by the condition it actually meets — plus hangers, bracing, clouds and every bulkhead the ceiling dies into. For acoustic ceiling subcontractors across Canada: from $450, next business day, on time or 50% off.
+
+From $450Next business dayFixed quote in 4 business hoursOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat we countEvery line traceable
+
+## What we count on an ACT takeoff
+
+Tile, grid, trim, suspension and every edge condition — because on a ceiling package the perimeter is where the labour lives, not the field. A room with twice the perimeter and the same area is a different job, and the workbook shows it that way.
+
+- Ceiling areas by ceiling type and tile specSF / m²By tile size, edge detail (square lay-in, tegular, concealed), NRC and CAC class, and finish — each ceiling code its own line, by room and level.
+
+- Suspension grid by profileLF / mMain tees, cross tees and the face width the spec calls for — 15/16", 9/16" narrow, slotted — counted separately.
+
+- Perimeter trim by conditionLF / mWall angle, shadow moulding, channel and trim at bulkheads, soffits, columns and glazing heads — by the condition, not by room perimeter alone.
+
+- Hanger wire and suspension pointsEAFrom the grid layout and the ceiling height, with long drops flagged.
+
+- Seismic bracing and compression strutsEAWhere the structural and ceiling details call for them.
+
+- Ceiling height changes and level transitionsLF / EA
+
+- Clouds, floating panels and open-cell ceilingsSF + LF perimeterArea and the full edge run, which is usually where the cost sits.
+
+- Linear, baffle and specialty ceilingsSF / LF
+
+- Metal pan and lay-in metal ceilingsSF / m²
+
+- Bulkhead and soffit interfaceLF / mEvery run where the ceiling dies into drywall, with the division of work named.
+
+- Access and lay-in tile within rated assembliesEA / SF
+
+- Cut-outs and integration itemsEALight fixtures, diffusers, sprinklers, speakers and detectors counted from the reflected ceiling plans — not your equipment, but your cuts.
+
+- Acoustic insulation and backing above ceilingSF / m²Where the assembly or the acoustic report calls for it.
+
+- Demolition of existing ceilingsSF / m²On tenant improvement work, where it's in your scope.
+
+- Attic stock and extra tilestatedPulled from the spec so the percentage doesn't surprise you at closeout.
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure acoustic ceilings
+
+Everything comes off the reflected ceiling plans, tied to the ceiling type legend and checked against the sections for height. Field area is the easy part — what we spend the time on is the perimeter, the height changes and the interfaces, which is where a ceiling package is won or lost.
+
+RCP FIRST
+
+### The reflected ceiling plan is the drawing that matters
+
+Ceiling types come off the legend with tile size, edge detail, grid profile and acoustic ratings recorded for each. Areas are then measured room by room against that list, with the ceiling height noted, so a 2700 mm ceiling and a 4000 mm ceiling of identical area never share a line.
+
+PERIMETER
+
+### Edge conditions are counted by condition, not by room
+
+Wall angle against gypsum, shadow moulding at a feature edge, trim at a bulkhead and trim at a glazing head are four different details and four different rates. We measure each run by the condition it meets, which is why the perimeter often has more lines than the field does.
+
+GRID
+
+### Grid is measured as grid, not derived from area
+
+Main tee and cross tee quantities depend on the module and the direction the grid runs, and a room's shape changes both. We take the grid off the layout rather than multiplying area by a rule of thumb, and mains, crosses and trim are reported separately.
+
+SUSPENSION
+
+### Hangers follow the height, and long drops get flagged
+
+Hanger counts come from the grid layout and the structure above. Where the deck is high — open ceilings, atriums, back-of-house over exposed structure — the drops are long enough to change the install rate, and those areas are separated so you can price them honestly.
+
+INTERFACE
+
+### The bulkhead line is named, not assumed
+
+Where a ceiling dies into a drywall bulkhead, the framing can fall to either trade depending on the spec. We quantify the interface in lineal feet and name which division the spec puts it in — the same condition we flag from the other side on drywall takeoffs.
+
+SEISMIC
+
+### Bracing is read out of the details, not guessed
+
+Ceiling bracing and compression strut requirements come from the ceiling details and the structural notes. They're quantified as counts against the areas they apply to, rather than carried as a lump allowance you can't defend in a scope meeting.
+
+REPETITION
+
+### Typical floors are measured once and extended, visibly
+
+A typical floor is measured in full and extended across the levels it applies to. The workbook shows which levels were measured and which were extended, and any level that differs is measured on its own. You can audit the multiplier.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with the ceiling type codes carried through exactly as the legend writes them.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on ceiling packages
+
+The six that cost ceiling subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+DIVISION LINE
+
+### Who frames the bulkhead the ceiling dies into
+
+It reads as one continuous surface on the RCP and it is two trades on site. Depending on how the spec is written, the bulkhead framing is yours or the drywall sub's. Both of you assuming the other has it is the single most common gap on an interiors job.
+
+PERIMETER
+
+### Trim priced off room perimeter
+
+Perimeter length and trim length aren't the same number. Columns, returns, bulkhead faces, soffits and glazing heads all add edge that a room outline doesn't show. On a plan with lots of small rooms, that difference is most of the labour.
+
+SEISMIC
+
+### Bracing carried as an allowance
+
+Bracing and compression struts are detailed requirements with real counts attached. Carried as a lump-sum allowance they're either padding you didn't need or a shortfall you can't recover, and neither reads well in a scope review.
+
+HEIGHT
+
+### Long drops averaged into the field rate
+
+A ceiling hung two metres below a high deck installs nothing like one tight to the structure. Averaged in with the standard field area, the extra suspension, the access and the time all vanish from your number.
+
+SPEC
+
+### Attic stock buried in the specification
+
+Extra tile percentages sit in the Division 09 spec, not on any drawing. It's real material, ordered at the start and delivered at the end, and it's easy to leave out of a bid built only from the plans.
+
+RATED ASSEMBLIES
+
+### Rated ceilings counted as standard ACT
+
+A fire-rated ceiling membrane carries different tile, different clips and hold-down requirements, and different inspection. Same square footage on the RCP, different assembly — so it gets its own line with the rating attached.
+
+More of these by trade in the bid traps list, and the cost side in what a construction takeoff costs in Canada.
+
+DELIVWhat you receive
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces back to a sheet, a ceiling type and a coloured area on the marked-up reflected ceiling plans — spot-check any line in a couple of minutes instead of taking a number on faith.
+
+Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes, by ceiling type.
+
+- Colour-coded RCP markups (PDF)Straight from On-Screen Takeoff / Bluebeam Revu.
+
+- Assumptions & exclusions pageGrid module, trim conditions, division of work at bulkheads, all in writing.
+
+- One revision round and bid-period addendaIncluded, not billed as an extra.
+
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
+
+TYPESProject types
+
+## Project types we take off most
+
+The set types where senior counting changes the number most.
+
+- Commercial tenant improvementsMixed open and closed ceilings, clouds over open plan, and a perimeter count that dwarfs the field area.
+
+- Concrete and wood-frame multifamilyCorridors and amenity space, rated ceiling membranes, and typical-floor repetition you can audit.
+
+- Mixed-use podiumRetail and lobby feature ceilings at grade over standard grid above.
+
+- InstitutionalHigh CAC and scrubbable tile, rated assemblies, and seismic bracing detailed in full.
+
+- Commercial office base buildingLarge repetitive floor plates where the grid module and direction decide the material buy.
+
+FAQACT takeoff questions
+
+## Acoustic ceiling takeoff FAQs
+
+**Q: How much does an acoustic ceiling takeoff cost?**
+
+From $450 — the same tier as the other single-trade finish takeoffs. What moves the fixed price is sheet count, how many ceiling types are in the legend, how many levels there are, and how much of the set genuinely repeats. A written fixed quote comes back within 4 business hours and doesn't move afterwards. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Next business day on single-trade ceiling sets. Larger or multi-building sets get a firm delivery date with the quote. Same-day rush is +50%. If it lands after the date on the quote, you pay half.
+
+**Q: Do you count grid separately from tile?**
+
+Yes. Tile goes in by area and ceiling type; mains, cross tees and perimeter trim go in by lineal foot and profile. Grid quantities depend on the module and the direction it runs, so they're taken off the layout rather than derived from area with a multiplier.
+
+**Q: Do you handle the bulkhead interface with the drywall sub?**
+
+We quantify it and name it. Every run where a ceiling meets a drywall bulkhead or soffit is measured in lineal feet, and the assumptions page says which division the spec puts the framing in. That way you price it or exclude it deliberately, and the same condition is flagged from the other side on the drywall takeoff.
+
+**Q: Are light fixtures and diffusers counted?**
+
+They're counted as cut-outs and integration points from the reflected ceiling plans. The fixtures and diffusers themselves are mechanical and electrical scope, which SharpBid does not take off, but the cuts and the coordination they create in your grid are yours and they're quantified.
+
+**Q: Can the workbook use our own cost codes?**
+
+Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+
+Get a fixed quote
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Drywall & steel stud takeoff services
+Painting takeoff services
+Flooring takeoff services
+
+### Where we work
+
+Ceiling takeoffs in British Columbia
+Ceiling takeoffs in Alberta
+Ceiling takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
+
+========================================================================
 SOURCE: https://sharpbid.ca/flooring-takeoffs
 TITLE: Flooring Takeoff Services in Canada | SharpBid
 ========================================================================
 
 DIV 09 · RESILIENT / CARPET / TILE / BASE
 
-# Flooring takeoffs, counted the way you bid
+# Flooring takeoff services
 
-Every finish type measured room by room against the finish schedule — so you can drop in your unit rates and submit with confidence. Measured in On-Screen Takeoff and Bluebeam by a 15-year estimator.
+We measure every finish room by room against the finish schedule — carpet, resilient, tile, polished concrete, base, transitions and stair components — and reconcile the schedule against the plan tags before anything gets counted. For flooring subcontractors across Canada: from $450, next business day, on time or 50% off.
 
-On time or 50% off ✓Single-trade takeoffs from $450 · next business day
+From $450Next business dayFixed quote in 4 business hoursOn time or 50% off ✓
 
 Send drawings — quote in 4 hrs
-Full pricing
+Takeoff pricing
 Sample takeoff (.xlsx)
 
-SCOPEWhat gets countedEvery line traceable
+SCOPEWhat we countEvery line traceable
 
-## On the takeoff
+## What we count on a flooring takeoff
 
-- Resilient flooring (LVT / VCT / sheet) SF by room and spec type
+Every finish, every edge and every condition that carries labour — organized by room and level so you can price a floor, a wing or a whole building without re-sorting anything. The sample workbook on this page is a flooring takeoff, so you can see the exact format before you send a drawing.
 
-- Carpet tile and broadloom SF, with direction and pattern noted
+- Finish areas by material and spec codeSF / m²Carpet tile, broadloom, LVT and LVP, sheet vinyl, VCT, rubber, linoleum, porcelain and ceramic, polished concrete, epoxy — each finish code its own line, by room and level.
 
-- Floor and wall tile SF by size and setting method
+- Base by type and heightLF / mRubber and vinyl cove, straight, wood, tile and metal base — matched to the finish it runs against.
 
-- Wall base LF by type and height
+- Transitions and edge profiles by conditionLF / m + EAReducers, T-mouldings, carpet-to-tile, thresholds and metal profiles counted by the condition that occurs, not per door.
 
-- Transitions and edge trims LF by condition
+- Stair componentsEA / LF / SFTreads and risers each, nosings and stringers in lineal, landings in area.
 
-- Moisture mitigation and self-leveling SF where the spec calls it
+- Floor preparation, levelling and patchingSF / m²
 
-- Stair treads, risers and nosings — each and LF
+- Moisture mitigation areasSF / m²Slab-on-grade and suspended slabs quantified where the spec makes mitigation conditional, so the allowance is a number rather than an open exposure.
 
-- Waste factors stated per material — on the page, not buried
+- Underlayment and acoustic underlaySF / m²
 
-DELIVHow it arrives
+- Crack isolation and uncoupling membraneSF / m²
+
+- Waterproofing membrane in wet areasSF / m²With the upturn at walls and curbs taken off the details.
+
+- Tile setting materials and groutSF / m²
+
+- Entrance mattingSF / EARecessed grid and roll goods separated, with the frame flagged where it isn't Division 09.
+
+- Sealers and finishesSF / m²
+
+- Patterned and directional installationsflaggedQuarter-turn, monolithic, ashlar, plank direction and herringbone called out where they change the material you buy.
+
+- Demolition and removal of existing finishesSF / m²On tenant improvement work, where it's in your scope.
+
+- Waste factors, stated per materialassumptions pageWritten down beside the quantity, never folded into it.
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure flooring
+
+The finish schedule is the spine, and the plan tags are the check. Every room gets matched against both before a square foot is counted — because on most sets the two disagree somewhere, and whichever one you priced, the other one shows up later.
+
+RECONCILE FIRST
+
+### Finish schedule against plan tags, room by room
+
+Rooms are measured individually and tied to a finish code. Where the schedule and the plan tag disagree, both are listed on the assumptions page with the one we measured. You bid a known position instead of inheriting somebody's typo.
+
+NET AREA
+
+### Measured to the face of finish, with deductions stated
+
+Areas are taken to the finished face of wall. Casework, millwork bases, columns and floor-mounted equipment are deducted or not according to a rule written on the assumptions page — the same rule everywhere in the workbook, so your unit rates land on a consistent basis.
+
+ROLL VS TILE
+
+### Roll goods and modular tile are different problems
+
+Broadloom and sheet vinyl are governed by roll width and seam layout, not just area; carpet tile and LVT are area plus pattern. We keep them in separate sections so your material buy reflects how each one actually cuts.
+
+PATTERN
+
+### Direction and pattern are called out, not averaged
+
+Quarter-turn versus monolithic, plank direction, ashlar and herringbone all change what you buy over the same square footage. Where the spec or the finish plan sets a pattern, it's recorded against the area so your waste allowance is a decision instead of a guess.
+
+EDGES
+
+### Base and transitions by condition, not by door count
+
+Base is measured off the room perimeter net of openings, by finish type, and switches where the adjacent floor finish switches — tile base in wet areas, rubber elsewhere. Transitions are counted by the condition that actually occurs at each junction, which is rarely the same number as the doors.
+
+MOISTURE
+
+### Conditional mitigation gets quantified anyway
+
+Specs usually make mitigation conditional on a test result that doesn't exist at bid time. We measure the slab areas it could apply to and flag it as an allowance with a number attached, so you can qualify a quantity rather than carry the whole slab.
+
+WASTE
+
+### Waste is stated, never buried in the quantity
+
+Measured quantities are net. Waste is listed separately per material on the assumptions page so you can apply your own figures — your crews, your seam layout, your supplier's roll width. A takeoff that hides waste inside the number is a takeoff you can't check.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, and finish codes stay exactly as the schedule writes them.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on flooring packages
+
+The six that cost flooring subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+SCHEDULE VS PLAN
+
+### The finish schedule and the plan tag disagree
+
+The schedule says LVT-1, the plan tag says CPT-1. Whichever you priced, the other one turns up in a change order — against you. We list the conflict, the room and the sheet, so it gets resolved in an RFI instead of on site.
+
+OPEN ALLOWANCE
+
+### Moisture mitigation with no quantity
+
+"Mitigation where relative humidity exceeds the manufacturer's limit" is an open allowance with your name on it. Qualify a square footage or you own the whole slab, and on a slab-on-grade podium that is a very large number.
+
+SPEC, NOT SCHEDULE
+
+### Floor prep that isn't on any drawing
+
+Levelling, grinding, patching and the flatness tolerance the finish demands live in the Division 09 spec and the existing-conditions notes, not the finish schedule. On tenant improvement work over an old slab this is often the single biggest variable in the bid.
+
+JUNCTIONS
+
+### Transitions counted per door
+
+Transitions happen wherever two finishes meet — open-plan boundaries, corridor edges, thresholds without doors. Counting one per door leaf undercounts profiles badly on any plan with open transitions, and profiles are cheap material with real labour attached.
+
+DIVISION LINE
+
+### Entrance matting frames that aren't Division 09
+
+Recessed entrance grids are often specified in Division 12 with the frame supplied by someone else and the recess formed by the concrete trade. We name which division the spec puts each part in, so you're not quoting a frame you were never going to supply — or leaving one out.
+
+WET AREAS
+
+### Waterproofing upturns measured off the details
+
+Washroom and shower waterproofing membrane doesn't stop at the floor. Curbs, upturns at walls and the height it runs to are in the details, not the plan, and pricing the flat area alone leaves real material and real labour out of your number.
+
+More of these by trade in the bid traps list — and a step-by-step working list in the flooring takeoff checklist.
+
+DELIVWhat you receive
 
 ## Workbook + marked plans
 
-Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+Everything is checkable. Every quantity traces back to a sheet, a room and a coloured area on the marked-up plans — spot-check any line in a couple of minutes instead of taking a number on faith.
 
-- Excel quantity workbookCSI MasterFormat or your own cost codes.
+Download the sample workbook (.xlsx) — a flooring takeoff on a fictitious office TI, in the real format.
 
-- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+- Excel quantity workbookCSI MasterFormat or your own cost codes, room by room.
 
-- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+- Colour-coded plan markups (PDF)One colour per finish code, straight from On-Screen Takeoff / Bluebeam Revu.
 
-- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+- Assumptions & exclusions pageWaste per material, deduction rule, schedule-versus-plan conflicts, all in writing.
 
-FAQTrade-specific
+- One revision round and bid-period addendaIncluded, not billed as an extra.
 
-**Q: Do you follow the finish schedule or the plans?**
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
 
-Both — quantities are measured from the plans and reconciled against the finish schedule and finish legend. Conflicts between the two are flagged on the assumptions page so you can qualify your bid instead of eating the difference.
+TYPESProject types
 
-**Q: Can you match my bid structure?**
+## Project types we take off most
 
-Yes. The workbook is organized to CSI MasterFormat by default, or to your own cost codes and room/area breakdown — whatever your crews and suppliers price from.
+The set types where senior counting changes the number most.
 
-**Q: How do I start?**
+- Commercial tenant improvementsDense finish schedules over small areas, heavy transition counts, and floor prep over an existing slab nobody has tested.
 
-Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+- Wood-frame and concrete multifamilySuites, corridors and amenity measured separately, acoustic underlay by assembly, and typical-floor repetition you can audit.
+
+- Mixed-use podiumRetail and lobby finishes at grade over residential above — and a slab-on-grade where moisture mitigation is a live number.
+
+- InstitutionalSheet vinyl with welded seams and coved upturns, heavy-duty entrance matting, and long corridors where base runs add up fast.
+
+- RetailFast programs, repeated store layouts, and pattern-driven feature areas that change the material buy.
+
+FAQFlooring takeoff questions
+
+## Flooring takeoff FAQs
+
+**Q: How much does a flooring takeoff cost?**
+
+From $450 — the single-trade finish takeoff tier. What moves the fixed price is sheet count, how many finish codes are in the schedule, how many levels there are, and how much of the set genuinely repeats. A written fixed quote comes back within 4 business hours and doesn't move afterwards. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Next business day on single-trade flooring sets. Larger or multi-building sets get a firm delivery date with the quote. Same-day rush is +50%. If it lands after the date on the quote, you pay half.
+
+**Q: Do you add waste factors to the quantities?**
+
+No — quantities are net, and waste is stated separately per material on the assumptions page. Your seam layout, your supplier's roll width and your crews' habits decide the right figure, and none of that belongs hidden inside someone else's square footage. If you'd rather the workbook apply your own percentages, send them and we'll build the column in.
+
+**Q: How do I send drawings, and what formats do you accept?**
+
+Send a link — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid, or a GC plan room login. PDF is ideal and vector PDFs measure fastest; scanned sets are fine with a scale bar or a known dimension. Send the finish schedule and the spec section if they're separate from the drawing set.
+
+**Q: Can the workbook use our own cost codes?**
+
+Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping.
+
+**Q: How do you handle moisture mitigation when the spec is conditional?**
+
+We measure the slab areas the requirement could apply to and present it as a quantified allowance rather than leaving it open. You then qualify a square footage in your bid instead of carrying an undefined exposure across the whole floor plate.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
 
 Get a fixed quote
-All trades
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Painting takeoff services
+Drywall & steel stud takeoff services
+Acoustic ceiling takeoff services
+
+### Where we work
+
+Flooring takeoffs in British Columbia
+Flooring takeoffs in Alberta
+Flooring takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
 
 ========================================================================
 SOURCE: https://sharpbid.ca/painting-takeoffs
@@ -327,64 +739,238 @@ TITLE: Painting Takeoff Services in Canada | SharpBid
 
 DIV 09 · PAINTING & COATINGS
 
-# Painting takeoffs by substrate and system
+# Painting takeoff services
 
-Surface areas measured by substrate and mapped to the spec's finish systems — so every SF in your bid carries the right prep, primer and coat count.
+We measure every painted surface by substrate and finish system — walls, ceilings, exposed structure, doors, frames and the specialty coatings that hide in the spec — with coats and preparation stated against each one. For painting and coating subcontractors across Canada: from $450, next business day, on time or 50% off.
 
-On time or 50% off ✓Single-trade takeoffs from $450 · next business day
+From $450Next business dayFixed quote in 4 business hoursOn time or 50% off ✓
 
 Send drawings — quote in 4 hrs
-Full pricing
+Takeoff pricing
 Sample takeoff (.xlsx)
 
-SCOPEWhat gets countedEvery line traceable
+SCOPEWhat we countEvery line traceable
 
-## On the takeoff
+## What we count on a painting takeoff
 
-- Wall SF by substrate and finish system, mapped to spec sections
+Every surface with a coating on it, split by substrate and by the system the spec applies to it. Substrate drives preparation and coats, which drive labour — so a gypsum wall and a CMU wall of identical area never share a line.
 
-- Ceiling SF by system, separated from walls
+- Wall areas by substrate and finish systemSF / m²Gypsum board, CMU, concrete, plaster and wood kept apart — block fill and primer requirements differ, and so does the rate.
 
-- Doors and frames counted each, by paint system — sides counted
+- Ceiling areas by substrateSF / m²Gypsum ceilings and bulkheads separated from exposed deck.
 
-- Exposed structure and deck SF where specified
+- Exposed structure and deckSF / m²Spray-painted deck, joists, beams and hangers, taken off the reflected ceiling plans where the finish is called up.
 
-- Epoxy and high-performance coating SF separated
+- Doors and framesEACounted by leaf and by side, with site-painted separated from factory- or pre-finished per the Division 08 schedule.
 
-- Block filler and sealer areas identified
+- Hollow metal frames, borrowed lights and relitesEA
 
-- Touch-up and site-painted vs. pre-finished scope flagged
+- Millwork and architectural woodwork finishingLF / SF / EAOnly where the spec puts it in your division — flagged where it sits with the millwork supplier instead.
 
-DELIVHow it arrives
+- Handrails, guards and exposed metalsLF / EA
+
+- Mechanical and electrical items scheduled to be paintedEA / LFGrilles, diffusers, exposed conduit, bollards and equipment — quantified from the schedules even though the equipment isn't your scope.
+
+- High-performance and specialty coatingsSF / m²Epoxy, urethane, intumescent, anti-graffiti, elastomeric and dry-fall, each as its own system.
+
+- Parking structure and traffic coatings where in scopeSF / m²
+
+- Exterior coatings by elevationSF / m²Split by elevation so access and staging can be priced against real areas.
+
+- Line striping and pavement markingsLF / EA
+
+- Sealers and block fillerSF / m²
+
+- Coats and surface preparation per systemstatedWritten against every line so the labour side of your rate has something to sit on.
+
+- Wall protection and coverings where they fall to youSF / LF
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure painting and coatings
+
+We measure from the painting schedule in the specification, not the room finish schedule. The room finish schedule tells you a wall is painted; the spec tells you which system, how many coats and what preparation — and that is what your rate is actually built on.
+
+SYSTEM FIRST
+
+### The spec's coating schedule drives the workbook
+
+Each surface is matched to its system — substrate, primer, number of finish coats, sheen and preparation. Areas are then measured against that list. Two walls with the same square footage and different systems are two lines, because they're two different costs.
+
+SUBSTRATE
+
+### Substrate is never averaged
+
+CMU takes block filler and soaks up material at a completely different rate from gypsum board. Concrete, plaster and wood each behave differently again. Substrate is recorded per area so material and labour both track what's actually being coated.
+
+HEIGHT
+
+### Wall height and access come off the sections
+
+Painted height follows the wall, not the ceiling — a wall carried to underside of deck above an open ceiling is painted well past the visible line. High work, atriums, stairwells and exterior elevations are separated so staging and access can be priced against real areas instead of an average.
+
+DOORS
+
+### Doors and frames counted from the door schedule
+
+Whether a door is site-painted or pre-finished is decided in the Division 08 door schedule, not in the Division 09 finish plan. We count leaves and sides from the door schedule and mark which ones the spec hands to the factory, so you don't price a finish that was never yours.
+
+RCP
+
+### Exposed deck is a reflected ceiling plan item
+
+Spray-painted exposed structure almost never appears on the room finish schedule. It's called up on the reflected ceiling plans and in the spec, and it is one of the largest single areas on an open-ceiling project. We take it off the RCPs level by level.
+
+DEDUCTIONS
+
+### Openings and unpainted surfaces follow one stated rule
+
+Glazing, millwork faces, wall protection and anything factory-finished are deducted or not according to a rule written on the assumptions page and applied identically everywhere. Consistency is what lets your unit rate mean the same thing on every line.
+
+SPECIALTY
+
+### High-performance systems stay in their own sections
+
+Epoxy, urethane, intumescent and traffic coatings carry different material costs, different applicators and often different warranty obligations. Folding them into a general wall area is the fastest way to lose money on a job you won.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with the spec's own system codes carried through unchanged.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on painting packages
+
+The six that cost painting subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+DIV 08, NOT DIV 09
+
+### Site-painted versus pre-finished doors
+
+That decision is made in the Division 08 door schedule and never repeated in Division 09. Count doors off the finish plan and you'll either price factory-finished leaves you were never supplying, or miss a few hundred sides that were always yours.
+
+RCP
+
+### Exposed deck spray that's on no finish schedule
+
+On an open-ceiling project the deck, joists and hangers can be the largest painted area in the building, and it appears only on the reflected ceiling plans. Miss it and you've missed a level's worth of work in a single line.
+
+SUBSTRATE
+
+### Block filler treated as primer
+
+CMU needs block filler before anything else goes on, and it consumes material at a rate nothing like a sealer on drywall. Priced as a coat of primer over the same square footage, a large block wall quietly eats the margin on the whole package.
+
+SCHEDULES
+
+### Mechanical and electrical items scheduled to be painted
+
+Exposed conduit, ductwork, grilles, diffusers and bollards routinely carry a "paint to match" note in a schedule that isn't yours to read. The equipment belongs to another trade; the coating on it belongs to you.
+
+PREP
+
+### Surface preparation written only in the spec
+
+Level of finish on the drywall, patching of existing surfaces, and the cleaning or profiling a high-performance system demands are all Division 09 spec items. None of it shows on a plan, and all of it is labour. It pairs directly with the drywall takeoff on the same job.
+
+ACCESS
+
+### High work averaged in with the rest
+
+Stairwells, atriums, high lobbies and exterior elevations need lifts, swing stages or scaffold. Rolled into one blended wall area, the access cost disappears — and it doesn't disappear on site.
+
+More of these by trade in the bid traps list, and the cost side in what a construction takeoff costs in Canada.
+
+DELIVWhat you receive
 
 ## Workbook + marked plans
 
-Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+Everything is checkable. Every quantity traces back to a sheet, a system code and a coloured area on the marked-up plans — spot-check any line in a couple of minutes instead of taking a number on faith.
 
-- Excel quantity workbookCSI MasterFormat or your own cost codes.
+Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
 
-- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+- Excel quantity workbookCSI MasterFormat or your own cost codes, by system and substrate.
 
-- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam Revu.
 
-- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+- Assumptions & exclusions pageCoats, preparation, deduction rule and drawing conflicts, all in writing.
 
-FAQTrade-specific
+- One revision round and bid-period addendaIncluded, not billed as an extra.
 
-**Q: How do you handle spec-to-drawing conflicts?**
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
 
-The room finish schedule, the painting spec and the drawings are reconciled — where they disagree, the conflict is flagged so you can qualify it rather than absorb it.
+TYPESProject types
 
-**Q: Do you count repaint / occupied work differently?**
+## Project types we take off most
 
-Yes — repaint scope is measured with access and protection conditions noted, since your production rates depend on them.
+The set types where senior counting changes the number most.
 
-**Q: How do I start?**
+- Commercial tenant improvementsOpen ceilings with sprayed deck, dense door counts, and feature walls that carry their own system.
 
-Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+- Wood-frame and concrete multifamilySuites, corridors and amenity separated, with typical-floor repetition you can audit and parkade coatings priced apart.
+
+- Mixed-use podiumRetail and lobby systems at grade over residential above, with exterior elevations split for access.
+
+- InstitutionalCMU everywhere, epoxy in wet and clinical areas, and long corridors of high-traffic finishes.
+
+- Industrial and parking structuresHigh-performance and traffic coatings, exposed structure, and access that has to be priced honestly.
+
+FAQPainting takeoff questions
+
+## Painting takeoff FAQs
+
+**Q: How much does a painting takeoff cost?**
+
+From $450 — the single-trade finish takeoff tier. What moves the fixed price is sheet count, how many coating systems the spec runs, how many levels there are, and how much of the set genuinely repeats. A written fixed quote comes back within 4 business hours and doesn't move afterwards. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Next business day on single-trade painting sets. Larger or multi-building sets get a firm delivery date with the quote. Same-day rush is +50%. If it lands after the date on the quote, you pay half.
+
+**Q: Do you separate substrates and coating systems?**
+
+Always. Substrate decides preparation and material consumption, and the system decides coats. Gypsum, CMU, concrete, plaster, wood and metal each get their own lines, with the spec's system code and coat count written against them, so your production rates apply to surfaces that actually behave the same way.
+
+**Q: Do you count doors and frames?**
+
+Yes — by leaf and by side, taken from the Division 08 door schedule rather than the finish plan, with factory-finished leaves marked as excluded. Hollow metal frames, borrowed lights and relites are counted separately.
+
+**Q: What do you need besides the drawings?**
+
+The Division 09 painting spec section and the door schedule, if they aren't in the drawing set. Without the spec we can measure areas but can't attach systems, coats or preparation — and that's the part your rate is built on. Send a link through the quote form: Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login all work.
+
+**Q: Can the workbook use our own cost codes?**
+
+Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though items in those divisions that are scheduled to be painted are still quantified for you. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
 
 Get a fixed quote
-All trades
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Drywall & steel stud takeoff services
+Acoustic ceiling takeoff services
+Flooring takeoff services
+
+### Where we work
+
+Painting takeoffs in British Columbia
+Painting takeoffs in Alberta
+Painting takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
 
 ========================================================================
 SOURCE: https://sharpbid.ca/glazing-takeoffs
@@ -393,66 +979,486 @@ TITLE: Glazing & Curtain Wall Takeoff Services | SharpBid
 
 DIV 08 · CURTAIN WALL / STOREFRONT / WINDOWS
 
-# Glazing takeoffs by elevation and type mark
+# Glazing & curtain wall takeoff services
 
-Curtain wall, storefront and windows measured against the elevations and schedules — with glass makeups, framing and sealants separated so your fabrication and glass quotes line up with your bid.
+We measure curtain wall elevation by elevation, storefront and entrances by opening, and every window and glazed door by type mark — with glass makeups, spandrel and framing profiles kept apart so your glass quote and your metal quote are built on the same numbers. For glazing subcontractors across Canada: from $900, on time or 50% off.
 
-On time or 50% off ✓Glazing & envelope takeoffs from $900 · firm date with quote
+From $900Firm date with the quoteFixed quote in 4 business hoursOn time or 50% off ✓
 
 Send drawings — quote in 4 hrs
-Full pricing
+Takeoff pricing
 Sample takeoff (.xlsx)
 
-SCOPEWhat gets countedEvery line traceable
+SCOPEWhat we countEvery line traceable
 
-## On the takeoff
+## What we count on a glazing takeoff
 
-- Curtain wall SF by elevation and system type
+Glass, framing and the edges between them — organized by elevation and by type mark so a fabricator can read it and a supplier can quote from it. Glass area, framing lineal and opening counts all come out separately, because that's how the trade buys.
 
-- Storefront and entrance systems SF; door leafs counted each
+- Curtain wall area by elevation and systemSF / m²Split by elevation and level so access, staging and shipping can be priced against real areas.
 
-- Windows by type mark — each, with rough opening dimensions
+- Curtain wall framing by profileLF / mMullions and horizontals counted separately, with depth and sightline taken from the details.
 
-- Glass types and IGU makeups SF, separated for your glass supplier
+- Vision glass by makeupSF / m² + EAEach makeup its own line — thickness, coating, laminated and tempered lites, and insulating unit build-up.
 
-- Aluminum framing LF and mullion counts
+- Spandrel glass and panels by makeupSF / m² + EAKept apart from vision glass, and reconciled between the elevations and the glass schedule.
 
-- Spandrel, panel and louvre infills SF
+- Storefront by openingEA + SF + LFEach opening with its framing run, glass area and infill.
 
-- Sealant joints LF by condition (perimeter, stack, control)
+- Entrances, doors and hardware openingsEABy type mark, with sidelites and transoms counted with them.
 
-- Interior glazing, sidelites and mirrors separated from envelope scope
+- Windows by type markEA + SFAgainst the window schedule, with operable units separated from fixed.
 
-DELIVHow it arrives
+- Interior glazing, borrowed lights and glass partitionsSF + EA
+
+- Glass railings and guards where in your scopeLF + EAFlagged where the spec puts them in Division 05 instead — see misc metals.
+
+- Perimeter sealant by conditionLF / mHead, jamb, sill and transitions counted by the joint condition, with backer rod noted.
+
+- Sill flashing, closures and trimsLF / EA
+
+- Anchors, embeds and attachment pointsEAFrom the details and the structural set, since that's where the attachment is drawn.
+
+- Louvres and mechanical screens within the glazed wallSF / EA
+
+- Skylights and sloped glazingSF / EA
+
+- Fire-rated glazing assembliesSF / EAWith the rating attached, because the assembly and the price are nothing like standard glass.
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure glazing
+
+Elevations and the glass schedule are read against each other before anything is counted. On most sets they disagree somewhere — a panel shown as spandrel on the elevation and missing from the schedule is the classic — and whichever one your supplier quoted, the other one is what gets built.
+
+ELEVATION BY ELEVATION
+
+### Measured by face, not as one building total
+
+Each elevation is measured on its own and reported that way. North and south often carry different coatings, and every face carries different access, staging and crane time. A single building-wide square footage hides all of it.
+
+RECONCILE
+
+### Elevations against the glass schedule, panel by panel
+
+Every lite is matched to a makeup in the schedule. Panels shown on an elevation but absent from the schedule, and makeups scheduled but never drawn, both go onto the assumptions page with the position we measured — so it becomes an RFI instead of a claim.
+
+GLASS VS METAL
+
+### Glass area and framing lineal come out separately
+
+Your glass supplier quotes area and lite counts; your metal supplier quotes lineal by profile; your installers price openings. All three come out of the same takeoff as separate sections, so you're not deriving one from another with a factor.
+
+TYPE MARK
+
+### Windows and doors follow the schedule, counted each
+
+Windows, glazed doors, sidelites and transoms are counted by type mark against the window and door schedules, with operable units separated from fixed. Sizes come from the schedule rather than being scaled off an elevation.
+
+JOINTS
+
+### Sealant measured by condition, in lineal feet
+
+Perimeter sealant is measured at head, jamb, sill and at every transition to an adjacent assembly, by the joint condition. It's a line item most subs never quantify and most general contractors assume is included — which makes it free work unless it's written down.
+
+DETAILS
+
+### Anchorage comes off the details and the structural set
+
+Embeds, anchors and attachment points are drawn in the details and on the structural sheets, not on the elevations. They're counted each, against the condition they serve, so the attachment isn't a lump-sum guess in an otherwise precise bid.
+
+INTERFACE
+
+### The envelope transition is named
+
+Where the glazed wall meets cladding, roofing or the air and vapour barrier, the membrane tie-in and closure can fall on either side of the trade line. We quantify the transition and name the division the spec puts it in — the same joint we look at from the other side on roofing and envelope takeoffs.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with type marks and makeup codes carried through exactly as the schedule writes them.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on glazing packages
+
+The six that cost glazing subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+SCHEDULE VS ELEVATION
+
+### Spandrel drawn but never scheduled
+
+Spandrel shows on the elevations and is missing from the glass schedule. If your glass quote followed the schedule, you just bought the spandrel — and on a tower elevation that is a very large number to absorb.
+
+JOINTS
+
+### Perimeter sealant nobody quantified
+
+General contractors measure it twice and subs measure it zero times. Head, jamb, sill and every transition is lineal footage with labour and access attached. Unquantified, it's free work — and on a fully glazed building it is a lot of free work.
+
+S-SHEETS
+
+### Embeds drawn on the structural set
+
+The curtain wall lives on the architectural elevations; the embeds that hold it live on the structural sheets. Bid one set and the anchorage is somebody's assumption — usually yours, discovered after the concrete is poured.
+
+DIVISION LINE
+
+### Glass railings that may be Division 05
+
+Glass guards and railings sit in Division 08 on some specs and Division 05 on others. We measure them, keep them in their own section and name which division the spec uses, so you and the metals fabricator aren't both excluding the same scope.
+
+ENVELOPE TIE-IN
+
+### Membrane transitions at the rough opening
+
+The air and vapour barrier has to tie into the window or curtain wall perimeter, and the spec doesn't always say whose membrane, whose flashing or whose sequence. Left ambiguous, it becomes a site problem billed to whoever is standing there.
+
+ACCESS
+
+### Elevations averaged into one area
+
+A ground-floor storefront and a tenth-floor replacement lite are the same square footage and nothing like the same cost. Measured as one building total, swing stage, crane and lift time all disappear from the bid and reappear on the schedule.
+
+More of these by trade in the bid traps list, and the cost side in what a construction takeoff costs in Canada.
+
+DELIVWhat you receive
 
 ## Workbook + marked plans
 
-Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+Everything is checkable. Every quantity traces back to an elevation, a type mark and a coloured area on the marked-up drawings — and the glass, metal and opening sections can go straight out to three different suppliers.
 
-- Excel quantity workbookCSI MasterFormat or your own cost codes.
+Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
 
-- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+- Excel quantity workbookCSI MasterFormat or your own cost codes, by elevation and type mark.
 
-- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+- Colour-coded elevation markups (PDF)Straight from On-Screen Takeoff / Bluebeam Revu.
 
-- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+- Assumptions & exclusions pageSchedule-versus-elevation conflicts, sealant basis and division-of-work notes, in writing.
 
-FAQTrade-specific
+- One revision round and bid-period addendaIncluded, not billed as an extra.
 
-**Q: Why do glazing takeoffs start higher?**
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
 
-Envelope scope carries the most detail risk of any division — schedules, elevations, sections and specs all have to agree, and they often don't. The takeoff reconciles them and flags every conflict, which is exactly where bids are won or blown.
+TYPESProject types
 
-**Q: Can you break out alternates?**
+## Project types we take off most
 
-Yes — alternate systems or glass makeups are quantified side by side so you can price options without redoing the count.
+The set types where senior counting changes the number most.
 
-**Q: How do I start?**
+- Concrete mid-rise and high-rise residentialRepetitive window wall and punched openings by type mark, with typical-floor repetition you can audit.
 
-Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+- Mixed-use podiumStorefront and entrances at grade under residential glazing above — two systems, one set.
+
+- Commercial officeCurtain wall measured elevation by elevation, with spandrel reconciled against the glass schedule.
+
+- InstitutionalFire-rated glazing assemblies, interior glass partitions, and heavy hardware schedules.
+
+- Commercial tenant improvementsInterior glazing, borrowed lights and glass-fronted offices with their own type marks.
+
+FAQGlazing takeoff questions
+
+## Glazing takeoff FAQs
+
+**Q: How much does a glazing takeoff cost?**
+
+From $900. Glazing sits above the finish-trade tier because elevations, glass schedules, door and window schedules and structural details all have to be read against each other. What moves the fixed price is the number of elevations and systems, how many makeups the schedule carries, and building height. A written fixed quote comes back within 4 business hours. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Every glazing set gets a firm delivery date with the fixed quote, sized to the number of elevations. Same-day rush is +50%. If it lands after the date on the quote, you pay half.
+
+**Q: Does this page cover building envelope too?**
+
+No — this page is Division 08 only: curtain wall, storefront, entrances, windows, interior glazing and the glass itself. Roofing, cladding, insulation, air and vapour barrier and rainscreen are a separate scope with its own page and its own price. See roofing and building envelope takeoffs. If you carry both, say so and they get quoted together.
+
+**Q: Do you separate glass area from framing?**
+
+Yes. Glass comes out by makeup in area and lite counts, framing by profile in lineal feet, and openings counted each. Your glass supplier, your metal supplier and your installers all quote different things, and they shouldn't have to derive their numbers from each other.
+
+**Q: What drawings do you need?**
+
+Elevations, the glass schedule, the window and door schedules, the glazing details and the structural sheets showing embeds. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login. If the structural set isn't available, we'll measure without it and flag the anchorage as excluded rather than guess.
+
+**Q: Can the workbook use our own cost codes?**
+
+Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Thermal and structural performance calculations are an engineering scope, not a takeoff. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
 
 Get a fixed quote
-All trades
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Roofing & envelope takeoff services
+Misc metals takeoff services
+Painting takeoff services
+
+### Where we work
+
+Glazing takeoffs in British Columbia
+Glazing takeoffs in Alberta
+Glazing takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
+
+========================================================================
+SOURCE: https://sharpbid.ca/roofing-envelope-takeoffs
+TITLE: Roofing & Building Envelope Takeoffs | SharpBid
+========================================================================
+
+DIV 07 · ROOFING / CLADDING / INSULATION / BARRIERS
+
+# Roofing & building envelope takeoff services
+
+We measure roof areas by assembly, cladding by elevation, and every layer of the wall build-up separately — sheathing, air and vapour barrier, insulation, strapping, cladding and the flashings that tie them together. For roofing, cladding and envelope subcontractors across Canada: from $600, on time or 50% off.
+
+From $600Firm date with the quoteFixed quote in 4 business hoursOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+Sample takeoff (.xlsx)
+
+SCOPEWhat we countEvery line traceable
+
+## What we count on an envelope takeoff
+
+Every layer, counted as its own layer. A rainscreen wall is five or six materials over the same square footage, each with a different supplier and a different install rate — so the workbook reports them as separate lines against a named wall assembly, not as one wall area.
+
+- Roof areas by assembly typeSF / m²Each roof assembly its own line — membrane type, attachment method and cover board recorded against it.
+
+- Roof insulation, including taperedSF / m² + boardBase layers by thickness, with tapered areas, crickets and saddles identified from the roof plan and slope arrows.
+
+- Roof membrane, base and cap sheetsSF / m²
+
+- Parapets, curbs and upstandsLF + developed SFHeight taken from the details, both faces measured — the membrane doesn't stop at the roof line.
+
+- Roof flashings, counterflashing and regletsLF / m
+
+- Roof penetrations and equipment curbsEACounted from the roof plan and the mechanical layout, by size and detail.
+
+- Drains, scuppers and overflowEA
+
+- Walkway pads, pavers and protectionSF / EA
+
+- Cladding and siding by elevation and materialSF / m²Fibre cement, metal panel, composite, brick veneer, wood and stone each separated, elevation by elevation.
+
+- Exterior sheathingSF / m²Flagged where the spec puts it with the framer or the drywall trade — see drywall takeoffs.
+
+- Air and vapour barrier by typeSF / m²Self-adhered, fluid-applied and mechanically fastened kept apart, with transition membrane counted in lineal.
+
+- Exterior insulation by type and thicknessSF / m²
+
+- Rainscreen strapping, girts and clipsLF + EABy spacing off the details, with the cavity depth recorded.
+
+- Cavity closures, vents and insect screenLF / m
+
+- Wall flashings, trims, corners and closuresLF + EAInside and outside corners, window head and sill flashing, base of wall — counted by condition.
+
+- Sealant by joint conditionLF / mIncluding every transition to glazing, roofing and adjacent assemblies.
+
+- Soffits, fascia and eavesSF + LF
+
+- Balcony and deck waterproofingSF / m² + LF
+
+- Below-grade waterproofing and drainage board where in scopeSF / m²
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure roofing and envelope
+
+We build the takeoff from the wall and roof assembly types in the details, then measure areas against them. An envelope bid priced off a single elevation area is a guess; priced off the assemblies, every layer has a quantity you can hand to a different supplier.
+
+ASSEMBLY FIRST
+
+### Wall and roof types drive the workbook
+
+Each assembly is recorded layer by layer from the details — sheathing, barrier, insulation type and thickness, cavity, strapping, cladding. Areas are measured against that build-up, so the quantity for every layer comes out separately instead of being derived from one wall area with a factor.
+
+ELEVATION BY ELEVATION
+
+### Cladding measured by face, net of openings
+
+Each elevation is measured on its own, with openings deducted according to a rule written on the assumptions page. Faces differ in material, in exposure and in access, and a single building-wide area hides all three.
+
+RAINSCREEN
+
+### The cavity is counted, not assumed
+
+Rainscreen assemblies are standard on the coast, and the strapping, clips, closures and vents in the cavity are real quantities with real labour. Spacing comes off the details, not a rule of thumb, and the cavity depth is recorded so the right fastener and the right girt get priced.
+
+TAPERED
+
+### Tapered insulation read off slope arrows and drains
+
+Tapered areas, crickets and saddles are identified from the roof plan, the slope arrows and the drain locations, and reported separately from the base layers. Board quantities and average thickness are stated so the tapered supplier can price from the same numbers you bid on.
+
+DEVELOPED AREA
+
+### Parapets and upstands measured as surfaces, not lines
+
+A parapet has an inside face, a top and an outside face, and the membrane and barrier run over all of them. Height comes from the details and the developed area is measured, with the lineal run kept alongside for flashing and cap.
+
+TRANSITIONS
+
+### Every interface is a lineal quantity with a name on it
+
+Barrier-to-window, roof-to-wall, wall-to-foundation, cladding-to-glazing: each is measured in lineal feet by condition, with the division the spec assigns it. These joints are where envelope claims come from, and they're where a takeoff earns its money — the same joints we flag from the other side on glazing takeoffs.
+
+PENETRATIONS
+
+### Roof penetrations counted from the mechanical layout
+
+Curbs, vents, stacks and equipment supports are counted from the roof plan read against the mechanical drawings. The equipment isn't your scope; every flashing and every membrane detail around it is.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with assembly codes carried through exactly as the details write them.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on envelope packages
+
+The six that cost roofing and envelope subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+TRANSITIONS
+
+### Barrier tie-ins at rough openings
+
+The air and vapour barrier has to tie into every window and curtain wall perimeter, and specs routinely leave the membrane, the flashing and the sequence unassigned. It's the most claimed condition on the envelope and the easiest one to leave out of a bid.
+
+DIVISION LINE
+
+### Exterior sheathing that may belong to another trade
+
+Glass-mat and plywood sheathing sit with the framer, the drywall sub or the envelope trade depending on the spec. We measure it, keep it separate and name the division — so it isn't excluded three times over.
+
+DETAILS
+
+### Parapets priced as lineal feet
+
+A parapet carries membrane and barrier on both faces and over the top, plus cap flashing and a cant at the base. Priced as a lineal run against a roof area, most of the material and nearly all of the labour goes missing.
+
+CAVITY
+
+### Rainscreen components left out of the wall area
+
+Strapping, clips, closures, vents and insect screen are separate purchases that don't show up in a square-foot cladding number. On a Metro Vancouver wall where rainscreen is standard, they're a meaningful share of the package.
+
+M-SHEETS
+
+### Roof penetrations only shown on mechanical
+
+The roof plan shows a clean field. The mechanical drawings show the units, curbs, stacks and vents that puncture it. Every one is a flashing detail and a membrane termination, and bidding off the architectural roof plan alone misses all of them.
+
+TAPERED
+
+### Tapered insulation carried as flat board
+
+Crickets, saddles and tapered fields have an average thickness well above the base layer, and they're quoted by a different supplier on a different basis. Counted as flat area at nominal thickness, the roof is underpriced before the first roll goes down.
+
+More of these by trade in the bid traps list, and the cost side in what a construction takeoff costs in Canada.
+
+DELIVWhat you receive
+
+## Workbook + marked plans
+
+Everything is checkable. Every quantity traces back to an assembly, an elevation and a coloured area on the marked-up drawings — and each layer's section can go straight out to the supplier who quotes it.
+
+Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
+
+- Excel quantity workbookCSI MasterFormat or your own cost codes, layer by layer per assembly.
+
+- Colour-coded plan and elevation markups (PDF)Straight from On-Screen Takeoff / Bluebeam Revu.
+
+- Assumptions & exclusions pageAssembly build-ups, deduction rule, transition division of work, all in writing.
+
+- One revision round and bid-period addendaIncluded, not billed as an extra.
+
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
+
+TYPESProject types
+
+## Project types we take off most
+
+The set types where senior counting changes the number most.
+
+- Wood-frame multifamilyRainscreen walls, balcony waterproofing, and a long list of flashing conditions repeated on every elevation.
+
+- Concrete mid-rise and high-rise residentialExterior insulation and barrier over concrete, parapet build-ups, and podium roofs with heavy tapered work.
+
+- Mixed-use podiumAmenity roofs, planters and pavers over occupied space, with transitions to the glazed wall at grade.
+
+- Commercial and industrial roofingLarge single-assembly fields where tapered layout and penetration counts decide the number.
+
+- InstitutionalMultiple assemblies in one building, high performance requirements, and detailed transition drawings worth reading closely.
+
+FAQEnvelope takeoff questions
+
+## Roofing & envelope takeoff FAQs
+
+**Q: How much does a roofing or envelope takeoff cost?**
+
+From $600. What moves the fixed price is how many assemblies the details carry, the number of elevations, and whether the scope is roof only or the full wall build-up. A written fixed quote comes back within 4 business hours of sending drawings and doesn't move afterwards. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Every envelope set gets a firm delivery date with the fixed quote, sized to the number of assemblies and elevations. Same-day rush is +50%. If it lands after the date on the quote, you pay half.
+
+**Q: Can I get roofing only, or cladding only?**
+
+Yes. Tell us which scope you carry and the takeoff is built to it — roof only, walls only, or the full envelope. If you bid roofing and someone else bids the walls, we'll still name the transition conditions at the roof-to-wall junction so neither of you is assuming the other has them.
+
+**Q: Do you count each layer of the wall separately?**
+
+Always. Sheathing, air and vapour barrier, insulation, strapping, cavity closures and cladding each get their own quantity against a named assembly. They're different suppliers and different install rates, and deriving five of them from one wall area with factors is how envelope bids go wrong.
+
+**Q: How do you handle tapered insulation?**
+
+Tapered fields, crickets and saddles are identified from the roof plan, slope arrows and drain locations, and reported separately from the base layers with board quantities and average thickness stated. Your tapered supplier can quote from the same numbers you bid on, which is the point.
+
+**Q: What drawings do you need?**
+
+Roof plans, elevations, wall sections and the envelope details — the details matter most, because that's where the assemblies live. The mechanical roof layout is worth sending too, since that's where the penetrations are. A link through the quote form is fine: Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though roof penetrations created by that equipment are counted. Building science review, thermal modelling and warranty design are engineering scopes, not takeoffs. Anything the drawings genuinely leave undetermined is listed on the assumptions page.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+
+Get a fixed quote
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Glazing takeoff services
+Framing takeoff services
+Drywall & steel stud takeoff services
+
+### Where we work
+
+Envelope takeoffs in British Columbia
+Envelope takeoffs in Alberta
+Envelope takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
 
 ========================================================================
 SOURCE: https://sharpbid.ca/misc-metals-takeoffs
@@ -461,64 +1467,240 @@ TITLE: Misc Metals Takeoff Services (Div 05) | SharpBid
 
 DIV 05 · MISC & ORNAMENTAL METALS
 
-# Misc metals takeoffs, fabrication-ready
+# Misc metals takeoff services
 
-Rails, stairs, lintels and embeds counted by detail number against both the architectural and structural sets — a quantity list your shop can fabricate from, not a lump-sum guess.
+We count Division 05 the way a shop buys it — rails by detail number in lineal feet, stairs broken out per flight, lintels and shelf angles by mark, embeds and anchors counted each against the structural set. A fabrication-ready quantity list, not a lump-sum guess. For metals fabricators across Canada: from $600, on time or 50% off.
 
-On time or 50% off ✓Div 05 takeoffs from $600 · next business day
+From $600Firm date with the quoteFixed quote in 4 business hoursOn time or 50% off ✓
 
 Send drawings — quote in 4 hrs
-Full pricing
+Takeoff pricing
 Sample takeoff (.xlsx)
 
-SCOPEWhat gets countedEvery line traceable
+SCOPEWhat we countEvery line traceable
 
-## On the takeoff
+## What we count on a Div 05 takeoff
 
-- Guardrails and handrails LF by detail and mounting condition
+Every item that gets fabricated, galvanized, delivered and installed — tied to the detail number it comes from. Misc metals is a detail-driven trade, so the workbook is organized by detail and mark rather than by floor area.
 
-- Stairs broken out per flight — stringers, treads, landings
+- Guardrails and handrails by detail numberLF / mEach detail its own line — post spacing, infill type, top rail profile and mounting condition recorded against it.
 
-- Ladders, gates and bollards counted each
+- Rail posts, returns and terminationsEA
 
-- Lintels and shelf angles LF by size and condition
+- Stairs broken out per flightEA + LF + risersStringers, treads, risers, landings and platforms separated so shop hours land on the right item.
 
-- Embeds and anchors counted each against the structural set
+- Ships ladders, cat ladders and roof hatches accessEA + LF
 
-- Miscellaneous supports and frames per detail sheets
+- Lintels by mark and sizeEA + LFAgainst the lintel schedule, with bearing length and galvanizing noted.
 
-- Finish (galvanized / painted / stainless) separated per item
+- Shelf angles and support anglesLF / m
 
-DELIVHow it arrives
+- Embeds, weld plates and anchor boltsEACounted from the structural drawings, by type, because that's the sheet they're drawn on.
+
+- Bollards, wheel stops and guardsEA
+
+- Gratings, floor plate and trench coversSF + EA
+
+- Equipment supports, dunnage and platformsEA + LFFrom the mechanical and structural sets, where the support is yours and the equipment isn't.
+
+- Loose steel, angles and miscellaneous framingLF + EA
+
+- Elevator sill angles, divider beams and hoistway steelEA + LF
+
+- Corner guards, bumper rails and edge protectionLF / EA
+
+- Metal fabrications in ornamental and feature workEA + LF
+
+- Finish and coating per itemstatedHot-dip galvanized, shop primed, painted or architecturally finished — recorded against every line, since it changes both cost and lead time.
+
+- Connection hardware and fastenersEA
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure miscellaneous metals
+
+Misc metals is measured off details and schedules, with the architectural and structural sets read together. Almost every scope gap in this trade comes from reading only one of the two — the rail is on the A-sheets, the embed that holds it is on the S-sheets.
+
+DETAIL NUMBER
+
+### Every item is tied to the detail it comes from
+
+Rails, stairs and fabrications are grouped by detail number, not by location, because that's how a shop estimates and how a fabrication drawing gets produced. The workbook reads like a cut list with quantities, and every line points back at a drawing you can open.
+
+TWO SETS
+
+### Architectural and structural read against each other
+
+The rail is on the A-sheets and its embed is on the S-sheets. Lintels are scheduled structurally and shown architecturally. Equipment supports come from the mechanical layout. We read all of them together, and where they disagree, both readings go on the assumptions page.
+
+PER FLIGHT
+
+### Stairs are broken down, never counted as stairs
+
+A stair is stringers, treads, risers, landings, handrails and guards — different material, different shop time, different install. Counting "one stair" hides all of it. We report per flight with the components separated, so shop hours attach to the right item.
+
+FINISH
+
+### Galvanizing and finish recorded per item
+
+Hot-dip galvanizing changes cost, adds a trip and adds lead time. Shop primer, field paint and architectural finishes all price differently again. Finish is written against every line so procurement and schedule both work off the same list.
+
+CONDITIONS
+
+### Rails measured by condition, not by total length
+
+Wall-mounted, floor-mounted, fascia-mounted, guard versus handrail, sloped versus level — each is a different rate over the same lineal foot. Post counts come from spacing in the detail rather than from an assumed average.
+
+EXCLUSIONS BY LIST
+
+### "Miscellaneous metals as required" is answered with a list
+
+Specs love that phrase, and it means everything nobody else claimed. We give you an itemized list of what was measured, so your exclusions can be specific instead of a blanket qualification that a general contractor will read past.
+
+COORDINATION
+
+### Embeds tied to the pour they go in
+
+Embeds are counted by type against the element they're cast into, which is what makes them useful on site rather than just in a bid. It's the same reading that drives the concrete and formwork takeoff from the other side.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with detail numbers and marks carried through exactly as drawn.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on Div 05 packages
+
+The six that cost metals fabricators money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+A-SHEETS VS S-SHEETS
+
+### Embeds live on the structural set
+
+The rail lives on the architectural sheets, the embed that holds it lives on the structural. Bid one set and half the package is somebody's assumption — and embeds have to be on site before the pour, so the discovery is expensive as well as late.
+
+SPEC LANGUAGE
+
+### "Miscellaneous metals as required"
+
+It means everything no other trade claimed, and it's a blank cheque unless you answer it with a list. Exclude by itemized list, not by hope — a general qualification is worth very little in a scope meeting.
+
+M-SHEETS
+
+### Equipment supports and dunnage
+
+Rooftop units, tanks and mechanical equipment need steel supports drawn on the mechanical or structural sheets. The equipment belongs to another trade; the steel under it is Division 05, and it's rarely on any architectural drawing.
+
+FINISH
+
+### Galvanizing assumed rather than scheduled
+
+Whether an item is hot-dip galvanized, shop primed or architecturally finished is a spec decision with real cost and real lead time attached. Assumed wrong on a large rail package, it's a margin problem you can't recover mid-fabrication.
+
+DIVISION LINE
+
+### Glass guards that might be Division 08
+
+Glass railings and guards sit in Division 05 on some specs and Division 08 on others. We name which one the spec uses so you and the glazing sub aren't both excluding it — or both carrying it.
+
+SCHEDULES
+
+### Lintels scheduled but not shown
+
+Lintel schedules sit on the structural sheets and rarely repeat on the architectural. Every masonry and concrete opening has one, they're heavy, they're usually galvanized, and they're easy to miss when the count is taken off elevations.
+
+More of these by trade in the bid traps list, and the cost side in what a construction takeoff costs in Canada.
+
+DELIVWhat you receive
 
 ## Workbook + marked plans
 
-Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+Everything is checkable. Every quantity traces back to a detail number, a sheet and a marked-up location — a list your shop can quote from and your project manager can order from.
 
-- Excel quantity workbookCSI MasterFormat or your own cost codes.
+Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
 
-- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+- Excel quantity workbookCSI MasterFormat or your own cost codes, grouped by detail number.
 
-- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam Revu.
 
-- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+- Assumptions & exclusions pageAn itemized list of what was measured, finishes assumed, and drawing conflicts.
 
-FAQTrade-specific
+- One revision round and bid-period addendaIncluded, not billed as an extra.
 
-**Q: Do you check both arch and structural sets?**
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
 
-Always — misc metals live in the gaps between the two. Items shown on one set and missing from the other are the classic scope trap, and they're flagged on the assumptions page.
+TYPESProject types
 
-**Q: Can quantities be organized for shop estimating?**
+## Project types we take off most
 
-Yes — by detail number and assembly, so your shop can price material and fab hours item by item.
+The set types where senior counting changes the number most.
 
-**Q: How do I start?**
+- Concrete mid-rise and high-rise residentialStair and guard packages repeated floor to floor, embeds coordinated to the pour, elevator hoistway steel.
 
-Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+- Wood-frame multifamilyBalcony guards, exterior stairs, lintels and the connection hardware between wood and steel.
+
+- Mixed-use podiumFeature stairs and ornamental work at grade over a repetitive guard package above.
+
+- Commercial and institutionalShips ladders, roof access, equipment dunnage and long runs of corner and bumper protection.
+
+- Parking structuresBollards, wheel stops, guards and galvanized everything, with heavy embed counts.
+
+FAQMisc metals takeoff questions
+
+## Misc metals takeoff FAQs
+
+**Q: How much does a misc metals takeoff cost?**
+
+From $600. Division 05 sits above the finish-trade tier because the details, schedules and structural sheets all have to be read together. What moves the fixed price is how many distinct details there are, the number of levels, and whether the package includes stairs. A written fixed quote comes back within 4 business hours. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Every Division 05 set gets a firm delivery date with the fixed quote, sized to the number of details. Same-day rush is +50%. If it lands after the date on the quote, you pay half.
+
+**Q: Do you read the structural drawings as well as the architectural?**
+
+Yes, and on this trade it's the whole job. Embeds, weld plates, lintel schedules and equipment dunnage are drawn structurally while the item they serve is drawn architecturally. A takeoff built from one set only is missing half of Division 05 by definition.
+
+**Q: How are stairs presented?**
+
+Per flight, with stringers, treads, risers, landings, handrails and guards as separate lines. Shop hours and material both attach to components, not to the word "stair", so that's how the workbook reports them.
+
+**Q: Can you give me a list I can hand to the shop?**
+
+That's the format. Items are grouped by detail number with finish, size and quantity against each, which reads as a fabrication list rather than a bid summary. Add your own cost codes and it drops straight into your system.
+
+**Q: What drawings do you need?**
+
+Architectural plans, sections and details; the structural set including lintel and embed schedules; and the mechanical roof and equipment layout if dunnage is in your scope. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Structural steel framing is a separate scope from miscellaneous metals — tell us where your line sits and we'll respect it. Mechanical and electrical entirely; SharpBid doesn't take off Divisions 21 through 28, though supports for that equipment are counted where they're Division 05. Connection design and shop drawings are engineering scopes, not takeoffs.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
 
 Get a fixed quote
-All trades
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Concrete & formwork takeoff services
+Glazing takeoff services
+Painting takeoff services
+
+### Where we work
+
+Misc metals takeoffs in British Columbia
+Misc metals takeoffs in Alberta
+Misc metals takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
 
 ========================================================================
 SOURCE: https://sharpbid.ca/concrete-formwork-takeoffs
@@ -527,62 +1709,417 @@ TITLE: Concrete & Formwork Takeoff Services | SharpBid
 
 DIV 03 · LOW-RISE / SMALL SITES
 
-# Concrete & formwork takeoffs — low-rise, done right
+# Concrete & formwork takeoff services
 
-Volumes, contact areas and finishing measured element by element for low-rise buildings and small sites — footings to slabs — with a clear basis of measurement your crews can check.
+We measure concrete by volume per element and formwork by contact area — the two numbers that price differently and get confused constantly — plus reinforcing, finishing, joints and embedded items. Scoped for low-rise and small-site work across Canada: from $500, on time or 50% off.
 
-On time or 50% off ✓Concrete & formwork from $500 · scope confirmed with quote
+From $500Firm date with the quoteFixed quote in 4 business hoursOn time or 50% off ✓
 
 Send drawings — quote in 4 hrs
-Full pricing
+Takeoff pricing
 Sample takeoff (.xlsx)
 
-SCOPEWhat gets countedEvery line traceable
+SCOPEWhat we countEvery line traceable
 
-## On the takeoff
+## What we count on a concrete takeoff
 
-- Concrete volumes (m³) by element — footings, walls, columns, slabs, stairs
+Volume, contact area, steel and finish — reported as four separate things against every element, because they are four separate costs with four different production rates. Elements are grouped the way you pour, not the way the plan is drawn.
 
-- Formwork contact area SF by element type
+- Concrete volume by element and mixCY / m³Footings, grade beams, walls, columns, slabs-on-grade, suspended slabs, stairs and site elements each on their own line, with the specified strength recorded.
 
-- Slab-on-grade SF with thickness and reinforcing basis noted
+- Formwork as contact areaSFCA / m²Measured face by face — the number that actually prices forming, and not derivable from volume.
 
-- Finishing SF by spec — trowel, broom, cure and seal
+- Form type by conditionSFCAWall forms, column forms, edge forms, one-sided forms against shoring or rock, and architectural form liner kept apart.
 
-- Control and construction joints LF
+- Shoring and reshoring areasSF / m²
 
-- Anchor bolts and embeds counted each
+- Reinforcing steel by size and elementtonnes / lbs + EABars by size against the schedule, mesh by area, with dowels and couplers counted each.
 
-- Rebar carried as supplier-quote allowance — clearly stated
+- Slab finishes by specificationSF / m²Broom, steel trowel, burnished and exposed finishes separated, with flatness requirements noted.
 
-DELIVHow it arrives
+- Curing and sealingSF / m²
+
+- Joints by typeLF / mConstruction, control, saw-cut, isolation and expansion joints counted separately, with filler and sealant.
+
+- Waterstop and joint sealingLF / m
+
+- Vapour barrier and under-slab granularSF / m² + CY
+
+- Under-slab insulationSF / m²
+
+- Embedded items and blockoutsEAAnchor bolts, weld plates, sleeves and openings — read against the structural and mechanical sets.
+
+- Housekeeping pads and equipment basesEA + CYTaken off the mechanical drawings, where they're drawn and where they're usually missed.
+
+- Stairs, landings and pitsEA + CY + SFCA
+
+- Site concrete — curbs, walks, pads and apronsLF + SF + CY
+
+- Excavation and backfill where in your scopeCY / m³
+
+- Over-pour and waste, stated separatelyassumptions pageListed beside the neat volume, never folded into it.
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure concrete and formwork
+
+Volume and contact area are measured independently, element by element, off the structural drawings. The single most expensive mistake in this trade is pricing forming from concrete volume — a thin wall with two faces costs far more to form than a thick one with the same cubic metres.
+
+CONTACT AREA
+
+### Formwork is measured as surface, not derived from volume
+
+Every formed face is measured on its own. Two-sided walls, one-sided walls against shoring, column perimeters, beam sides and soffits, and slab edges all get counted as the surfaces they are. Contact area is what your forming crew is paid for, and there's no factor that gets you there from cubic metres.
+
+BY ELEMENT
+
+### Volume grouped the way you pour
+
+Footings, grade beams, walls, columns, slab-on-grade, suspended slabs and site work are separated, with the specified mix and strength against each. That's how the ready-mix gets ordered and how the pour gets scheduled, so that's how the workbook reports it.
+
+S-SHEETS
+
+### Measured from the structural set, checked against architectural
+
+Dimensions, reinforcing and element sizes come from the structural drawings. The architectural set is read alongside for finishes, site elements and anything the two disagree about — and where they do, both readings go on the assumptions page with the one we measured.
+
+FORM TYPE
+
+### Form conditions separated, because rates differ
+
+A straight wall form, a curved form, a one-sided form braced against shoring and an architectural liner are four different costs over the same square footage of contact area. Each is reported separately with the condition named, so your rates land where they belong.
+
+REBAR
+
+### Reinforcing from the schedule, by size
+
+Bars are taken from the reinforcing schedule by size and element, with mesh by area and dowels and couplers counted each. Weights are reported by size so your supplier can quote and your crew can plan placing, rather than one blended tonnage.
+
+FINISH
+
+### Slab finishes are their own quantity
+
+Broom, steel trowel, burnished and exposed finishes are separate line items with the specified flatness noted. Finishing is labour over area and has nothing to do with the volume underneath it.
+
+M-SHEETS
+
+### Housekeeping pads read off the mechanical drawings
+
+Equipment bases and housekeeping pads are drawn on the mechanical sheets and poured by you. We read the M-sheets as part of the takeoff, count them each with volume attached, and note the equipment they serve.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Structural sets in Canada are commonly metric; smaller residential and site work is often imperial. The workbook arrives in the units you price with, or both columns, with element marks carried through exactly as the structural drawings write them.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on concrete packages
+
+The six that cost concrete subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+CONTACT AREA
+
+### Formwork priced off concrete volume
+
+Formwork is paid by contact area, not by cubic metres. A 200 mm wall with two faces costs far more to form than a 400 mm wall of the same volume. Any takeoff that gives you cubes and expects you to derive forming from them is handing you the risk.
+
+M-SHEETS
+
+### Housekeeping pads on the mechanical drawings
+
+They're shown with the equipment, not on the structural plans, and they're poured by you. Read the M-sheets or they're a freebie — and on a building with a full mechanical room, it's a lot of small pours with a lot of edge form.
+
+SITE CONDITIONS
+
+### One-sided forming against shoring or rock
+
+A one-sided form has to be braced and tied back, and it costs multiples of a conventional two-sided wall over the same contact area. Whether it applies is a site and shoring question the structural drawings don't always answer, so we flag it rather than assume.
+
+SPEC
+
+### Slab flatness and finish written only in the spec
+
+The finish class and any flatness tolerance are Division 03 spec items. A burnished or high-tolerance slab is a different crew, a different rate and sometimes a different pour sequence — none of which appears on a plan.
+
+COORDINATION
+
+### Embeds and blockouts owned by other trades
+
+Weld plates, sleeves, anchor bolts and openings come from the metals, mechanical and electrical packages but get installed by you before the pour. We count them and name where they came from, which is the same reading behind the misc metals takeoff.
+
+JOINTS
+
+### Saw-cut and control joints left out of the number
+
+Joint layout is lineal footage with saw time, filler and sealant attached, and on a large slab-on-grade it's a real line. It's easy to price the slab and forget the cutting, the filling and the second mobilization it usually takes.
+
+More of these by trade in the bid traps list, and the cost side in what a construction takeoff costs in Canada.
+
+DELIVWhat you receive
 
 ## Workbook + marked plans
 
-Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+Everything is checkable. Every quantity traces back to an element, a sheet and a coloured area on the marked-up structural drawings — with volume, contact area, steel and finish as separate columns.
 
-- Excel quantity workbookCSI MasterFormat or your own cost codes.
+Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
 
-- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+- Excel quantity workbookCSI MasterFormat or your own cost codes, by element and pour.
 
-- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam Revu.
 
-- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+- Assumptions & exclusions pageOver-pour and waste, form conditions assumed, and drawing conflicts, all in writing.
 
-FAQTrade-specific
+- One revision round and bid-period addendaIncluded, not billed as an extra.
 
-**Q: Do you take off high-rise concrete?**
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
 
-SharpBid focuses on low-rise and small-site concrete scopes — the work where a fast, senior takeoff changes your bid. Full high-rise structural takeoffs are quoted case by case and only when the timeline supports doing them properly.
+TYPESProject types
 
-**Q: Is rebar included?**
+## Project types we take off
 
-Rebar detailing is carried as a supplier-quote allowance and stated plainly on the assumptions page — you get accurate concrete and formwork numbers without paying for detailing you'd source elsewhere anyway.
+This scope is deliberately limited to low-rise and small-site concrete, where a senior read of the structural set changes the number. High-rise cast-in-place cycle work isn't offered.
 
-**Q: How do I start?**
+- Low-rise commercial and industrialFootings, grade beams, slab-on-grade, and site concrete with a straightforward pour sequence.
 
-Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+- Wood-frame multifamily foundationsFoundation walls, grade beams, parkade slab and the stair and pit pours that come with them.
+
+- Small-site mixed-usePodium foundations and at-grade work under a wood-frame or light structure above.
+
+- Tenant improvement and renovation concreteInfill slabs, pads, curbs, pits and patching over existing structure.
+
+- Site and civil concreteCurbs, walks, pads, aprons and equipment bases measured on their own.
+
+FAQConcrete takeoff questions
+
+## Concrete & formwork takeoff FAQs
+
+**Q: How much does a concrete takeoff cost?**
+
+From $500 for low-rise and small-site scopes. What moves the fixed price is how many distinct elements the structural set carries, whether reinforcing is in scope, and the amount of site concrete. A written fixed quote comes back within 4 business hours of sending drawings. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Every concrete set gets a firm delivery date with the fixed quote, sized to the structural set. Same-day rush is +50%. If it lands after the date on the quote, you pay half.
+
+**Q: Do you take off high-rise cast-in-place work?**
+
+No. This scope is low-rise and small-site concrete — foundations, slab-on-grade, low-rise structure and site work. High-rise cycle forming is a specialist scope with its own production logic, and we'd rather say so than take it on badly. If you need it, we'll tell you straight away rather than after you've sent drawings.
+
+**Q: Do you give formwork as contact area or as volume?**
+
+Contact area, always, measured face by face and reported separately from concrete volume. Forming is paid by the surface your crew builds and strips, and no factor gets you there reliably from cubic metres.
+
+**Q: Is reinforcing included?**
+
+It can be. Bars are taken from the reinforcing schedule by size and element, with mesh by area and dowels and couplers counted each, and weights reported by size. Tell us at quote time whether rebar is in your scope, since it changes the fixed price.
+
+**Q: What drawings do you need?**
+
+The structural set including reinforcing and element schedules, the architectural for finishes and site elements, and the mechanical drawings if housekeeping pads are yours. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. High-rise cast-in-place work, as above. Shoring design, mix design and any structural engineering are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though blockouts and pads serving that equipment are counted. Over-pour and waste are stated separately rather than built into the volume.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
 
 Get a fixed quote
-All trades
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Misc metals takeoff services
+Framing takeoff services
+Roofing & envelope takeoff services
+
+### Where we work
+
+Concrete takeoffs in British Columbia
+Concrete takeoffs in Alberta
+Concrete takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
+
+========================================================================
+SOURCE: https://sharpbid.ca/framing-takeoffs
+TITLE: Wood-Frame & Framing Takeoff Services | SharpBid
+========================================================================
+
+DIV 06 · ROUGH CARPENTRY / WOOD FRAME
+
+# Wood-frame framing takeoff services
+
+Two tiers: wall and sheathing areas by wall type and floor from $600, or a full lumber breakdown with piece counts and board footage from $1,500. Most subs want the first. For wood-frame framers across Canada, on time or 50% off.
+
+Areas from $600Full lumber breakdown from $1,500Fixed quote in 4 business hoursOn time or 50% off ✓
+
+Send drawings — quote in 4 hrs
+Takeoff pricing
+
+TIER 1Wall & sheathing areasFrom $600
+
+## Framing wall & sheathing areas
+
+The most-requested scope, and enough to bid most wood-frame jobs: wall areas and lineal runs by wall type and floor, sheathing areas, and openings counted — so you apply your own per-square-foot rates without anyone guessing at piece counts.
+
+- Wall area by wall type and floorSF / m²Exterior, interior, party and shear walls separated, level by level.
+
+- Wall length by wall type and floorLF / m
+
+- Wall heights by floorstatedTaken from the sections, so plate heights aren't assumed.
+
+- Floor sheathingSF / m²
+
+- Roof sheathingSF / m²On the slope, not the plan footprint.
+
+- Wall sheathing by elevationSF / m²
+
+- Openings — doors, windows, mechanicalEACounted each by size, so you can price headers your own way.
+
+- Shear wall areas identifiedSF + LFFlagged from the structural set — no nailing schedule quantities at this tier.
+
+No lumber piece counts at this tier. If you need them, that's Tier 2 below.
+
+TIER 2Full lumber breakdownFrom $1,500 · quoted per project
+
+## Full lumber breakdown
+
+Everything in Tier 1 plus a material list your yard can quote from. Quoted per project rather than off a schedule, and most multifamily sets price above the starting figure.
+
+- Everything in Tier 1included
+
+- Stud counts by size, length and spacingEAFloor by floor, against the wall types.
+
+- Plates — bottom, top and double topLF + EAPressure-treated bottom plates separated.
+
+- Headers and beams by openingEA + LFWith built-up members and engineered lumber identified.
+
+- Board footage by member sizeFBM
+
+- Blocking, strapping and firestoppingLF + EA
+
+- Joists, rafters and engineered membersEA + LF
+
+- Shear wall schedulesper schedulePanel type, nailing pattern, hold-downs and straps by mark, floor by floor.
+
+- Connection hardwareEAHangers, clips, straps, anchors and hold-downs by type.
+
+- Fasteners by assemblystated
+
+METHODHow we measure it
+
+## How we measure wood framing
+
+Wall types come off the legend, and the structural set is read alongside the architectural — the shear walls, hold-downs and hardware that decide a framing bid are never on the architectural drawings.
+
+WALL TYPE
+
+### Separated by function, not just by line
+
+Exterior, interior, party and shear walls carry different studs, sheathing and acoustic or fire requirements. Measured separately by floor, so your rates apply to walls that build the same way.
+
+S-SHEETS
+
+### Shear walls and hardware come from the structural set
+
+Shear wall marks, nailing schedules, hold-downs and straps are structural items. Tier 1 identifies and locates them; Tier 2 quantifies them by mark, floor by floor.
+
+SLOPE
+
+### Roof sheathing measured on the slope
+
+Taken on the sloped surface using the pitch from the roof plan and sections, not the plan footprint. On a steep roof that difference is a material order you don't want wrong.
+
+REPETITION
+
+### Typical floors extended visibly
+
+A typical floor is measured in full and extended, with the workbook showing which levels were measured and which extended. Six-storey wood-frame is common in Metro Vancouver, and that repetition is where the efficiency is.
+
+GAPSScope gaps we flag
+
+## Scope gaps we flag on framing packages
+
+Four that cost framers money most often, each written onto the assumptions page with the sheet it came from.
+
+S-SHEETS
+
+### Hold-downs and straps priced as an allowance
+
+Hardware is scheduled structurally by mark and floor. On a six-storey building the counts are large and the unit costs are not small — a lump allowance is either padding or a shortfall.
+
+DIVISION LINE
+
+### Exterior sheathing that may not be yours
+
+Sheathing sits with the framer, the drywall sub or the envelope trade depending on the spec. We name the division so it isn't excluded three times — the same question we flag on drywall and envelope takeoffs.
+
+SECTIONS
+
+### Plate heights assumed from a typical detail
+
+Ground floors, amenity space and transfer levels routinely differ from the typical floor above. Assumed off one detail, every wall on those levels is the wrong height.
+
+DETAILS
+
+### Blocking and backing left to the field
+
+Firestopping, strapping and backing are detail and schedule items that never appear in plan. On a repetitive residential floor plate they add up fast, and they're labour as much as material.
+
+FAQFraming takeoff questions
+
+## Framing takeoff FAQs
+
+**Q: How much does a framing takeoff cost?**
+
+Wall and sheathing areas start at $600. The full lumber breakdown starts at $1,500, quoted per project — most multifamily sets price higher. A written fixed quote comes back within 4 business hours either way. Full schedule on the takeoff pricing page.
+
+**Q: Which tier do I need?**
+
+If you price framing by the square foot off your own production rates, Tier 1 is enough and it's what most subs ask for. If you need a material list your yard can quote, or you're checking a supplier's list against the drawings, that's Tier 2. Tell us which at quote time and we'll say if we think you've picked the wrong one.
+
+**Q: Do you count shear wall hardware?**
+
+At Tier 1 shear walls are identified and located from the structural set, without hardware counts. At Tier 2 hold-downs, straps, hangers and clips are quantified by mark and floor against the shear wall schedule.
+
+**Q: Is roof sheathing measured on the slope?**
+
+Yes — on the sloped surface, using the pitch from the roof plan and sections, not the plan footprint. Both tiers.
+
+**Q: What drawings do you need?**
+
+Architectural plans and sections with the wall type legend, plus the structural set including shear wall and hardware schedules. Without the structural drawings we can measure areas but can't identify shear walls, and Tier 2 isn't possible at all. Send a link through the quote form.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Structural design, engineered member sizing and truss design are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Anything the drawings genuinely leave undetermined is listed on the assumptions page.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. Say which tier you want; a fixed price comes back within 4 business hours.
+
+Get a fixed quote
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Drywall & steel stud takeoff services
+Roofing & envelope takeoff services
+Concrete & formwork takeoff services
+
+### Where we work
+
+Framing takeoffs in British Columbia
+Framing takeoffs in Alberta
+Framing takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
 

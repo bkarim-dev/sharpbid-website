@@ -11,9 +11,6 @@ const SITE = "https://sharpbid.ca";
 /* Pages on the v4 roadmap that later phases publish. Links to these are
    reported as PENDING, not broken. This list must be empty before launch. */
 const PENDING = new Set([
-  "/acoustic-ceiling-takeoffs",
-  "/roofing-envelope-takeoffs",
-  "/framing-takeoffs",
   "/takeoff-services-british-columbia",
   "/takeoff-services-alberta",
   "/takeoff-services-ontario",

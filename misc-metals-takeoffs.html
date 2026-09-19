@@ -37,10 +37,18 @@
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Misc metals takeoffs, fabrication-ready",
+    "name": "Miscellaneous metals (Division 05) takeoff services",
     "serviceType": "Construction quantity takeoff",
-    "provider": { "@type": "ProfessionalService", "name": "SharpBid Estimating", "url": "https://sharpbid.ca", "telephone": "+1-604-245-4344", "email": "info@sharpbid.ca" },
-    "areaServed": [ { "@type": "AdministrativeArea", "name": "Metro Vancouver" }, { "@type": "Country", "name": "Canada" } ]
+    "description": "Quantity takeoffs for miscellaneous metals fabricators: guardrails and handrails by detail number, stairs broken out per flight, ladders, lintels and shelf angles, embeds and anchors counted each, bollards, gratings, supports and connection hardware, with finish and galvanizing stated per item.",
+    "provider": { "@id": "https://sharpbid.ca/#business" },
+    "areaServed": { "@type": "Country", "name": "Canada" },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "CAD",
+      "price": "600",
+      "description": "starting price",
+      "url": "https://sharpbid.ca/misc-metals-takeoffs"
+    }
   }
   </script>
   <script type="application/ld+json">
@@ -48,24 +56,9 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://sharpbid.ca/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Trades",
-        "item": "https://sharpbid.ca/#trades"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Misc metals takeoffs",
-        "item": "https://sharpbid.ca/misc-metals-takeoffs"
-      }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://sharpbid.ca/" },
+      { "@type": "ListItem", "position": 2, "name": "Trades", "item": "https://sharpbid.ca/#trades" },
+      { "@type": "ListItem", "position": 3, "name": "Misc metals takeoffs", "item": "https://sharpbid.ca/misc-metals-takeoffs" }
     ]
   }
   </script>
@@ -76,26 +69,58 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Do you check both arch and structural sets?",
+        "name": "How much does a misc metals takeoff cost?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Always — misc metals live in the gaps between the two. Items shown on one set and missing from the other are the classic scope trap, and they're flagged on the assumptions page."
+          "text": "From $600. Division 05 sits above the finish-trade tier because the details, schedules and structural sheets all have to be read together. What moves the fixed price is how many distinct details there are, the number of levels, and whether the package includes stairs. A written fixed quote comes back within 4 business hours. Full schedule on the takeoff pricing page."
         }
       },
       {
         "@type": "Question",
-        "name": "Can quantities be organized for shop estimating?",
+        "name": "How fast is it delivered?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes — by detail number and assembly, so your shop can price material and fab hours item by item."
+          "text": "Every Division 05 set gets a firm delivery date with the fixed quote, sized to the number of details. Same-day rush is +50%. If it lands after the date on the quote, you pay half."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I start?",
+        "name": "Do you read the structural drawings as well as the architectural?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours."
+          "text": "Yes, and on this trade it's the whole job. Embeds, weld plates, lintel schedules and equipment dunnage are drawn structurally while the item they serve is drawn architecturally. A takeoff built from one set only is missing half of Division 05 by definition."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How are stairs presented?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Per flight, with stringers, treads, risers, landings, handrails and guards as separate lines. Shop hours and material both attach to components, not to the word \"stair\", so that's how the workbook reports them."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you give me a list I can hand to the shop?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "That's the format. Items are grouped by detail number with finish, size and quantity against each, which reads as a fabrication list rather than a bid summary. Add your own cost codes and it drops straight into your system."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What drawings do you need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Architectural plans, sections and details; the structural set including lintel and embed schedules; and the mechanical roof and equipment layout if dunnage is in your scope. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's excluded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pricing, unless you add price placeholders. Structural steel framing is a separate scope from miscellaneous metals — tell us where your line sits and we'll respect it. Mechanical and electrical entirely; SharpBid doesn't take off Divisions 21 through 28, though supports for that equipment are counted where they're Division 05. Connection design and shop drawings are engineering scopes, not takeoffs."
         }
       }
     ]
@@ -129,16 +154,15 @@
 </nav>
 
 <main>
-
 <header class="trade-hero">
   <div class="wrap">
-    <span class="code" style="border-left-color:var(--t-metals)">DIV 05 · MISC & ORNAMENTAL METALS</span>
-    <h1>Misc metals takeoffs, fabrication-ready</h1>
-    <p class="lede">Rails, stairs, lintels and embeds counted by detail number against both the architectural and structural sets — a quantity list your shop can fabricate from, not a lump-sum guess.</p>
-    <div class="trade-price"><span>On time or 50% off ✓</span><span>Div 05 takeoffs from $600 · next business day</span></div>
+    <span class="code" style="border-left-color:var(--t-metals)">DIV 05 · MISC &amp; ORNAMENTAL METALS</span>
+    <h1>Misc metals takeoff services</h1>
+    <p class="lede">We count Division 05 the way a shop buys it — rails by detail number in lineal feet, stairs broken out per flight, lintels and shelf angles by mark, embeds and anchors counted each against the structural set. A fabrication-ready quantity list, not a lump-sum guess. For metals fabricators across Canada: from $600, on time or 50% off.</p>
+    <div class="trade-price"><span>From $600</span><span>Firm date with the quote</span><span>Fixed quote in 4 business hours</span><span>On time or 50% off ✓</span></div>
     <div class="hero-ctas" style="margin-top:22px;">
       <a class="btn btn-ink" href="/#quote">Send drawings — quote in 4 hrs</a>
-      <a class="btn" href="/#pricing">Full pricing</a>
+      <a class="btn" href="/pricing">Takeoff pricing</a>
       <a class="btn" href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Sample takeoff (.xlsx)</a>
     </div>
   </div>
@@ -146,60 +170,217 @@
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">SCOPE</span><span>What gets counted</span><span class="dim"></span><span>Every line traceable</span></div>
-    <h2 class="rev-up" style="margin-bottom:36px;">On the <span class="mark">takeoff</span></h2>
+    <div class="sheet-strip"><span class="no">SCOPE</span><span>What we count</span><span class="dim"></span><span>Every line traceable</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">What we count on a<br /><span class="mark">Div 05 takeoff</span></h2>
+    <p class="answer rev-up">Every item that gets fabricated, galvanized, delivered and installed — tied to the detail number it comes from. Misc metals is a detail-driven trade, so the workbook is organized by detail and mark rather than by floor area.</p>
     <ul class="countlist rev-up" style="--tp:var(--t-metals)">
-      <li>Guardrails and handrails LF by detail and mounting condition</li>
-      <li>Stairs broken out per flight — stringers, treads, landings</li>
-      <li>Ladders, gates and bollards counted each</li>
-      <li>Lintels and shelf angles LF by size and condition</li>
-      <li>Embeds and anchors counted each against the structural set</li>
-      <li>Miscellaneous supports and frames per detail sheets</li>
-      <li>Finish (galvanized / painted / stainless) separated per item</li>
+      <li><b>Guardrails and handrails by detail number</b><span class="u">LF / m</span><span class="note">Each detail its own line — post spacing, infill type, top rail profile and mounting condition recorded against it.</span></li>
+      <li><b>Rail posts, returns and terminations</b><span class="u">EA</span></li>
+      <li><b>Stairs broken out per flight</b><span class="u">EA + LF + risers</span><span class="note">Stringers, treads, risers, landings and platforms separated so shop hours land on the right item.</span></li>
+      <li><b>Ships ladders, cat ladders and roof hatches access</b><span class="u">EA + LF</span></li>
+      <li><b>Lintels by mark and size</b><span class="u">EA + LF</span><span class="note">Against the lintel schedule, with bearing length and galvanizing noted.</span></li>
+      <li><b>Shelf angles and support angles</b><span class="u">LF / m</span></li>
+      <li><b>Embeds, weld plates and anchor bolts</b><span class="u">EA</span><span class="note">Counted from the structural drawings, by type, because that's the sheet they're drawn on.</span></li>
+      <li><b>Bollards, wheel stops and guards</b><span class="u">EA</span></li>
+      <li><b>Gratings, floor plate and trench covers</b><span class="u">SF + EA</span></li>
+      <li><b>Equipment supports, dunnage and platforms</b><span class="u">EA + LF</span><span class="note">From the mechanical and structural sets, where the support is yours and the equipment isn't.</span></li>
+      <li><b>Loose steel, angles and miscellaneous framing</b><span class="u">LF + EA</span></li>
+      <li><b>Elevator sill angles, divider beams and hoistway steel</b><span class="u">EA + LF</span></li>
+      <li><b>Corner guards, bumper rails and edge protection</b><span class="u">LF / EA</span></li>
+      <li><b>Metal fabrications in ornamental and feature work</b><span class="u">EA + LF</span></li>
+      <li><b>Finish and coating per item</b><span class="u">stated</span><span class="note">Hot-dip galvanized, shop primed, painted or architecturally finished — recorded against every line, since it changes both cost and lead time.</span></li>
+      <li><b>Connection hardware and fasteners</b><span class="u">EA</span></li>
     </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">METHOD</span><span>How we measure it</span><span class="dim"></span><span>Basis stated in writing</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">How we measure<br />miscellaneous metals</h2>
+    <p class="answer rev-up">Misc metals is measured off details and schedules, with the architectural and structural sets read together. Almost every scope gap in this trade comes from reading only one of the two — the rail is on the A-sheets, the embed that holds it is on the S-sheets.</p>
+    <div class="method rev-up">
+      <div>
+        <span class="tag">DETAIL NUMBER</span>
+        <h3>Every item is tied to the detail it comes from</h3>
+        <p>Rails, stairs and fabrications are grouped by detail number, not by location, because that's how a shop estimates and how a fabrication drawing gets produced. The workbook reads like a cut list with quantities, and every line points back at a drawing you can open.</p>
+      </div>
+      <div>
+        <span class="tag">TWO SETS</span>
+        <h3>Architectural and structural read against each other</h3>
+        <p>The rail is on the A-sheets and its embed is on the S-sheets. Lintels are scheduled structurally and shown architecturally. Equipment supports come from the mechanical layout. We read all of them together, and where they disagree, both readings go on the assumptions page.</p>
+      </div>
+      <div>
+        <span class="tag">PER FLIGHT</span>
+        <h3>Stairs are broken down, never counted as stairs</h3>
+        <p>A stair is stringers, treads, risers, landings, handrails and guards — different material, different shop time, different install. Counting "one stair" hides all of it. We report per flight with the components separated, so shop hours attach to the right item.</p>
+      </div>
+      <div>
+        <span class="tag">FINISH</span>
+        <h3>Galvanizing and finish recorded per item</h3>
+        <p>Hot-dip galvanizing changes cost, adds a trip and adds lead time. Shop primer, field paint and architectural finishes all price differently again. Finish is written against every line so procurement and schedule both work off the same list.</p>
+      </div>
+      <div>
+        <span class="tag">CONDITIONS</span>
+        <h3>Rails measured by condition, not by total length</h3>
+        <p>Wall-mounted, floor-mounted, fascia-mounted, guard versus handrail, sloped versus level — each is a different rate over the same lineal foot. Post counts come from spacing in the detail rather than from an assumed average.</p>
+      </div>
+      <div>
+        <span class="tag">EXCLUSIONS BY LIST</span>
+        <h3>"Miscellaneous metals as required" is answered with a list</h3>
+        <p>Specs love that phrase, and it means everything nobody else claimed. We give you an itemized list of what was measured, so your exclusions can be specific instead of a blanket qualification that a general contractor will read past.</p>
+      </div>
+      <div>
+        <span class="tag">COORDINATION</span>
+        <h3>Embeds tied to the pour they go in</h3>
+        <p>Embeds are counted by type against the element they're cast into, which is what makes them useful on site rather than just in a bid. It's the same reading that drives the <a href="/concrete-formwork-takeoffs">concrete and formwork takeoff</a> from the other side.</p>
+      </div>
+      <div>
+        <span class="tag">UNITS</span>
+        <h3>Metric or imperial, whichever you bid in</h3>
+        <p>Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with detail numbers and marks carried through exactly as drawn.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">GAPS</span><span>Scope gaps we flag</span><span class="dim"></span><span>Caught before you bid</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Scope gaps we flag<br />on Div 05 packages</h2>
+    <p class="answer rev-up">The six that cost metals fabricators money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.</p>
+    <div class="grid-2">
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-metals)">A-SHEETS VS S-SHEETS</span>
+        <h3>Embeds live on the structural set</h3>
+        <p>The rail lives on the architectural sheets, the embed that holds it lives on the structural. Bid one set and half the package is somebody's assumption — and embeds have to be on site before the pour, so the discovery is expensive as well as late.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-metals)">SPEC LANGUAGE</span>
+        <h3>"Miscellaneous metals as required"</h3>
+        <p>It means everything no other trade claimed, and it's a blank cheque unless you answer it with a list. Exclude by itemized list, not by hope — a general qualification is worth very little in a scope meeting.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-metals)">M-SHEETS</span>
+        <h3>Equipment supports and dunnage</h3>
+        <p>Rooftop units, tanks and mechanical equipment need steel supports drawn on the mechanical or structural sheets. The equipment belongs to another trade; the steel under it is Division 05, and it's rarely on any architectural drawing.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-metals)">FINISH</span>
+        <h3>Galvanizing assumed rather than scheduled</h3>
+        <p>Whether an item is hot-dip galvanized, shop primed or architecturally finished is a spec decision with real cost and real lead time attached. Assumed wrong on a large rail package, it's a margin problem you can't recover mid-fabrication.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-metals)">DIVISION LINE</span>
+        <h3>Glass guards that might be Division 08</h3>
+        <p>Glass railings and guards sit in Division 05 on some specs and Division 08 on others. We name which one the spec uses so you and the <a href="/glazing-takeoffs">glazing sub</a> aren't both excluding it — or both carrying it.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-metals)">SCHEDULES</span>
+        <h3>Lintels scheduled but not shown</h3>
+        <p>Lintel schedules sit on the structural sheets and rarely repeat on the architectural. Every masonry and concrete opening has one, they're heavy, they're usually galvanized, and they're easy to miss when the count is taken off elevations.</p>
+      </div>
+    </div>
+    <p class="region-foot rev-up">More of these by trade in the <a href="/bid-traps">bid traps list</a>, and the cost side in <a href="/guides/construction-takeoff-cost-canada">what a construction takeoff costs in Canada</a>.</p>
   </div>
 </section>
 
 <section class="alt">
   <div class="wrap deliv">
     <div>
-      <div class="sheet-strip"><span class="no">DELIV</span><span>How it arrives</span><span class="dim"></span></div>
+      <div class="sheet-strip"><span class="no">DELIV</span><span>What you receive</span><span class="dim"></span></div>
       <h2 class="rev-up">Workbook +<br /><span class="mark">marked plans</span></h2>
-      <p class="lede rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.</p>
+      <p class="answer rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces back to a detail number, a sheet and a marked-up location — a list your shop can quote from and your project manager can order from.</p>
+      <p class="region-foot rev-up"><a href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Download the sample workbook (.xlsx)</a> — a fictitious office TI, in the real format.</p>
     </div>
     <ul class="speclist rev-up">
-      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Colour-coded plan markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>Waste, basis of measurement, drawing conflicts flagged.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Optional: placeholders &amp; quote template</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes, grouped by detail number.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Colour-coded plan markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam Revu.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>An itemized list of what was measured, finishes assumed, and drawing conflicts.</span></div></li>
+      <li><span class="tickbox"></span><div><b>One revision round and bid-period addenda</b><span>Included, not billed as an extra.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Optional: price placeholders (+15%) and quote template (+$150)</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
     </ul>
   </div>
 </section>
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">FAQ</span><span>Trade-specific</span><span class="dim"></span></div>
+    <div class="sheet-strip"><span class="no">TYPES</span><span>Project types</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Project types we<br />take off most</h2>
+    <p class="answer rev-up">The set types where senior counting changes the number most.</p>
+    <ul class="speclist rev-up" style="max-width:840px;">
+      <li><span class="tickbox"></span><div><b>Concrete mid-rise and high-rise residential</b><span>Stair and guard packages repeated floor to floor, embeds coordinated to the pour, elevator hoistway steel.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Wood-frame multifamily</b><span>Balcony guards, exterior stairs, lintels and the connection hardware between wood and steel.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Mixed-use podium</b><span>Feature stairs and ornamental work at grade over a repetitive guard package above.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Commercial and institutional</b><span>Ships ladders, roof access, equipment dunnage and long runs of corner and bumper protection.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Parking structures</b><span>Bollards, wheel stops, guards and galvanized everything, with heavy embed counts.</span></div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">FAQ</span><span>Misc metals takeoff questions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:36px;">Misc metals takeoff FAQs</h2>
     <div class="faq rev-up">
       <details>
-        <summary>Do you check both arch and structural sets?</summary>
-        <div class="a">Always — misc metals live in the gaps between the two. Items shown on one set and missing from the other are the classic scope trap, and they're flagged on the assumptions page.</div>
+        <summary>How much does a misc metals takeoff cost?</summary>
+        <div class="a">From $600. Division 05 sits above the finish-trade tier because the details, schedules and structural sheets all have to be read together. What moves the fixed price is how many distinct details there are, the number of levels, and whether the package includes stairs. A written fixed quote comes back within 4 business hours. Full schedule on the <a href="/pricing">takeoff pricing page</a>.</div>
       </details>
       <details>
-        <summary>Can quantities be organized for shop estimating?</summary>
-        <div class="a">Yes — by detail number and assembly, so your shop can price material and fab hours item by item.</div>
+        <summary>How fast is it delivered?</summary>
+        <div class="a">Every Division 05 set gets a firm delivery date with the fixed quote, sized to the number of details. Same-day rush is +50%. If it lands after the date on the quote, you pay half.</div>
       </details>
       <details>
-        <summary>How do I start?</summary>
-        <div class="a">Send a drawings link through the <a href="/#quote">quote form</a> or to <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and delivery date come back within 4 business hours.</div>
+        <summary>Do you read the structural drawings as well as the architectural?</summary>
+        <div class="a">Yes, and on this trade it's the whole job. Embeds, weld plates, lintel schedules and equipment dunnage are drawn structurally while the item they serve is drawn architecturally. A takeoff built from one set only is missing half of Division 05 by definition.</div>
       </details>
-    </div>
-    <div class="hero-ctas" style="margin-top:36px;">
-      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
-      <a class="btn" href="/#trades">All trades</a>
+      <details>
+        <summary>How are stairs presented?</summary>
+        <div class="a">Per flight, with stringers, treads, risers, landings, handrails and guards as separate lines. Shop hours and material both attach to components, not to the word "stair", so that's how the workbook reports them.</div>
+      </details>
+      <details>
+        <summary>Can you give me a list I can hand to the shop?</summary>
+        <div class="a">That's the format. Items are grouped by detail number with finish, size and quantity against each, which reads as a fabrication list rather than a bid summary. Add your own cost codes and it drops straight into your system.</div>
+      </details>
+      <details>
+        <summary>What drawings do you need?</summary>
+        <div class="a">Architectural plans, sections and details; the structural set including lintel and embed schedules; and the mechanical roof and equipment layout if dunnage is in your scope. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login.</div>
+      </details>
+      <details>
+        <summary>What's excluded?</summary>
+        <div class="a">Pricing, unless you add price placeholders. Structural steel framing is a separate scope from miscellaneous metals — tell us where your line sits and we'll respect it. Mechanical and electrical entirely; SharpBid doesn't take off Divisions 21 through 28, though supports for that equipment are counted where they're Division 05. Connection design and shop drawings are engineering scopes, not takeoffs.</div>
+      </details>
     </div>
   </div>
 </section>
 
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">NEXT</span><span>Related scopes &amp; regions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:18px;">Send the drawings.<br /><span class="mark">Fixed quote in 4 hours.</span></h2>
+    <p class="answer rev-up">Drop a link through the quote form or email <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and a guaranteed delivery date come back within 4 business hours.</p>
+    <div class="hero-ctas" style="margin-bottom:34px;">
+      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
+      <a class="btn" href="/pricing">See all takeoff pricing</a>
+    </div>
+
+    <h3 style="margin-bottom:12px;">Trades that usually come with it</h3>
+    <div class="related">
+      <a style="border-left-color:var(--t-concrete)" href="/concrete-formwork-takeoffs">Concrete &amp; formwork takeoff services</a>
+      <a style="border-left-color:var(--t-glazing)" href="/glazing-takeoffs">Glazing takeoff services</a>
+      <a style="border-left-color:var(--t-painting)" href="/painting-takeoffs">Painting takeoff services</a>
+    </div>
+
+    <h3 style="margin:34px 0 12px;">Where we work</h3>
+    <div class="related">
+      <a href="/takeoff-services-british-columbia">Misc metals takeoffs in British Columbia</a>
+      <a href="/takeoff-services-alberta">Misc metals takeoffs in Alberta</a>
+      <a href="/takeoff-services-ontario">Misc metals takeoffs in Ontario</a>
+    </div>
+    <p class="region-foot rev-up">…and anywhere else in Canada — everything is digital.</p>
+  </div>
+</section>
 </main>
 
 <!-- #footer -->

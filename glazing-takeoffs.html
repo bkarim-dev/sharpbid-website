@@ -37,10 +37,18 @@
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Glazing takeoffs by elevation and type mark",
+    "name": "Glazing and curtain wall takeoff services",
     "serviceType": "Construction quantity takeoff",
-    "provider": { "@type": "ProfessionalService", "name": "SharpBid Estimating", "url": "https://sharpbid.ca", "telephone": "+1-604-245-4344", "email": "info@sharpbid.ca" },
-    "areaServed": [ { "@type": "AdministrativeArea", "name": "Metro Vancouver" }, { "@type": "Country", "name": "Canada" } ]
+    "description": "Quantity takeoffs for glazing subcontractors: curtain wall by elevation, storefront and entrances, windows and doors by type mark, glass makeups and spandrel separated, framing in lineal feet by profile, perimeter sealant by condition, and interior glazing.",
+    "provider": { "@id": "https://sharpbid.ca/#business" },
+    "areaServed": { "@type": "Country", "name": "Canada" },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "CAD",
+      "price": "900",
+      "description": "starting price",
+      "url": "https://sharpbid.ca/glazing-takeoffs"
+    }
   }
   </script>
   <script type="application/ld+json">
@@ -48,24 +56,9 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://sharpbid.ca/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Trades",
-        "item": "https://sharpbid.ca/#trades"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Glazing takeoffs",
-        "item": "https://sharpbid.ca/glazing-takeoffs"
-      }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://sharpbid.ca/" },
+      { "@type": "ListItem", "position": 2, "name": "Trades", "item": "https://sharpbid.ca/#trades" },
+      { "@type": "ListItem", "position": 3, "name": "Glazing takeoffs", "item": "https://sharpbid.ca/glazing-takeoffs" }
     ]
   }
   </script>
@@ -76,26 +69,58 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Why do glazing takeoffs start higher?",
+        "name": "How much does a glazing takeoff cost?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Envelope scope carries the most detail risk of any division — schedules, elevations, sections and specs all have to agree, and they often don't. The takeoff reconciles them and flags every conflict, which is exactly where bids are won or blown."
+          "text": "From $900. Glazing sits above the finish-trade tier because elevations, glass schedules, door and window schedules and structural details all have to be read against each other. What moves the fixed price is the number of elevations and systems, how many makeups the schedule carries, and building height. A written fixed quote comes back within 4 business hours. Full schedule on the takeoff pricing page."
         }
       },
       {
         "@type": "Question",
-        "name": "Can you break out alternates?",
+        "name": "How fast is it delivered?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes — alternate systems or glass makeups are quantified side by side so you can price options without redoing the count."
+          "text": "Every glazing set gets a firm delivery date with the fixed quote, sized to the number of elevations. Same-day rush is +50%. If it lands after the date on the quote, you pay half."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I start?",
+        "name": "Does this page cover building envelope too?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours."
+          "text": "No — this page is Division 08 only: curtain wall, storefront, entrances, windows, interior glazing and the glass itself. Roofing, cladding, insulation, air and vapour barrier and rainscreen are a separate scope with its own page and its own price. See roofing and building envelope takeoffs. If you carry both, say so and they get quoted together."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you separate glass area from framing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Glass comes out by makeup in area and lite counts, framing by profile in lineal feet, and openings counted each. Your glass supplier, your metal supplier and your installers all quote different things, and they shouldn't have to derive their numbers from each other."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What drawings do you need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Elevations, the glass schedule, the window and door schedules, the glazing details and the structural sheets showing embeds. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login. If the structural set isn't available, we'll measure without it and flag the anchorage as excluded rather than guess."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can the workbook use our own cost codes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's excluded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Thermal and structural performance calculations are an engineering scope, not a takeoff. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity."
         }
       }
     ]
@@ -129,16 +154,15 @@
 </nav>
 
 <main>
-
 <header class="trade-hero">
   <div class="wrap">
     <span class="code" style="border-left-color:var(--t-glazing)">DIV 08 · CURTAIN WALL / STOREFRONT / WINDOWS</span>
-    <h1>Glazing takeoffs by elevation and type mark</h1>
-    <p class="lede">Curtain wall, storefront and windows measured against the elevations and schedules — with glass makeups, framing and sealants separated so your fabrication and glass quotes line up with your bid.</p>
-    <div class="trade-price"><span>On time or 50% off ✓</span><span>Glazing &amp; envelope takeoffs from $900 · firm date with quote</span></div>
+    <h1>Glazing &amp; curtain wall takeoff services</h1>
+    <p class="lede">We measure curtain wall elevation by elevation, storefront and entrances by opening, and every window and glazed door by type mark — with glass makeups, spandrel and framing profiles kept apart so your glass quote and your metal quote are built on the same numbers. For glazing subcontractors across Canada: from $900, on time or 50% off.</p>
+    <div class="trade-price"><span>From $900</span><span>Firm date with the quote</span><span>Fixed quote in 4 business hours</span><span>On time or 50% off ✓</span></div>
     <div class="hero-ctas" style="margin-top:22px;">
       <a class="btn btn-ink" href="/#quote">Send drawings — quote in 4 hrs</a>
-      <a class="btn" href="/#pricing">Full pricing</a>
+      <a class="btn" href="/pricing">Takeoff pricing</a>
       <a class="btn" href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Sample takeoff (.xlsx)</a>
     </div>
   </div>
@@ -146,61 +170,216 @@
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">SCOPE</span><span>What gets counted</span><span class="dim"></span><span>Every line traceable</span></div>
-    <h2 class="rev-up" style="margin-bottom:36px;">On the <span class="mark">takeoff</span></h2>
+    <div class="sheet-strip"><span class="no">SCOPE</span><span>What we count</span><span class="dim"></span><span>Every line traceable</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">What we count on a<br /><span class="mark">glazing takeoff</span></h2>
+    <p class="answer rev-up">Glass, framing and the edges between them — organized by elevation and by type mark so a fabricator can read it and a supplier can quote from it. Glass area, framing lineal and opening counts all come out separately, because that's how the trade buys.</p>
     <ul class="countlist rev-up" style="--tp:var(--t-glazing)">
-      <li>Curtain wall SF by elevation and system type</li>
-      <li>Storefront and entrance systems SF; door leafs counted each</li>
-      <li>Windows by type mark — each, with rough opening dimensions</li>
-      <li>Glass types and IGU makeups SF, separated for your glass supplier</li>
-      <li>Aluminum framing LF and mullion counts</li>
-      <li>Spandrel, panel and louvre infills SF</li>
-      <li>Sealant joints LF by condition (perimeter, stack, control)</li>
-      <li>Interior glazing, sidelites and mirrors separated from envelope scope</li>
+      <li><b>Curtain wall area by elevation and system</b><span class="u">SF / m²</span><span class="note">Split by elevation and level so access, staging and shipping can be priced against real areas.</span></li>
+      <li><b>Curtain wall framing by profile</b><span class="u">LF / m</span><span class="note">Mullions and horizontals counted separately, with depth and sightline taken from the details.</span></li>
+      <li><b>Vision glass by makeup</b><span class="u">SF / m² + EA</span><span class="note">Each makeup its own line — thickness, coating, laminated and tempered lites, and insulating unit build-up.</span></li>
+      <li><b>Spandrel glass and panels by makeup</b><span class="u">SF / m² + EA</span><span class="note">Kept apart from vision glass, and reconciled between the elevations and the glass schedule.</span></li>
+      <li><b>Storefront by opening</b><span class="u">EA + SF + LF</span><span class="note">Each opening with its framing run, glass area and infill.</span></li>
+      <li><b>Entrances, doors and hardware openings</b><span class="u">EA</span><span class="note">By type mark, with sidelites and transoms counted with them.</span></li>
+      <li><b>Windows by type mark</b><span class="u">EA + SF</span><span class="note">Against the window schedule, with operable units separated from fixed.</span></li>
+      <li><b>Interior glazing, borrowed lights and glass partitions</b><span class="u">SF + EA</span></li>
+      <li><b>Glass railings and guards where in your scope</b><span class="u">LF + EA</span><span class="note">Flagged where the spec puts them in Division 05 instead — see <a href="/misc-metals-takeoffs">misc metals</a>.</span></li>
+      <li><b>Perimeter sealant by condition</b><span class="u">LF / m</span><span class="note">Head, jamb, sill and transitions counted by the joint condition, with backer rod noted.</span></li>
+      <li><b>Sill flashing, closures and trims</b><span class="u">LF / EA</span></li>
+      <li><b>Anchors, embeds and attachment points</b><span class="u">EA</span><span class="note">From the details and the structural set, since that's where the attachment is drawn.</span></li>
+      <li><b>Louvres and mechanical screens within the glazed wall</b><span class="u">SF / EA</span></li>
+      <li><b>Skylights and sloped glazing</b><span class="u">SF / EA</span></li>
+      <li><b>Fire-rated glazing assemblies</b><span class="u">SF / EA</span><span class="note">With the rating attached, because the assembly and the price are nothing like standard glass.</span></li>
     </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">METHOD</span><span>How we measure it</span><span class="dim"></span><span>Basis stated in writing</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">How we measure<br />glazing</h2>
+    <p class="answer rev-up">Elevations and the glass schedule are read against each other before anything is counted. On most sets they disagree somewhere — a panel shown as spandrel on the elevation and missing from the schedule is the classic — and whichever one your supplier quoted, the other one is what gets built.</p>
+    <div class="method rev-up">
+      <div>
+        <span class="tag">ELEVATION BY ELEVATION</span>
+        <h3>Measured by face, not as one building total</h3>
+        <p>Each elevation is measured on its own and reported that way. North and south often carry different coatings, and every face carries different access, staging and crane time. A single building-wide square footage hides all of it.</p>
+      </div>
+      <div>
+        <span class="tag">RECONCILE</span>
+        <h3>Elevations against the glass schedule, panel by panel</h3>
+        <p>Every lite is matched to a makeup in the schedule. Panels shown on an elevation but absent from the schedule, and makeups scheduled but never drawn, both go onto the assumptions page with the position we measured — so it becomes an RFI instead of a claim.</p>
+      </div>
+      <div>
+        <span class="tag">GLASS VS METAL</span>
+        <h3>Glass area and framing lineal come out separately</h3>
+        <p>Your glass supplier quotes area and lite counts; your metal supplier quotes lineal by profile; your installers price openings. All three come out of the same takeoff as separate sections, so you're not deriving one from another with a factor.</p>
+      </div>
+      <div>
+        <span class="tag">TYPE MARK</span>
+        <h3>Windows and doors follow the schedule, counted each</h3>
+        <p>Windows, glazed doors, sidelites and transoms are counted by type mark against the window and door schedules, with operable units separated from fixed. Sizes come from the schedule rather than being scaled off an elevation.</p>
+      </div>
+      <div>
+        <span class="tag">JOINTS</span>
+        <h3>Sealant measured by condition, in lineal feet</h3>
+        <p>Perimeter sealant is measured at head, jamb, sill and at every transition to an adjacent assembly, by the joint condition. It's a line item most subs never quantify and most general contractors assume is included — which makes it free work unless it's written down.</p>
+      </div>
+      <div>
+        <span class="tag">DETAILS</span>
+        <h3>Anchorage comes off the details and the structural set</h3>
+        <p>Embeds, anchors and attachment points are drawn in the details and on the structural sheets, not on the elevations. They're counted each, against the condition they serve, so the attachment isn't a lump-sum guess in an otherwise precise bid.</p>
+      </div>
+      <div>
+        <span class="tag">INTERFACE</span>
+        <h3>The envelope transition is named</h3>
+        <p>Where the glazed wall meets cladding, roofing or the air and vapour barrier, the membrane tie-in and closure can fall on either side of the trade line. We quantify the transition and name the division the spec puts it in — the same joint we look at from the other side on <a href="/roofing-envelope-takeoffs">roofing and envelope takeoffs</a>.</p>
+      </div>
+      <div>
+        <span class="tag">UNITS</span>
+        <h3>Metric or imperial, whichever you bid in</h3>
+        <p>Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns, with type marks and makeup codes carried through exactly as the schedule writes them.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">GAPS</span><span>Scope gaps we flag</span><span class="dim"></span><span>Caught before you bid</span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Scope gaps we flag<br />on glazing packages</h2>
+    <p class="answer rev-up">The six that cost glazing subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.</p>
+    <div class="grid-2">
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-glazing)">SCHEDULE VS ELEVATION</span>
+        <h3>Spandrel drawn but never scheduled</h3>
+        <p>Spandrel shows on the elevations and is missing from the glass schedule. If your glass quote followed the schedule, you just bought the spandrel — and on a tower elevation that is a very large number to absorb.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-glazing)">JOINTS</span>
+        <h3>Perimeter sealant nobody quantified</h3>
+        <p>General contractors measure it twice and subs measure it zero times. Head, jamb, sill and every transition is lineal footage with labour and access attached. Unquantified, it's free work — and on a fully glazed building it is a lot of free work.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-glazing)">S-SHEETS</span>
+        <h3>Embeds drawn on the structural set</h3>
+        <p>The curtain wall lives on the architectural elevations; the embeds that hold it live on the structural sheets. Bid one set and the anchorage is somebody's assumption — usually yours, discovered after the concrete is poured.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-glazing)">DIVISION LINE</span>
+        <h3>Glass railings that may be Division 05</h3>
+        <p>Glass guards and railings sit in Division 08 on some specs and Division 05 on others. We measure them, keep them in their own section and name which division the spec uses, so you and the <a href="/misc-metals-takeoffs">metals fabricator</a> aren't both excluding the same scope.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-glazing)">ENVELOPE TIE-IN</span>
+        <h3>Membrane transitions at the rough opening</h3>
+        <p>The air and vapour barrier has to tie into the window or curtain wall perimeter, and the spec doesn't always say whose membrane, whose flashing or whose sequence. Left ambiguous, it becomes a site problem billed to whoever is standing there.</p>
+      </div>
+      <div class="eng rev-up">
+        <span class="code" style="border-left-color:var(--t-glazing)">ACCESS</span>
+        <h3>Elevations averaged into one area</h3>
+        <p>A ground-floor storefront and a tenth-floor replacement lite are the same square footage and nothing like the same cost. Measured as one building total, swing stage, crane and lift time all disappear from the bid and reappear on the schedule.</p>
+      </div>
+    </div>
+    <p class="region-foot rev-up">More of these by trade in the <a href="/bid-traps">bid traps list</a>, and the cost side in <a href="/guides/construction-takeoff-cost-canada">what a construction takeoff costs in Canada</a>.</p>
   </div>
 </section>
 
 <section class="alt">
   <div class="wrap deliv">
     <div>
-      <div class="sheet-strip"><span class="no">DELIV</span><span>How it arrives</span><span class="dim"></span></div>
+      <div class="sheet-strip"><span class="no">DELIV</span><span>What you receive</span><span class="dim"></span></div>
       <h2 class="rev-up">Workbook +<br /><span class="mark">marked plans</span></h2>
-      <p class="lede rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.</p>
+      <p class="answer rev-up" style="margin-top:18px;">Everything is checkable. Every quantity traces back to an elevation, a type mark and a coloured area on the marked-up drawings — and the glass, metal and opening sections can go straight out to three different suppliers.</p>
+      <p class="region-foot rev-up"><a href="/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx" download>Download the sample workbook (.xlsx)</a> — a fictitious office TI, in the real format.</p>
     </div>
     <ul class="speclist rev-up">
-      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Colour-coded plan markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>Waste, basis of measurement, drawing conflicts flagged.</span></div></li>
-      <li><span class="tickbox"></span><div><b>Optional: placeholders &amp; quote template</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Excel quantity workbook</b><span>CSI MasterFormat or your own cost codes, by elevation and type mark.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Colour-coded elevation markups (PDF)</b><span>Straight from On-Screen Takeoff / Bluebeam Revu.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Assumptions &amp; exclusions page</b><span>Schedule-versus-elevation conflicts, sealant basis and division-of-work notes, in writing.</span></div></li>
+      <li><span class="tickbox"></span><div><b>One revision round and bid-period addenda</b><span>Included, not billed as an extra.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Optional: price placeholders (+15%) and quote template (+$150)</b><span>Bid-ready workbook and a clean proposal format.</span></div></li>
     </ul>
   </div>
 </section>
 
 <section>
   <div class="wrap">
-    <div class="sheet-strip"><span class="no">FAQ</span><span>Trade-specific</span><span class="dim"></span></div>
+    <div class="sheet-strip"><span class="no">TYPES</span><span>Project types</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:20px;">Project types we<br />take off most</h2>
+    <p class="answer rev-up">The set types where senior counting changes the number most.</p>
+    <ul class="speclist rev-up" style="max-width:840px;">
+      <li><span class="tickbox"></span><div><b>Concrete mid-rise and high-rise residential</b><span>Repetitive window wall and punched openings by type mark, with typical-floor repetition you can audit.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Mixed-use podium</b><span>Storefront and entrances at grade under residential glazing above — two systems, one set.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Commercial office</b><span>Curtain wall measured elevation by elevation, with spandrel reconciled against the glass schedule.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Institutional</b><span>Fire-rated glazing assemblies, interior glass partitions, and heavy hardware schedules.</span></div></li>
+      <li><span class="tickbox"></span><div><b>Commercial tenant improvements</b><span>Interior glazing, borrowed lights and glass-fronted offices with their own type marks.</span></div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">FAQ</span><span>Glazing takeoff questions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:36px;">Glazing takeoff FAQs</h2>
     <div class="faq rev-up">
       <details>
-        <summary>Why do glazing takeoffs start higher?</summary>
-        <div class="a">Envelope scope carries the most detail risk of any division — schedules, elevations, sections and specs all have to agree, and they often don't. The takeoff reconciles them and flags every conflict, which is exactly where bids are won or blown.</div>
+        <summary>How much does a glazing takeoff cost?</summary>
+        <div class="a">From $900. Glazing sits above the finish-trade tier because elevations, glass schedules, door and window schedules and structural details all have to be read against each other. What moves the fixed price is the number of elevations and systems, how many makeups the schedule carries, and building height. A written fixed quote comes back within 4 business hours. Full schedule on the <a href="/pricing">takeoff pricing page</a>.</div>
       </details>
       <details>
-        <summary>Can you break out alternates?</summary>
-        <div class="a">Yes — alternate systems or glass makeups are quantified side by side so you can price options without redoing the count.</div>
+        <summary>How fast is it delivered?</summary>
+        <div class="a">Every glazing set gets a firm delivery date with the fixed quote, sized to the number of elevations. Same-day rush is +50%. If it lands after the date on the quote, you pay half.</div>
       </details>
       <details>
-        <summary>How do I start?</summary>
-        <div class="a">Send a drawings link through the <a href="/#quote">quote form</a> or to <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and delivery date come back within 4 business hours.</div>
+        <summary>Does this page cover building envelope too?</summary>
+        <div class="a">No — this page is Division 08 only: curtain wall, storefront, entrances, windows, interior glazing and the glass itself. Roofing, cladding, insulation, air and vapour barrier and rainscreen are a separate scope with its own page and its own price. See <a href="/roofing-envelope-takeoffs">roofing and building envelope takeoffs</a>. If you carry both, say so and they get quoted together.</div>
       </details>
-    </div>
-    <div class="hero-ctas" style="margin-top:36px;">
-      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
-      <a class="btn" href="/#trades">All trades</a>
+      <details>
+        <summary>Do you separate glass area from framing?</summary>
+        <div class="a">Yes. Glass comes out by makeup in area and lite counts, framing by profile in lineal feet, and openings counted each. Your glass supplier, your metal supplier and your installers all quote different things, and they shouldn't have to derive their numbers from each other.</div>
+      </details>
+      <details>
+        <summary>What drawings do you need?</summary>
+        <div class="a">Elevations, the glass schedule, the window and door schedules, the glazing details and the structural sheets showing embeds. Send a link through the quote form — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid or a plan room login. If the structural set isn't available, we'll measure without it and flag the anchorage as excluded rather than guess.</div>
+      </details>
+      <details>
+        <summary>Can the workbook use our own cost codes?</summary>
+        <div class="a">Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping.</div>
+      </details>
+      <details>
+        <summary>What's excluded?</summary>
+        <div class="a">Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Thermal and structural performance calculations are an engineering scope, not a takeoff. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.</div>
+      </details>
     </div>
   </div>
 </section>
 
+<section>
+  <div class="wrap">
+    <div class="sheet-strip"><span class="no">NEXT</span><span>Related scopes &amp; regions</span><span class="dim"></span></div>
+    <h2 class="rev-up" style="margin-bottom:18px;">Send the drawings.<br /><span class="mark">Fixed quote in 4 hours.</span></h2>
+    <p class="answer rev-up">Drop a link through the quote form or email <a href="mailto:info@sharpbid.ca">info@sharpbid.ca</a>. A fixed price and a guaranteed delivery date come back within 4 business hours.</p>
+    <div class="hero-ctas" style="margin-bottom:34px;">
+      <a class="btn btn-ink" href="/#quote">Get a fixed quote</a>
+      <a class="btn" href="/pricing">See all takeoff pricing</a>
+    </div>
+
+    <h3 style="margin-bottom:12px;">Trades that usually come with it</h3>
+    <div class="related">
+      <a style="border-left-color:var(--t-roofing)" href="/roofing-envelope-takeoffs">Roofing &amp; envelope takeoff services</a>
+      <a style="border-left-color:var(--t-metals)" href="/misc-metals-takeoffs">Misc metals takeoff services</a>
+      <a style="border-left-color:var(--t-painting)" href="/painting-takeoffs">Painting takeoff services</a>
+    </div>
+
+    <h3 style="margin:34px 0 12px;">Where we work</h3>
+    <div class="related">
+      <a href="/takeoff-services-british-columbia">Glazing takeoffs in British Columbia</a>
+      <a href="/takeoff-services-alberta">Glazing takeoffs in Alberta</a>
+      <a href="/takeoff-services-ontario">Glazing takeoffs in Ontario</a>
+    </div>
+    <p class="region-foot rev-up">…and anywhere else in Canada — everything is digital.</p>
+  </div>
+</section>
 </main>
 
 <!-- #footer -->

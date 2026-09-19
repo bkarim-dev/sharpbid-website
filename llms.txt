@@ -17,17 +17,23 @@ No juniors, nothing farmed out. CCDC-fluent.
 ## Trades covered
 
 - Drywall & steel stud takeoffs — https://sharpbid.ca/drywall-steel-stud-takeoffs
+- Acoustic ceiling (ACT) takeoffs — https://sharpbid.ca/acoustic-ceiling-takeoffs
 - Flooring takeoffs — https://sharpbid.ca/flooring-takeoffs
 - Painting takeoffs — https://sharpbid.ca/painting-takeoffs
-- Glazing takeoffs (curtain wall, storefront, windows) — https://sharpbid.ca/glazing-takeoffs
+- Glazing takeoffs, Div 08 only: curtain wall, storefront, windows, glass — https://sharpbid.ca/glazing-takeoffs
+- Roofing & building envelope takeoffs: roofing, cladding, insulation, air/vapour barrier, rainscreen — https://sharpbid.ca/roofing-envelope-takeoffs
 - Misc metals takeoffs (Div 05) — https://sharpbid.ca/misc-metals-takeoffs
-- Concrete & formwork takeoffs (low-rise / small site) — https://sharpbid.ca/concrete-formwork-takeoffs
+- Concrete & formwork takeoffs (low-rise / small site only) — https://sharpbid.ca/concrete-formwork-takeoffs
+- Wood-frame framing takeoffs, in two tiers — https://sharpbid.ca/framing-takeoffs
 
 Coverage spans most CSI MasterFormat divisions.
 
 ## What we do not do
 
 - Mechanical and electrical (no Div 21–28 MEP) — this is excluded, not "on request".
+- High-rise cast-in-place concrete cycle work. Concrete is low-rise and small-site only.
+- Engineering: structural design, member sizing, thermal modelling, connection design,
+  shop drawings. Those are not takeoffs.
 - We do not price the work by default. Price placeholders are an optional add-on.
 
 ## Service area
@@ -71,8 +77,8 @@ Takeoffs are delivered in the units the client bids in — metric or imperial.
 - Concrete & formwork, low-rise / small site: $500
 - Misc metals / Div 05: $600
 - Roofing & building envelope: $600
-- Framing — wall & sheathing areas: $600
-- Glazing & envelope: $900
+- Framing — wall & sheathing areas: $600 (no lumber piece counts at this tier)
+- Glazing — Div 08 curtain wall, storefront, windows: $900
 - Bid leveling / scope-gap analysis: $600
 - Framing — full lumber breakdown: $1,500 (quoted per project)
 - Change-order & claim quantity checks: $150/hr, 3-hour minimum
@@ -94,12 +100,15 @@ Deliverables open anywhere — no special software needed at the client's end.
 
 - Home — https://sharpbid.ca/
 - Drywall & steel stud takeoffs — https://sharpbid.ca/drywall-steel-stud-takeoffs
+- Acoustic ceiling (ACT) takeoffs — https://sharpbid.ca/acoustic-ceiling-takeoffs
 - Flooring takeoffs — https://sharpbid.ca/flooring-takeoffs
 - Painting takeoffs — https://sharpbid.ca/painting-takeoffs
 - Glazing takeoffs — https://sharpbid.ca/glazing-takeoffs
+- Roofing & building envelope takeoffs — https://sharpbid.ca/roofing-envelope-takeoffs
 - Misc metals takeoffs — https://sharpbid.ca/misc-metals-takeoffs
 - Concrete & formwork takeoffs — https://sharpbid.ca/concrete-formwork-takeoffs
+- Framing takeoffs — https://sharpbid.ca/framing-takeoffs
 
-Further pages (acoustic ceilings, roofing & envelope, framing, the provincial
-pages, pricing, bid leveling, about, guides and bid traps) are being published
-and will be listed here and in https://sharpbid.ca/sitemap.xml as they go live.
+The provincial pages, pricing, bid leveling, about, guides and bid traps are
+being published and will be listed here and in https://sharpbid.ca/sitemap.xml
+as they go live.
