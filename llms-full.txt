@@ -12,68 +12,245 @@ TITLE: Drywall & Steel Stud Takeoff Services in Canada | SharpBid
 
 DIV 09 · PARTITIONS / CEILINGS / FRAMING
 
-# Drywall & steel stud takeoffs by type mark
+# Drywall & steel stud takeoff services
 
-Partitions quantified assembly by assembly — gauges, spacing, layers and ratings separated — so your labour pricing reflects exactly what your crews will build.
+We measure every partition, ceiling, bulkhead and framing run off your drawings and hand back a workbook organized by wall type mark — board separated from framing, shaftwall and ratings kept apart, head-of-wall conditions in their own line. For drywall and steel stud subs across Canada: from $450, next business day, on time or 50% off.
 
-On time or 50% off ✓Single-trade takeoffs from $450 · next business day
+From $450Next business dayFixed quote in 4 business hoursOn time or 50% off ✓
 
 Send drawings — quote in 4 hrs
-Full pricing
+Takeoff pricing
 Sample takeoff (.xlsx)
 
-SCOPEWhat gets countedEvery line traceable
+SCOPEWhat we countEvery line traceable
 
-## On the takeoff
+## What we count on a drywall takeoff
 
-- Partition SF by wall type mark — stud gauge, spacing, layers, ratings
+Everything you have to buy, frame, hang, insulate or finish — each with its own unit, broken out the way your crews are paid. Partitions are organized by type mark first and location second, so identical plan lengths with different assemblies never land in the same line.
 
-- Track and framing LF by partition type
+- Partition area by wall type markSF / m²By stud gauge and depth, spacing, layers per side, board type (Type X, Type C, abuse-resistant, moisture-resistant, glass-mat) and rating.
 
-- Head-of-wall and deflection conditions separated out
+- Track and stud framingLF / m
 
-- GWB and specialty ceilings SF; bulkheads and dropped soffits LF
+- Wall heights by termination conditionLF / mSlab-to-slab, to underside of deck or structure, or stopping above the ceiling — each its own line.
 
-- Acoustic and thermal insulation SF by type
+- Head-of-wall and deflection conditionsLF / mRated assemblies, deflection track and slip clips, separated from standard top track.
 
-- Shaftwall and area separation assemblies SF
+- Shaftwall and area separation assembliesSF / m²C-H studs and liner panel, apart from standard partitions — same plan area, different production rate.
 
-- Corner bead, trims and reveals LF
+- GWB and specialty ceilingsSF / m²
 
-- Backing and blocking LF flagged from interior elevations
+- Suspended ceiling framing — furring, hat channel, resilient channel, Z-furringLF / m
 
-- Fire-rated assemblies identified by rating for your qualifications
+- Bulkheads and dropped soffitsLF + developed SFVertical face and horizontal underside both measured, not estimated off a plan line.
 
-DELIVHow it arrives
+- Acoustic and thermal insulationSF / m²
+
+- Acoustic sealant at wall perimetersLF / m
+
+- Corner bead, casing bead, L-bead and revealsLF / mBy profile, from the details — not assumed off wall length.
+
+- Control and expansion jointsLF / m
+
+- Openings — doors, borrowed lights, relitesEA
+
+- Access panelsEABy size and rating, from the details and the RCPs.
+
+- Backing and blockingLF / mFrom interior elevations and equipment schedules — grab bars, accessories, millwork, TVs, handrails.
+
+- Level of finish areasSF / m²Level 3, 4 and 5 separated — Level 5 is a different rate and it lives in the spec.
+
+- Exterior glass-mat sheathing where it's in your scopeSF / m²
+
+- Fire and sound ratings, listed per assemblyreference
+
+METHODHow we measure itBasis stated in writing
+
+## How we measure drywall and steel stud
+
+We measure from the partition type legend, not the floor plan. Every wall carries a type mark before a square foot is counted, and any wall the drawings leave untagged is flagged rather than quietly assumed into the nearest type.
+
+TYPE MARK FIRST
+
+### The legend drives the workbook
+
+Partition types come off the legend, with gauge, depth, spacing, layers per side, board type, insulation and rating recorded for each. Areas are measured against that list — the difference between a takeoff you can check against the spec and a pile of square footage.
+
+LAYERS ARE NOT AREA
+
+### Board and framing are counted separately
+
+A double-layer-both-sides partition carries four times the board of a single-layer-one-side wall and exactly the same framing. Board goes in by layer, framing by lineal foot, finishing by the area actually taped. One blended rate over one number prices all three wrong.
+
+HEIGHT
+
+### Wall height comes from the sections, not the plan
+
+Two identical plan lengths at different heights are different line items. Terminations come from the sections, the RCPs and the wall types: slab-to-slab, to underside of deck or structure, or dying off above the ceiling. Where the set contradicts itself, both readings go on the assumptions page with the one we used.
+
+HEAD OF WALL
+
+### Deflection is read out of the structural set
+
+Anticipated deflection, slotted track and slip-clip requirements usually sit in the structural drawings and general notes, not on the architectural partition types. Rated head-of-wall assemblies carry firestop and their own top-track detail, so they get their own lineal-foot line.
+
+SHAFTWALL
+
+### Rated shaftwall never sits with standard partitions
+
+Shaftwall and area separation assemblies look identical on plan and cost nothing like a stud partition to build. They're reported separately with the rating attached, so your labour reflects the assembly and not the outline.
+
+CEILINGS
+
+### Bulkheads are measured as developed area
+
+A soffit has a vertical face and a horizontal underside. Both get measured, with the lineal run alongside for framing. Where a bulkhead meets an acoustic ceiling, the division of work is flagged — see acoustic ceiling takeoffs for the other half of that scope.
+
+REPETITION
+
+### Typical floors are measured once and extended, visibly
+
+A typical floor is measured in full and extended across the levels it applies to. The workbook shows which levels were measured and which were extended; where a level differs it gets measured on its own. You can audit the multiplier.
+
+UNITS
+
+### Metric or imperial, whichever you bid in
+
+Commercial and institutional sets in Canada are commonly metric; residential work is often imperial. The workbook arrives in the units you price with, or both columns. Opening deductions follow a rule written on the assumptions page, not an unwritten habit.
+
+GAPSScope gaps we flagCaught before you bid
+
+## Scope gaps we flag on drywall packages
+
+The six that cost drywall subs money most often. Each one lands on the assumptions and exclusions page with the sheet it came from, so you can qualify it in your bid instead of meeting it in a change order.
+
+S-SHEETS
+
+### Deflection hiding in the structural set
+
+Deflection requirements are routinely specified in the structural general notes and never repeated on the architectural partition types. Price top track off the architectural alone and every deflection head is wrong — every wall, every floor.
+
+RATINGS
+
+### Shaftwall counted as standard partition
+
+Same square footage on plan, different assembly, roughly twice the labour. Elevator shafts, stair enclosures and service risers are where it hides. Type marks first, areas second — that ordering is the whole defence.
+
+INTERIOR ELEVATIONS
+
+### Backing and blocking that isn't on any plan
+
+Grab bars, accessories, millwork, wall-mounted TVs, handrails and equipment all need backing, and none of it shows on a floor plan. It lives in interior elevations and the accessory and equipment schedules. Left out, it's unpriced labour at the worst point in the job.
+
+RCP
+
+### Bulkhead framing on the wrong side of the line
+
+Where an acoustic ceiling dies into a drywall bulkhead, the framing can land with either trade depending on how the spec is written. We flag the condition and the lineal quantity so you price it or exclude it deliberately.
+
+SPEC, NOT SCHEDULE
+
+### Level 5 finish written into the specification
+
+Level of finish is a Division 09 spec item, not a finish schedule item. Lobbies, feature walls and anything under raking light often call for Level 5 while the schedule says nothing. Different rate, real area, easy to bid at Level 4 by default.
+
+DIVISION LINE
+
+### Exterior sheathing that may not be yours
+
+Glass-mat exterior sheathing sits in Division 09 on some projects and with the framer or the envelope trade on others. We measure it, keep it in its own section, and name the division the spec puts it in — so you include or exclude it on purpose. Same question in roofing and envelope takeoffs.
+
+More of these by trade in the bid traps list — and a step-by-step working list in the drywall takeoff checklist.
+
+DELIVWhat you receive
 
 ## Workbook + marked plans
 
-Everything is checkable. Every quantity traces to a sheet, a detail, and a coloured area on the marked-up plans.
+Everything is checkable. Every quantity traces back to a sheet, a detail and a coloured area on the marked-up plans — spot-check any line in a couple of minutes instead of taking a number on faith.
+
+Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
 
 - Excel quantity workbookCSI MasterFormat or your own cost codes.
 
-- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam.
+- Colour-coded plan markups (PDF)Straight from On-Screen Takeoff / Bluebeam Revu.
 
-- Assumptions & exclusions pageWaste, basis of measurement, drawing conflicts flagged.
+- Assumptions & exclusions pageWaste, basis of measurement, opening-deduction rule and drawing conflicts, all in writing.
 
-- Optional: placeholders & quote templateBid-ready workbook and a clean proposal format.
+- One revision round and bid-period addendaIncluded, not billed as an extra.
 
-FAQTrade-specific
+- Optional: price placeholders (+15%) and quote template (+$150)Bid-ready workbook and a clean proposal format.
 
-**Q: Do you split labour-driving items from board count?**
+TYPESProject types
 
-Yes — framing, board, insulation and finishing quantities are separated so you can apply different labour rates to each, instead of pricing everything off one blended SF number.
+## Project types we take off most
 
-**Q: What about mid-rise and high-rise repetition?**
+The set types where senior counting changes the number most.
 
-Typical floors are measured once and extended with a clear multiplier logic shown in the workbook — you see exactly which levels were counted and which were extended.
+- Wood-frame multifamilySuite demising and corridor walls, rated party wall assemblies, level-by-level repetition, resilient channel.
 
-**Q: How do I start?**
+- Concrete mid-rise and high-rise residentialTypical-floor repetition, shaftwall at cores and risers, head-of-wall deflection against a slab that will move.
 
-Send a drawings link through the quote form or to info@sharpbid.ca. A fixed price and delivery date come back within 4 business hours.
+- Mixed-use podiumCommercial at grade under residential above — two partition schedules in one set, with the transfer level between.
+
+- Commercial tenant improvementsDense partition type lists over small areas, plenty of bulkheads, Level 5 where it gets photographed.
+
+- InstitutionalHeavy rated assemblies, abuse-resistant board, backing schedules long enough to be their own takeoff.
+
+FAQDrywall takeoff questions
+
+## Drywall takeoff FAQs
+
+**Q: How much does a drywall takeoff cost?**
+
+From $450 — the same tier as the other single-trade finish takeoffs. What moves the fixed price is sheet count, partition types in the legend, number of levels, and how much of the set genuinely repeats. A written fixed quote comes back within 4 business hours and doesn't move afterwards. Full schedule on the takeoff pricing page.
+
+**Q: How fast is it delivered?**
+
+Next business day on single-trade drywall sets. Larger or multi-building sets get a firm delivery date with the quote. Same-day rush is +50%. If it lands after the date on the quote, you pay half — that's the whole guarantee.
+
+**Q: Do you separate framing from board?**
+
+Yes, always — they carry different labour rates and different suppliers. A double-layer-both-sides partition has four times the board of a single-layer-one-side wall and identical framing, so one blended square-foot rate prices both wrong.
+
+**Q: How do I send drawings, and what formats do you accept?**
+
+Send a link — Dropbox, Drive, WeTransfer, BuildingConnected, BidCentral, SmartBid, or a GC plan room login. PDF is ideal and vector PDFs measure fastest; scanned sets are fine with a scale bar or a known dimension. If all you have is the architectural, say so — we'll tell you what the structural set would change.
+
+**Q: Can the workbook use our own cost codes?**
+
+Yes. CSI MasterFormat is the default; send your cost code list and the workbook is built to it, so quantities drop into your estimating system without re-mapping.
+
+**Q: What's excluded?**
+
+Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
+
+**Q: What happens when an addendum lands mid-bid?**
+
+Addenda during the bid period are part of the service, and one revision round is included. If an addendum changes scope enough to move the delivery date, the new date is confirmed in writing — so the guarantee still means something.
+
+NEXTRelated scopes & regions
+
+## Send the drawings. Fixed quote in 4 hours.
+
+Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
 
 Get a fixed quote
-All trades
+See all takeoff pricing
+
+### Trades that usually come with it
+
+Acoustic ceiling takeoff services
+Painting takeoff services
+Framing takeoff services
+Roofing & envelope takeoff services
+
+### Where we work
+
+Drywall takeoffs in British Columbia
+Drywall takeoffs in Alberta
+Drywall takeoffs in Ontario
+
+…and anywhere else in Canada — everything is digital.
 
 ========================================================================
 SOURCE: https://sharpbid.ca/flooring-takeoffs

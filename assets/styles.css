@@ -910,3 +910,43 @@ input[type="range"]::-moz-range-thumb { width: 24px; height: 24px; background: v
 .bento .tile, .tile > * { min-width: 0; }
 .tile .table-scroll { max-width: 100%; }
 .tile .mocktab { min-width: 340px; }
+
+/* ============================================================
+   V4 TRADE PAGES — measurement method, scope gaps, count units
+   ============================================================ */
+
+/* "How we measure it" — one convention per row */
+.method { border: 1.5px solid var(--ink); background: var(--sheet); }
+.method > div { padding: 22px 24px; border-bottom: 1px solid var(--line); }
+.method > div:last-child { border-bottom: 0; }
+.method .tag {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: var(--hilite);
+  padding: 3px 9px;
+  margin-bottom: 12px;
+}
+.method h3 { font-size: clamp(18px, 2vw, 22px); margin-bottom: 9px; }
+.method p { font-size: 15px; color: var(--ink-soft); max-width: 78ch; }
+.method p + p { margin-top: 10px; }
+
+/* count list: the unit an item is measured in */
+.countlist .u {
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+  border: 1px solid var(--line);
+  padding: 1px 6px;
+  margin-left: 8px;
+  white-space: nowrap;
+}
+.countlist li b { font-weight: 600; }
+.countlist li span.note { display: block; font-size: 13.5px; color: var(--ink-soft); margin-top: 3px; }
+
+/* trade page section intro — the short answer under each H2 */
+.answer { font-size: 17px; max-width: 72ch; margin-bottom: 30px; }
+.answer strong { font-weight: 600; }

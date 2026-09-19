@@ -6,10 +6,11 @@
     "sync": "node tools/sync-partials.js",
     "llms": "node tools/make-llms-full.js",
     "og": "node tools/make-og.js",
-    "prebuild": "npm run sync && npm run llms",
+    "prebuild": "npm run faq && npm run sync && npm run llms",
     "build": "node tools/build.js",
     "check": "node tools/check-links.js && node tools/audit.js",
     "serve": "npx serve build",
-    "verify": "npm run build && npm run check"
+    "verify": "npm run build && npm run check",
+    "faq": "node tools/sync-faq.js"
   }
 }
