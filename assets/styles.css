@@ -522,9 +522,10 @@ footer { border-top: 1.5px solid var(--ink); background: var(--sheet); }
 .tblock > div { padding: 26px 22px 30px; border-right: 1px solid var(--line); }
 .tblock > div:first-child { padding-left: 0; }
 .tblock > div:last-child { border-right: 0; padding-right: 0; }
-.tblock h4 {
+.tblock h3.foot-h {
   font-family: var(--font-mono);
   font-size: 11px;
+  line-height: 1.5;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--ink-soft);
@@ -869,7 +870,7 @@ input[type="range"]::-moz-range-thumb { width: 24px; height: 24px; background: v
 
 /* footer title block — 5 columns in v4 */
 .tblock { grid-template-columns: 1.25fr 1fr 1fr 1fr 0.9fr; }
-.tblock h4.h4-gap { margin-top: 22px; }
+.tblock h3.foot-h.h4-gap { margin-top: 22px; }
 .foot-name { font-family: var(--font-display); font-size: 22px; font-weight: 800; text-transform: uppercase; }
 .foot-nap { font-size: 13.5px; color: var(--ink-soft); margin-top: 8px; }
 .foot-nap a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--line); }
