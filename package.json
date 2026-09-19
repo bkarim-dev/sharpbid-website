@@ -6,6 +6,7 @@
     "sync": "node tools/sync-partials.js",
     "llms": "node tools/make-llms-full.js",
     "og": "node tools/make-og.js",
+    "indexnow": "node tools/indexnow.js",
     "prebuild": "npm run faq && npm run sync && npm run llms",
     "build": "node tools/build.js",
     "check": "node tools/check-links.js && node tools/audit.js",
