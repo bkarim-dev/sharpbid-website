@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1128" height="191" viewBox="0 0 1128 191" role="img">
+<defs>
+  <pattern id="g24" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#E6EAE3" stroke-width="1"/>
+  </pattern></defs>
+  <rect width="1128" height="191" fill="#FAFBF9"/>
+  <rect width="1128" height="191" fill="url(#g24)"/>
+  <g>
+    <text x="74" y="122" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="78" letter-spacing="0.01em" fill="#16232B">SHARP</text>
+    <rect x="275.24" y="51.019999999999996" width="120.12" height="79.56" fill="#FFD84D"/>
+    <text x="286.16" y="122" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="78" letter-spacing="0.01em" fill="#16232B">BID</text>
+  </g>
+  <text x="1054" y="88" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="20" fill="#16232B">Construction takeoffs for subcontractors · Canada</text>
+  <text x="1054" y="116" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="15" letter-spacing="0.14em" fill="#46575F">QUANTITY TAKEOFFS · BID LEVELING</text>
+  <rect x="74" y="148" width="109.38888888888889" height="9" fill="#2FA55F"/><rect x="182.88888888888889" y="148" width="109.38888888888889" height="9" fill="#3E8DE3"/><rect x="291.77777777777777" y="148" width="109.38888888888889" height="9" fill="#21A8BC"/><rect x="400.66666666666663" y="148" width="109.38888888888889" height="9" fill="#E0701F"/><rect x="509.55555555555554" y="148" width="109.38888888888889" height="9" fill="#C94B9B"/><rect x="618.4444444444445" y="148" width="109.38888888888889" height="9" fill="#6E5BD0"/><rect x="727.3333333333333" y="148" width="109.38888888888889" height="9" fill="#B4342B"/><rect x="836.2222222222222" y="148" width="109.38888888888889" height="9" fill="#8A6A3B"/><rect x="945.1111111111111" y="148" width="109.38888888888889" height="9" fill="#74838F"/>
+</svg>

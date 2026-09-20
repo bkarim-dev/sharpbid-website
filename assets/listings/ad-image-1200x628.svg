@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img">
+<defs>
+  <pattern id="g40" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E6EAE3" stroke-width="1"/>
+  </pattern></defs>
+  <rect width="1200" height="628" fill="#FAFBF9"/>
+  <rect width="1200" height="628" fill="url(#g40)"/>
+  <rect x="10" y="10" width="1180" height="608" fill="none" stroke="#16232B" stroke-width="10"/>
+  <text x="72" y="112" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="20" letter-spacing="0.2em" fill="#46575F">SHEET T-01</text>
+  <line x1="232" y1="106" x2="1050" y2="106" stroke="#46575F" stroke-width="1" opacity="0.5"/>
+  <text x="1128" y="112" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="20" letter-spacing="0.2em" fill="#46575F">REV 4.0</text>
+  <g>
+    <text x="72" y="330" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="150" letter-spacing="0.01em" fill="#16232B">SHARP</text>
+    <rect x="459" y="193.5" width="231" height="153" fill="#FFD84D"/>
+    <text x="480" y="330" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="150" letter-spacing="0.01em" fill="#16232B">BID</text>
+  </g>
+  <text x="72" y="398" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="31" fill="#16232B">Construction takeoffs for subcontractors · Canada</text>
+  <rect x="72" y="448" width="117.83333333333333" height="14" fill="#2FA55F"/><rect x="189.33333333333331" y="448" width="117.83333333333333" height="14" fill="#3E8DE3"/><rect x="306.66666666666663" y="448" width="117.83333333333333" height="14" fill="#21A8BC"/><rect x="424" y="448" width="117.83333333333333" height="14" fill="#E0701F"/><rect x="541.3333333333333" y="448" width="117.83333333333333" height="14" fill="#C94B9B"/><rect x="658.6666666666666" y="448" width="117.83333333333333" height="14" fill="#6E5BD0"/><rect x="776" y="448" width="117.83333333333333" height="14" fill="#B4342B"/><rect x="893.3333333333333" y="448" width="117.83333333333333" height="14" fill="#8A6A3B"/><rect x="1010.6666666666666" y="448" width="117.83333333333333" height="14" fill="#74838F"/>
+  <text x="72" y="556" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="21" letter-spacing="0.12em" fill="#46575F">FIXED QUOTE IN 4 BUSINESS HOURS</text>
+  <text x="1128" y="556" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="21" letter-spacing="0.12em" fill="#46575F">SHARPBID.CA</text>
+</svg>

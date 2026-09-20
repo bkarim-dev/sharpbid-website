@@ -53,19 +53,21 @@ const gridDef = (id, step, colour, sw) => `
     <path d="M ${step} 0 L 0 0 0 ${step}" fill="none" stroke="${colour}" stroke-width="${sw || 1}"/>
   </pattern>`;
 
-/* wordmark, laid out from measured glyph boxes so the highlight always fits */
+/* wordmark, laid out from measured ink bounds so the highlight hugs the caps */
 function wordmark(M, x, baseline, size, opts) {
   const o = opts || {};
   const s = size / 100;
-  const sw = M.sharp.w * s, bw = M.bid.w * s;
-  const gap = size * 0.09, padX = size * 0.13, padY = size * 0.1;
+  const sw = M.sharp.w * s, bw = M.bid.w * s, cap = M.bid.cap * s;
+  const gap = size * 0.06, padX = size * 0.14, padY = size * 0.11;
   const boxX = x + sw + gap;
-  const boxY = baseline + M.bid.y * s - padY;
   const boxW = bw + padX * 2;
-  const boxH = M.bid.h * s + padY * 2;
+  const boxY = baseline - cap - padY;
+  const boxH = cap + padY * 2;
   const inkC = o.ink || C.ink;
   return {
     width: sw + gap + boxW,
+    capTop: baseline - M.sharp.cap * s,
+    boxTop: boxY, boxBottom: boxY + boxH,
     svg: `<g>
     <text x="${x}" y="${baseline}" font-family="${DISPLAY}" font-weight="800" font-size="${size}" letter-spacing="${LS}" fill="${inkC}">SHARP</text>
     <rect x="${boxX}" y="${boxY}" width="${boxW}" height="${boxH}" fill="${C.hilite}"/>
@@ -74,20 +76,25 @@ function wordmark(M, x, baseline, size, opts) {
   };
 }
 
-/* stacked wordmark for the square mark */
-function wordmarkStacked(M, cx, topBaseline, size) {
+/* stacked wordmark for the square mark, vertically centred on cy */
+function wordmarkStacked(M, cx, cy, size) {
   const s = size / 100;
-  const sw = M.sharp.w * s, bw = M.bid.w * s;
-  const padX = size * 0.13, padY = size * 0.1;
-  const lead = size * 0.98;
-  const b2 = topBaseline + lead;
-  const boxW = bw + padX * 2, boxH = M.bid.h * s + padY * 2;
-  const boxX = cx - boxW / 2, boxY = b2 + M.bid.y * s - padY;
-  return `<g>
-    <text x="${cx}" y="${topBaseline}" text-anchor="middle" font-family="${DISPLAY}" font-weight="800" font-size="${size}" letter-spacing="${LS}" fill="${C.ink}">SHARP</text>
-    <rect x="${boxX}" y="${boxY}" width="${boxW}" height="${boxH}" fill="${C.hilite}"/>
+  const bw = M.bid.w * s, capS = M.sharp.cap * s, capB = M.bid.cap * s;
+  const padX = size * 0.14, padY = size * 0.11, lead = size * 0.13;
+  const boxW = bw + padX * 2, boxH = capB + padY * 2;
+  const blockH = capS + lead + boxH;
+  const top = cy - blockH / 2;
+  const b1 = top + capS;
+  const boxY = top + capS + lead;
+  const b2 = boxY + padY + capB;
+  return {
+    top, bottom: boxY + boxH,
+    svg: `<g>
+    <text x="${cx}" y="${b1}" text-anchor="middle" font-family="${DISPLAY}" font-weight="800" font-size="${size}" letter-spacing="${LS}" fill="${C.ink}">SHARP</text>
+    <rect x="${cx - boxW / 2}" y="${boxY}" width="${boxW}" height="${boxH}" fill="${C.hilite}"/>
     <text x="${cx}" y="${b2}" text-anchor="middle" font-family="${DISPLAY}" font-weight="800" font-size="${size}" letter-spacing="${LS}" fill="${C.ink}">BID</text>
-  </g>`;
+  </g>`,
+  };
 }
 
 const tradeBar = (x, y, w, h) => {
@@ -102,17 +109,17 @@ const svgDoc = (w, h, body) =>
 /* ============================================================
    PLAN GEOMETRY — one fictitious sample floor, shown three ways
    ============================================================ */
-const PLAN = { x: 90, y: 128, w: 1020, h: 560 };
+const PLAN = { x: 90, y: 128, w: 1020, h: 544 };
 const ROOMS = [
   { id: "T1", x: 90, y: 128, w: 340, h: 240, name: "OPEN OFFICE A" },
   { id: "T2", x: 430, y: 128, w: 270, h: 240, name: "MEETING 201" },
   { id: "T3", x: 700, y: 128, w: 200, h: 240, name: "OFFICE 202" },
   { id: "T4", x: 900, y: 128, w: 210, h: 240, name: "WASHROOM" },
   { id: "CO", x: 90, y: 368, w: 1020, h: 70, name: "CORRIDOR 200" },
-  { id: "B1", x: 90, y: 438, w: 380, h: 250, name: "OPEN OFFICE B" },
-  { id: "B2", x: 470, y: 438, w: 270, h: 250, name: "BREAKOUT" },
-  { id: "B3", x: 740, y: 438, w: 200, h: 250, name: "STORAGE" },
-  { id: "B4", x: 940, y: 438, w: 170, h: 250, name: "JANITOR" },
+  { id: "B1", x: 90, y: 438, w: 380, h: 234, name: "OPEN OFFICE B" },
+  { id: "B2", x: 470, y: 438, w: 270, h: 234, name: "BREAKOUT" },
+  { id: "B3", x: 740, y: 438, w: 200, h: 234, name: "STORAGE" },
+  { id: "B4", x: 940, y: 438, w: 170, h: 234, name: "JANITOR" },
 ];
 /* interior partitions, typed */
 const WALLS = [
@@ -121,9 +128,9 @@ const WALLS = [
   { t: "P3", x1: 900, y1: 128, x2: 900, y2: 368 },
   { t: "P3", x1: 90, y1: 368, x2: 1110, y2: 368 },
   { t: "P3", x1: 90, y1: 438, x2: 1110, y2: 438 },
-  { t: "P1", x1: 470, y1: 438, x2: 470, y2: 688 },
-  { t: "P1", x1: 740, y1: 438, x2: 740, y2: 688 },
-  { t: "P3", x1: 940, y1: 438, x2: 940, y2: 688 },
+  { t: "P1", x1: 470, y1: 438, x2: 470, y2: 672 },
+  { t: "P1", x1: 740, y1: 438, x2: 740, y2: 672 },
+  { t: "P3", x1: 940, y1: 438, x2: 940, y2: 672 },
 ];
 const DOORS = [
   { x: 250, y: 368, up: true }, { x: 545, y: 368, up: true },
@@ -182,7 +189,10 @@ function legend(entries, title) {
   const seg = w / entries.length;
   const items = entries.map((e, i) => {
     const x = x0 + i * seg + 16;
-    return `<rect x="${x}" y="${y0 + 17}" width="30" height="14" fill="${e.c}" ${e.o ? `opacity="${e.o}"` : ""} stroke="${C.ink}" stroke-width="1"/>
+    const sw = e.pattern
+      ? `<rect x="${x}" y="${y0 + 17}" width="30" height="14" fill="${C.sheet}" stroke="${C.ink}" stroke-width="1"/><rect x="${x}" y="${y0 + 17}" width="30" height="14" fill="url(#actSm)" stroke="${C.ink}" stroke-width="1"/>`
+      : `<rect x="${x}" y="${y0 + 17}" width="30" height="14" fill="${e.c}" ${e.o ? `opacity="${e.o}"` : ""} stroke="${C.ink}" stroke-width="1"/>`;
+    return `${sw}
       <text x="${x + 40}" y="${y0 + 24}" font-family="${MONO}" font-size="14" font-weight="500" fill="${C.ink}">${esc(e.k)}</text>
       <text x="${x + 40}" y="${y0 + 40}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">${esc(e.d)}</text>`;
   }).join("");
@@ -191,10 +201,14 @@ function legend(entries, title) {
     ${items}`;
 }
 
-const roomLabel = (r, lines) => {
+const roomLabel = (r, lines, halo) => {
   const cx = r.x + r.w / 2, cy = r.y + r.h / 2;
   const start = cy - ((lines.length - 1) * 19) / 2;
-  return lines.map((L, i) =>
+  const hw = Math.max(...lines.map((L) => L.length)) * 8.8 + 26;
+  const bg = halo
+    ? `<rect x="${cx - hw / 2}" y="${start - 17}" width="${hw}" height="${lines.length * 19 + 10}" fill="${C.sheet}" opacity="0.88"/>`
+    : "";
+  return bg + lines.map((L, i) =>
     `<text x="${cx}" y="${start + i * 19}" text-anchor="middle" font-family="${MONO}" font-size="${i ? 13 : 14.5}" font-weight="${i ? 400 : 500}" fill="${i ? C.inkSoft : C.ink}">${esc(L)}</text>`).join("");
 };
 
@@ -208,10 +222,10 @@ function planPartitions(M) {
   const walls = WALLS.map((w) =>
     `<line x1="${w.x1}" y1="${w.y1}" x2="${w.x2}" y2="${w.y2}" stroke="${col[w.t]}" stroke-width="7" stroke-linecap="square"/>`).join("");
   const marks = [
-    { t: "P1", x: 560, y: 560, lx: 470, ly: 560 },
-    { t: "P2", x: 610, y: 210, lx: 700, ly: 210 },
+    { t: "P1", x: 600, y: 628, lx: 470, ly: 628 },
+    { t: "P2", x: 612, y: 182, lx: 700, ly: 182 },
     { t: "P3", x: 330, y: 404, lx: 330, ly: 438 },
-    { t: "P3", x: 1020, y: 330, lx: 900, ly: 330 },
+    { t: "P3", x: 1022, y: 318, lx: 900, ly: 318 },
   ].map((m) => `<line x1="${m.x}" y1="${m.y}" x2="${m.lx}" y2="${m.ly}" stroke="${C.ink}" stroke-width="1"/>
     <circle cx="${m.x}" cy="${m.y}" r="17" fill="${C.sheet}" stroke="${C.ink}" stroke-width="1.6"/>
     <text x="${m.x}" y="${m.y + 5}" text-anchor="middle" font-family="${MONO}" font-size="13" font-weight="500" fill="${C.ink}">${m.t}</text>`).join("");
@@ -337,8 +351,8 @@ function planCeiling(M) {
   }).join("");
   const edges = ROOMS.map((r) =>
     `<rect x="${r.x + 3}" y="${r.y + 3}" width="${r.w - 6}" height="${r.h - 6}" fill="none" stroke="${C.ink}" stroke-width="2"/>`).join("");
-  const labels = ROOMS.map((r) => roomLabel(r, [r.name, CEIL[r.id]])).join("");
-  return svgDoc(s.W, s.H, `<defs>${gridDef("g32", 32, C.lineSoft)}${gridDef("act", 34, C.inkSoft, 0.8)}${clips}</defs>
+  const labels = ROOMS.map((r) => roomLabel(r, [r.name, CEIL[r.id]], true)).join("");
+  return svgDoc(s.W, s.H, `<defs>${gridDef("g32", 32, C.lineSoft)}${gridDef("act", 34, C.inkSoft, 0.8)}${gridDef("actSm", 7, C.inkSoft, 0.7)}${clips}</defs>
   ${s.head}
   ${cells}
   ${edges}
@@ -348,7 +362,7 @@ function planCeiling(M) {
     { k: "ACT-1", d: "Acoustical tile, 600 × 600 lay-in", c: C.acoustic, o: 0.45 },
     { k: "ACT-2", d: "Acoustical tile, corridor run", c: C.glazing, o: 0.45 },
     { k: "GWB", d: "Gypsum board ceiling, painted", c: C.concrete, o: 0.4 },
-    { k: "GRID", d: "Suspension grid, main and cross tee", c: C.sheet },
+    { k: "GRID", d: "Suspension grid, main and cross tee", c: C.sheet, pattern: true },
   ], "CEILING TYPES")}
   ${s.foot}`);
 }
@@ -360,12 +374,13 @@ const TAGLINE = "Construction takeoffs for subcontractors · Canada";
 
 function logoSquare(M) {
   const S = 1200;
+  const wm = wordmarkStacked(M, S / 2, S * 0.455, 300);
   return svgDoc(S, S, `<defs>${gridDef("g40", 40, C.lineSoft)}</defs>
   <rect width="${S}" height="${S}" fill="${C.sheet}"/>
   <rect width="${S}" height="${S}" fill="url(#g40)"/>
   <rect x="26" y="26" width="${S - 52}" height="${S - 52}" fill="none" stroke="${C.ink}" stroke-width="18"/>
-  ${wordmarkStacked(M, S / 2, 545, 300)}
-  ${tradeBar(210, 830, 780, 16)}`);
+  ${wm.svg}
+  ${tradeBar(230, wm.bottom + 96, 740, 16)}`);
 }
 
 function logoLandscape(M) {
@@ -453,18 +468,28 @@ const ASSETS = [
 
   const browser = await chromium.launch();
 
-  /* measure the wordmark glyph boxes at size 100, then scale */
+  /* measure the wordmark: advance width and true cap height at size 100 */
   const mp = await browser.newPage();
-  await mp.setContent(`<style>${FONTS}</style>
-    <svg width="900" height="300"><text id="sharp" x="10" y="200" font-family="${DISPLAY}" font-weight="800" font-size="100" letter-spacing="${LS}">SHARP</text>
-    <text id="bid" x="10" y="280" font-family="${DISPLAY}" font-weight="800" font-size="100" letter-spacing="${LS}">BID</text></svg>`, { waitUntil: "load" });
+  await mp.setContent(`<style>${FONTS}</style><canvas id="c"></canvas>`, { waitUntil: "load" });
   await mp.evaluate(() => document.fonts.ready);
-  const M = await mp.evaluate(() => {
-    const g = (id) => { const b = document.getElementById(id).getBBox(); const t = document.getElementById(id); const y0 = +t.getAttribute("y"); return { w: b.width, h: b.height, x: b.x, y: b.y - y0 }; };
-    return { sharp: g("sharp"), bid: g("bid") };
+  const M = await mp.evaluate(async () => {
+    /* canvas needs the face loaded explicitly — document.fonts.ready only
+       covers fonts used in layout, and a silent fallback here would throw
+       every measurement off by ~30%. */
+    await document.fonts.load('800 100px "Big Shoulders"');
+    await document.fonts.ready;
+    const ctx = document.getElementById("c").getContext("2d");
+    ctx.font = '800 100px "Big Shoulders"';
+    if (!/Big Shoulders/.test(ctx.font)) throw new Error("Big Shoulders did not apply to canvas");
+    if ("letterSpacing" in ctx) ctx.letterSpacing = "1px";
+    const g = (t) => {
+      const m = ctx.measureText(t);
+      return { w: m.width, cap: m.actualBoundingBoxAscent };
+    };
+    return { sharp: g("SHARP"), bid: g("BID") };
   });
   await mp.close();
-  console.log("measured wordmark @100:  SHARP " + M.sharp.w.toFixed(1) + "w  BID " + M.bid.w.toFixed(1) + "w " + M.bid.h.toFixed(1) + "h");
+  console.log("measured @100 (ink):  SHARP " + M.sharp.w.toFixed(1) + "w  BID " + M.bid.w.toFixed(1) + "w  cap " + M.bid.cap.toFixed(1) + "h");
 
   const results = [];
   for (const a of ASSETS) {

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img">
+<defs>
+  <pattern id="g40" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E6EAE3" stroke-width="1"/>
+  </pattern></defs>
+  <rect width="1200" height="1200" fill="#FAFBF9"/>
+  <rect width="1200" height="1200" fill="url(#g40)"/>
+  <rect x="26" y="26" width="1148" height="1148" fill="none" stroke="#16232B" stroke-width="18"/>
+  <g>
+    <text x="600" y="495" text-anchor="middle" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="300" letter-spacing="0.01em" fill="#16232B">SHARP</text>
+    <rect x="369" y="534" width="462" height="306" fill="#FFD84D"/>
+    <text x="600" y="807" text-anchor="middle" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="300" letter-spacing="0.01em" fill="#16232B">BID</text>
+  </g>
+  <rect x="230" y="936" width="82.72222222222223" height="16" fill="#2FA55F"/><rect x="312.22222222222223" y="936" width="82.72222222222223" height="16" fill="#3E8DE3"/><rect x="394.44444444444446" y="936" width="82.72222222222223" height="16" fill="#21A8BC"/><rect x="476.6666666666667" y="936" width="82.72222222222223" height="16" fill="#E0701F"/><rect x="558.8888888888889" y="936" width="82.72222222222223" height="16" fill="#C94B9B"/><rect x="641.1111111111111" y="936" width="82.72222222222223" height="16" fill="#6E5BD0"/><rect x="723.3333333333334" y="936" width="82.72222222222223" height="16" fill="#B4342B"/><rect x="805.5555555555557" y="936" width="82.72222222222223" height="16" fill="#8A6A3B"/><rect x="887.7777777777778" y="936" width="82.72222222222223" height="16" fill="#74838F"/>
+</svg>

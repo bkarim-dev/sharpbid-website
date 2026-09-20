@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="575" viewBox="0 0 1024 575" role="img">
+<defs>
+  <pattern id="g34" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#E6EAE3" stroke-width="1"/>
+  </pattern></defs>
+  <rect width="1024" height="575" fill="#FAFBF9"/>
+  <rect width="1024" height="575" fill="url(#g34)"/>
+  <rect x="10" y="10" width="1004" height="555" fill="none" stroke="#16232B" stroke-width="9"/>
+  <text x="78" y="118" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="17" letter-spacing="0.2em" fill="#46575F">SHEET T-01</text>
+  <line x1="220" y1="112" x2="946" y2="112" stroke="#46575F" stroke-width="1" opacity="0.5"/>
+  <g>
+    <text x="78" y="300" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="150" letter-spacing="0.01em" fill="#16232B">SHARP</text>
+    <rect x="465" y="163.5" width="231" height="153" fill="#FFD84D"/>
+    <text x="486" y="300" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="150" letter-spacing="0.01em" fill="#16232B">BID</text>
+  </g>
+  <text x="78" y="368" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="27" fill="#16232B">Construction takeoffs for subcontractors · Canada</text>
+  <rect x="78" y="420" width="96.94444444444444" height="13" fill="#2FA55F"/><rect x="174.44444444444446" y="420" width="96.94444444444444" height="13" fill="#3E8DE3"/><rect x="270.8888888888889" y="420" width="96.94444444444444" height="13" fill="#21A8BC"/><rect x="367.3333333333333" y="420" width="96.94444444444444" height="13" fill="#E0701F"/><rect x="463.77777777777777" y="420" width="96.94444444444444" height="13" fill="#C94B9B"/><rect x="560.2222222222222" y="420" width="96.94444444444444" height="13" fill="#6E5BD0"/><rect x="656.6666666666666" y="420" width="96.94444444444444" height="13" fill="#B4342B"/><rect x="753.1111111111111" y="420" width="96.94444444444444" height="13" fill="#8A6A3B"/><rect x="849.5555555555555" y="420" width="96.94444444444444" height="13" fill="#74838F"/>
+  <text x="78" y="500" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="18" letter-spacing="0.12em" fill="#46575F">QUANTITY TAKEOFFS · BID LEVELING</text>
+  <text x="946" y="500" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="18" letter-spacing="0.12em" fill="#46575F">SHARPBID.CA</text>
+</svg>

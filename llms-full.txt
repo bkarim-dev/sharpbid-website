@@ -1,7 +1,7 @@
 # SharpBid Estimating — full page text
 
 Plain-text content of the SharpBid trade and pricing pages, for machine
-reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-09-19.
+reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-09-20.
 
 Contact: info@sharpbid.ca · (604) 245-4344 · https://sharpbid.ca
 
