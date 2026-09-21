@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img">
+<defs>
+  <pattern id="g30" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#E6EAE3" stroke-width="1"/>
+  </pattern></defs>
+  <rect width="1200" height="300" fill="#FAFBF9"/>
+  <rect width="1200" height="300" fill="url(#g30)"/>
+  <rect x="14" y="14" width="1172" height="272" fill="none" stroke="#16232B" stroke-width="10"/>
+  <g>
+    <text x="291" y="202" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="150" letter-spacing="0.01em" fill="#16232B">SHARP</text>
+    <rect x="678" y="65.5" width="231" height="153" fill="#FFD84D"/>
+    <text x="699" y="202" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="150" letter-spacing="0.01em" fill="#16232B">BID</text>
+  </g>
+</svg>
