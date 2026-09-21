@@ -3,6 +3,46 @@
   "use strict";
   var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
+  /* ---------- GA4 conversion tracking ---------- */
+  /* Every call is guarded: with no gtag on the page this is a no-op and never throws. */
+  function track(name, params) {
+    try {
+      if (typeof window.gtag !== "function") return;
+      window.gtag("event", name, params);
+    } catch (e) { /* analytics must never break the page */ }
+  }
+
+  /* tel: links — one delegated listener covers every page and any future link */
+  function telLocation(a) {
+    if (a.closest(".sticky-bar")) return "sticky-bar";
+    if (a.closest("footer")) return "footer";
+    if (a.closest(".nav")) return "header";
+    if (a.closest(".form-ok")) return "form-success";
+    if (a.closest("#quote")) return "quote-section";
+    if (a.closest("header")) return "hero";
+    return "page-body";
+  }
+  document.addEventListener("click", function (e) {
+    var t = e.target;
+    if (!t || !t.closest) return;
+    var a = t.closest('a[href^="tel:"]');
+    if (!a) return;
+    track("phone_click", { link_location: telLocation(a) });
+  });
+
+  /* sample takeoff workbook — the downloadable lead magnet */
+  document.addEventListener("click", function (e) {
+    var t = e.target;
+    if (!t || !t.closest) return;
+    var a = t.closest('a[href$=".xlsx"]');
+    if (!a) return;
+    var href = a.getAttribute("href") || "";
+    track("file_download", {
+      file_name: href.split("/").pop().split("?")[0],
+      method: "lead_magnet"
+    });
+  });
+
   /* ---------- mobile nav ---------- */
   var menuBtn = document.querySelector(".menu-btn");
   var navLinks = document.querySelector(".nav-links");
@@ -270,6 +310,11 @@
       })
         .then(function (res) {
           if (!res.ok) throw new Error("send failed");
+          track("generate_lead", {
+            form_id: "quote-form",
+            trade: data.trade || "",
+            method: "quote_form"
+          });
           form.style.display = "none";
           var ok = document.querySelector(".form-ok");
           if (ok) ok.style.display = "block";
