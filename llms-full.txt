@@ -1,7 +1,7 @@
 # SharpBid Estimating — full page text
 
 Plain-text content of the SharpBid trade and pricing pages, for machine
-reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-09-21.
+reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-10-19.
 
 Contact: info@sharpbid.ca · (604) 245-4344 · https://sharpbid.ca
 
@@ -228,14 +228,17 @@ Pricing, unless you add price placeholders. Mechanical and electrical entirely �
 
 Addenda during the bid period are part of the service, and one revision round is included. If an addendum changes scope enough to move the delivery date, the new date is confirmed in writing — so the guarantee still means something.
 
+QUOTEStart here
+
+## Fixed drywall takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Drywall & steel stud takeoffs start at $450. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -469,14 +472,17 @@ Yes. CSI MasterFormat is the default; send your cost code list and the workbook 
 
 Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
 
+QUOTEStart here
+
+## Fixed ceiling takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Acoustic ceiling takeoffs start at $450. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -709,14 +715,17 @@ We measure the slab areas the requirement could apply to and present it as a qua
 
 Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
 
+QUOTEStart here
+
+## Fixed flooring takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Flooring takeoffs start at $450. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -949,14 +958,17 @@ Yes. CSI MasterFormat is the default; send your cost code list and the workbook 
 
 Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though items in those divisions that are scheduled to be painted are still quantified for you. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
 
+QUOTEStart here
+
+## Fixed painting takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Painting takeoffs start at $450. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -1189,14 +1201,17 @@ Yes. CSI MasterFormat is the default; send your cost code list and the workbook 
 
 Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Thermal and structural performance calculations are an engineering scope, not a takeoff. Anything the drawings genuinely leave undetermined is listed on the assumptions page instead of buried in a quantity.
 
+QUOTEStart here
+
+## Fixed glazing takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Glazing takeoffs start at $900. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -1437,14 +1452,17 @@ Roof plans, elevations, wall sections and the envelope details — the details m
 
 Pricing, unless you add price placeholders. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though roof penetrations created by that equipment are counted. Building science review, thermal modelling and warranty design are engineering scopes, not takeoffs. Anything the drawings genuinely leave undetermined is listed on the assumptions page.
 
+QUOTEStart here
+
+## Fixed envelope takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Roofing & envelope takeoffs start at $600. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -1679,14 +1697,17 @@ Architectural plans, sections and details; the structural set including lintel a
 
 Pricing, unless you add price placeholders. Structural steel framing is a separate scope from miscellaneous metals — tell us where your line sits and we'll respect it. Mechanical and electrical entirely; SharpBid doesn't take off Divisions 21 through 28, though supports for that equipment are counted where they're Division 05. Connection design and shop drawings are engineering scopes, not takeoffs.
 
+QUOTEStart here
+
+## Fixed metals takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Misc metals takeoffs start at $600. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -1931,14 +1952,17 @@ The structural set including reinforcing and element schedules, the architectura
 
 Pricing, unless you add price placeholders. Shoring design, mix design and any structural engineering are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28, though blockouts and pads serving that equipment are counted. Over-pour and waste are stated separately rather than built into the volume.
 
+QUOTEStart here
+
+## Fixed concrete takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Low-rise and small-site concrete takeoffs start at $500. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -2108,14 +2132,17 @@ Architectural plans and sections with the wall type legend, plus the structural 
 
 Pricing, unless you add price placeholders. Structural design, engineered member sizing and truss design are engineering scopes, not takeoffs. Mechanical and electrical entirely — SharpBid doesn't take off Divisions 21 through 28. Anything the drawings genuinely leave undetermined is listed on the assumptions page.
 
+QUOTEStart here
+
+## Fixed framing takeoff quote in 4 business hours
+
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Wall & sheathing areas start at $600; a full lumber breakdown is quoted per project, from $1,500. No meetings, no sales pitch, no spam.
+
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
 NEXTRelated scopes & regions
-
-## Send the drawings. Fixed quote in 4 hours.
-
-Drop a link through the quote form or email info@sharpbid.ca. Say which tier you want; a fixed price comes back within 4 business hours.
-
-Get a fixed quote
-See all takeoff pricing
 
 ### Trades that usually come with it
 
@@ -2328,15 +2355,17 @@ No. Everything is digital and nobody travels, so the schedule above applies iden
 
 Not by default — you know your unit rates, your crews and your suppliers better than anyone, and that's the point of the service. If you want the workbook arriving bid-ready, price placeholders are the +15% add-on.
 
-NEXTStart here
+QUOTEStart here
 
-## Send the drawings. Fixed quote in 4 hours.
+## Fixed takeoff quote in 4 business hours
 
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. Asking about a retainer? Say so in the scope notes. No meetings, no sales pitch, no spam.
 
-Get a fixed quote
-Try the instant scope check
-About SharpBid
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
+NEXTTrade pages
 
 ### Priced by trade
 
@@ -2476,15 +2505,17 @@ It's included in the Growth retainer at $2,500 a month. Starter and Partner clie
 
 Yes. Bidders' numbers and client drawings are never shared, which is the standing practice rather than something that needs asking for. If your own agreement needs signing, send it over.
 
-NEXTStart here
+QUOTEStart here
 
-## Send the quotes. Fixed price in 4 hours.
+## Fixed bid-leveling quote in 4 business hours
 
-Send the bids, the drawings and any addenda through the quote form or to info@sharpbid.ca. A fixed price and a delivery date come back within 4 business hours.
+Three fields. Send a link to the bids, drawings and addenda — a fixed price and a delivery date come back. Leveling starts at $600. No meetings, no sales pitch, no spam.
 
-Get a fixed quote
-See all pricing
-Read the bid traps
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
+NEXTRelated
 
 ### Related
 
@@ -2621,15 +2652,17 @@ Either download the set and send a link, or send us the plan room invitation dir
 
 Single-trade finish takeoffs and acoustic ceilings start at $450; concrete and formwork at $500; misc metals, roofing and envelope, and framing wall areas at $600; glazing at $900. Minimum engagement is $450 and retainers start at $1,500 a month. There is no BC surcharge and no travel cost, because there is no travel. Full schedule on the takeoff pricing page.
 
-NEXTStart here
+QUOTEStart here
 
-## Send the drawings. Fixed quote in 4 hours.
+## Fixed takeoff quote in 4 business hours
 
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. We're based in Metro Vancouver, and everything is digital. No meetings, no sales pitch, no spam.
 
-Get a fixed quote
-See all takeoff pricing
-About SharpBid
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
+NEXTOther provinces
 
 ### Other provinces
 
@@ -2767,15 +2800,17 @@ No. There's no travel, so there's nothing to charge for. Single-trade finish tak
 
 That's most of what a retainer is for. Retainers start at $1,500 a month and include a set number of takeoffs plus priority in the queue, which is the difference between getting three bids out in a week and picking two. One-off work is welcome too, and same-day rush is +50% when the calendar is ugly.
 
-NEXTStart here
+QUOTEStart here
 
-## Send the drawings. Fixed quote in 4 hours.
+## Fixed takeoff quote in 4 business hours
 
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. We work Pacific time and deliver to your deadline. No meetings, no sales pitch, no spam.
 
-Get a fixed quote
-See all takeoff pricing
-About SharpBid
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
+NEXTOther provinces
 
 ### Other provinces
 
@@ -2911,15 +2946,17 @@ That's the case retainers are built for. Retainers start at $1,500 a month and i
 
 No. There's no travel, so there's nothing to charge for. Single-trade finish takeoffs and acoustic ceilings start at $450, concrete at $500, misc metals and roofing and envelope and framing wall areas at $600, glazing at $900 — the same in Ontario as anywhere else. Full schedule on the takeoff pricing page.
 
-NEXTStart here
+QUOTEStart here
 
-## Send the drawings. Fixed quote in 4 hours.
+## Fixed takeoff quote in 4 business hours
 
-Drop a link through the quote form or email info@sharpbid.ca. A fixed price and a guaranteed delivery date come back within 4 business hours.
+Three fields. Send the drawings link — a fixed price and a guaranteed delivery date come back. We work Pacific time and deliver to your deadline. No meetings, no sales pitch, no spam.
 
-Get a fixed quote
-See all takeoff pricing
-About SharpBid
+- ✉ info@sharpbid.ca
+
+- ☎ (604) 245-4344
+
+NEXTOther provinces
 
 ### Other provinces
 

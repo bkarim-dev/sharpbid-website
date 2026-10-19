@@ -12,6 +12,7 @@
     "check": "node tools/check-links.js && node tools/audit.js",
     "serve": "npx serve build",
     "verify": "npm run build && npm run check",
-    "faq": "node tools/sync-faq.js"
+    "faq": "node tools/sync-faq.js",
+    "formcheck": "node tools/form-check.js"
   }
 }

@@ -283,14 +283,67 @@
   /* ---------- progressive form ---------- */
   var moreToggle2 = document.getElementById("moreToggle");
   var moreFields2 = document.getElementById("more-fields");
-  if (moreToggle2 && moreFields2) {
-    moreToggle2.addEventListener("click", function () {
-      var open = moreFields2.hidden;
-      moreFields2.hidden = !open;
-      moreToggle2.setAttribute("aria-expanded", open ? "true" : "false");
-      moreToggle2.textContent = open ? "－ Hide details" : "＋ Add details (name, phone, deadline)";
-    });
+  function setMore(open) {
+    if (!moreToggle2 || !moreFields2) return;
+    moreFields2.hidden = !open;
+    moreToggle2.setAttribute("aria-expanded", open ? "true" : "false");
+    moreToggle2.textContent = open ? "－ Hide details" : "＋ Add details (name, phone, deadline)";
   }
+  if (moreToggle2 && moreFields2) {
+    moreToggle2.addEventListener("click", function () { setMore(moreFields2.hidden); });
+  }
+
+  /* ---------- on-page quote form (trade, region, pricing pages) ---------- */
+  var quoteHome = document.getElementById("quote");
+  if (quoteHome) {
+    /* nav, footer and body CTAs scroll to this page's form instead of loading the homepage */
+    Array.prototype.forEach.call(document.querySelectorAll('a[href="/#quote"]'), function (a) {
+      a.setAttribute("href", "#quote");
+    });
+    /* the page's own trade is preselected; the visitor can still change it */
+    var tradeSel = document.getElementById("q-trade");
+    var wantTrade = quoteHome.getAttribute("data-trade");
+    if (tradeSel && wantTrade && !tradeSel.value) {
+      Array.prototype.forEach.call(tradeSel.options, function (o) {
+        if (o.text === wantTrade) tradeSel.value = o.value || o.text;
+      });
+    }
+  }
+  /* one column (≤960px): the heading and lede sit above the form, so a quote
+     button lands on the form fields themselves rather than the section top */
+  document.addEventListener("click", function (e) {
+    var t = e.target;
+    if (!t || !t.closest) return;
+    var a = t.closest('a[href="#quote"]');
+    if (!a || !window.matchMedia("(max-width: 960px)").matches) return;
+    var qf = document.getElementById("quote-form");
+    if (!qf || qf.style.display === "none") return;
+    e.preventDefault();
+    qf.scrollIntoView({ behavior: reduced ? "auto" : "smooth", block: "start" });
+  });
+
+  /* pricing page: "Start with Growth" etc. note the plan in the scope notes */
+  document.addEventListener("click", function (e) {
+    var t = e.target;
+    if (!t || !t.closest) return;
+    var a = t.closest("a[data-plan]");
+    if (!a) return;
+    var det = document.getElementById("q-details");
+    if (!det) return;
+    setMore(true);
+    if (!det.value) det.value = "Interested in the " + a.getAttribute("data-plan") + " retainer.";
+  });
+
+  /* where the lead came from: the page it was sent from, the page the visit
+     started on, and whether the visit began with a Google Ads click */
+  var adSource = "";
+  var landingPage = location.pathname;
+  try {
+    if (/[?&](gclid|gbraid|wbraid)=/.test(location.search)) sessionStorage.setItem("sb_ad", "Google Ads");
+    if (!sessionStorage.getItem("sb_landing")) sessionStorage.setItem("sb_landing", location.pathname);
+    adSource = sessionStorage.getItem("sb_ad") || "";
+    landingPage = sessionStorage.getItem("sb_landing") || location.pathname;
+  } catch (e) { /* storage blocked — the lead still sends */ }
 
   /* ---------- quote form → Formspree (existing endpoint preserved) ---------- */
   var form = document.getElementById("quote-form");
@@ -300,7 +353,10 @@
       var btn = form.querySelector("button[type=submit]");
       var data = {};
       new FormData(form).forEach(function (v, k) { data[k] = v; });
-      data._subject = "New SharpBid lead: " + (data.trade || "General") + (data.name ? " — " + data.name : "");
+      data.sent_from_page = location.pathname;
+      data.landing_page = landingPage;
+      if (adSource) data.source = adSource;
+      data._subject = "New SharpBid lead: " + (data.trade || "General") + (data.name ? " — " + data.name : "") + (adSource ? " (" + adSource + ")" : "");
       btn.disabled = true;
       btn.textContent = "Sending…";
       fetch("https://formspree.io/f/mpqoylwk", {
@@ -313,7 +369,8 @@
           track("generate_lead", {
             form_id: "quote-form",
             trade: data.trade || "",
-            method: "quote_form"
+            method: "quote_form",
+            form_page: location.pathname
           });
           form.style.display = "none";
           var ok = document.querySelector(".form-ok");

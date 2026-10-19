@@ -479,6 +479,8 @@ section.alt { background: var(--paper); border-top: 1px solid var(--line); borde
 
 /* ---------- quote form ---------- */
 .quote-grid { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 52px; align-items: start; }
+#quote { scroll-margin-top: 56px; }
+#quote-form { scroll-margin-top: 76px; }
 .form { border: 1.5px solid var(--ink); background: var(--sheet); padding: 30px 28px; box-shadow: 8px 8px 0 var(--hilite); }
 .f-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 .f-field { margin-bottom: 16px; }

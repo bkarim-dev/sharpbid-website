@@ -42,6 +42,7 @@ function decode(s) {
 function toText(html) {
   let body = (html.match(/<main[^>]*>([\s\S]*)<\/main>/i) || html.match(/<body[^>]*>([\s\S]*)<\/body>/i) || [, html])[1];
   body = body
+    .replace(/<!-- #quote-form -->[\s\S]*?<!-- \/#quote-form -->/g, "") /* form fields are not page copy */
     .replace(/<nav[\s\S]*?<\/nav>/gi, "")
     .replace(/<footer[\s\S]*?<\/footer>/gi, "")
     .replace(/<script[\s\S]*?<\/script>/gi, "")
