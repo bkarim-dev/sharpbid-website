@@ -3633,7 +3633,7 @@ GUIDE · CHECKLIST · DIV 03
 
 # Concrete takeoff checklist
 
-A working list to run against a structural set, in the order it's worth working in. The cubic metres are the easy part. The money is in contact area, in the steel, and in the items drawn on sheets a concrete estimator doesn't normally open.
+A working list to run against a structural set, in the order it's worth working in. The cubic metres are the easy part. The money is in contact area, in the steel, and in the items drawn outside the structural set.
 
 Guide · Published 20 October 2026 · SharpBid Estimating
 
@@ -3649,21 +3649,23 @@ Read the general notes sheet end to end. On most sets it carries the concrete ta
 
 - Read Division 03 of the spec alongside the drawings: forming, reinforcing and cast-in-place. Where the spec and the general notes disagree, that's an RFI, not a judgement call.
 
-- List the untagged elements. Pads, curbs and infill pours without a mark go on the assumptions page, not into the nearest schedule by guesswork.
+- List the untagged elements. Pads, curbs and infill pours without a mark go on the assumptions page, not into the nearest schedule.
 
 ## How should you break the job into elements?
 
-The way it gets poured, not the way it's drawn. Footings, grade beams, walls, columns, slabs, stairs, pits and site work each get their own line with their mix attached, because that's how the concrete gets ordered and how the pours get scheduled.
+The way it gets poured, not the way it's drawn. Each element gets its own line with its mix attached, because that's how the concrete gets ordered and the pours get scheduled.
 
-A foundation plan draws a wall and its footing as one line of ink. They're two pours, two forming conditions, two sets of bars and sometimes two mixes. Grouping by element from the start is what lets every later quantity (forms, steel, finish) hang off the same structure.
+A foundation plan shows a wall and its footing in one view. They're two pours, two forming conditions, two sets of bars and sometimes two mixes.
 
-- Footings by type: strip, pad, stepped, combined, and raft or mat footings, each with its mark.
+- Footings by type: strip, pad, stepped, combined, and raft or mat footings, each with its mark, plus mud slabs.
 
 - Pile caps and grade beams, with a note on whether the piles themselves are yours or a deep-foundations scope.
 
 - Walls by type: foundation, retaining, shear, core and pit walls, with thickness and height recorded.
 
 - Columns by size and shape, round kept separate from rectangular.
+
+- Beams by type: suspended, band, upturned and transfer, with size.
 
 - Slabs by type: slab-on-grade, suspended slabs, fill over steel deck, topping over precast, ramps, drop panels and thickened edges.
 
@@ -3677,7 +3679,7 @@ As neat volume, element by element, from the structural dimensions. Count every 
 
 Most volume errors aren't arithmetic. They're double counts where elements meet, or thickenings that never appear on the plan.
 
-- Count every intersection once. Walls stop at the top of the footing, columns run from top of slab to the underside of the slab above, and beams are measured below the slab soffit. Write the convention down.
+- Count every intersection once. Walls run from top of footing to underside of slab. Columns run from top of slab to the underside of the slab, drop panel or beam above. Beams are measured below the soffit, between column faces.
 
 - Find the thickenings. Thickened slab edges, thickenings under walls, drop panels and haunches live in the sections and details, not on the plan.
 
@@ -3685,7 +3687,9 @@ Most volume errors aren't arithmetic. They're double counts where elements meet,
 
 - Measure fill over steel deck to the deck profile. If the slab has to finish level over a deck that deflects as it's poured, it takes more concrete than the nominal thickness suggests. State what you allowed.
 
-- Write the deduction rule. Say which size of opening or sleeve gets deducted and which doesn't, and apply it everywhere.
+- Set the deduction rule. Say which size of opening or sleeve gets deducted and which doesn't, and apply it everywhere.
+
+- Pour count and size from the pour-break drawings, or the breaks you assumed.
 
 - State over-pour and waste beside the neat volume, never folded into it. That allowance is your call, and it should be visible.
 
@@ -3693,7 +3697,7 @@ Most volume errors aren't arithmetic. They're double counts where elements meet,
 
 As contact area, face by face, split by form condition. Forming is paid for the surface your crew builds, ties, strips and cleans, and no factor gets you there reliably from volume.
 
-Two walls with the same cubic metres can carry very different contact area, because a thin wall has more face per cubic metre than a thick one. Measure every formed surface as the surface it is, and keep the conditions apart: a square metre of one-sided wall braced against shoring costs far more than a square metre of a plain two-sided wall.
+A thin wall has more face per cubic metre than a thick one. Keep the conditions apart too: a square metre of one-sided wall braced against shoring costs far more than a square metre of a plain two-sided wall.
 
 - Wall forms, both faces, by height range. A tall wall needs different forming and access than a frost wall.
 
@@ -3715,7 +3719,7 @@ Two walls with the same cubic metres can carry very different contact area, beca
 
 ## What does the takeoff need for shoring and reshoring?
 
-Areas and heights, not a design. The shoring and reshoring layout is engineered for the forming contractor. What the takeoff owes you is the shored area per level, the heights it spans, and the deep elements that need more than the typical system.
+Areas and heights, not a design. Falsework and reshoring are engineered for the forming contractor. What the takeoff owes you is the shored area per level, the heights it spans, and the deep elements that need more than the typical system.
 
 - Shored area per suspended level, from the slab outlines.
 
@@ -3723,19 +3727,19 @@ Areas and heights, not a design. The shoring and reshoring layout is engineered 
 
 - Deep beams, drop panels and transfer elements listed separately.
 
-- The reshoring sequence, if the drawings or spec state one. If they don't, say so rather than assuming a number of levels.
+- The reshoring sequence, if the drawings or spec state one. If they don't, state the number of levels you assumed and flag it as the forming engineer's call.
 
 ## How do you take off reinforcing steel?
 
 From the reinforcing schedule, the typical details and the general notes together, element by element and bar size by bar size. The schedule gives you the bars, the details give you the extras, and the notes give you the laps.
 
-Rebar is where a fast takeoff loses the most weight. The plan shows the main bars. The corner bars, dowels, trim bars at openings and lap splices come from the typical details, and they apply to every element the detail covers. Where the drawings are silent on a detailing convention, the RSIC Manual of Standard Practice is the usual reference in Canada, and the convention you used goes on the assumptions page.
+Rebar is where a fast takeoff loses the most weight. The plan shows the main bars. The corner bars, dowels, trim bars at openings and lap splices come from the typical details. Where the drawings are silent on a detailing convention, the RSIC Manual of Standard Practice is the usual reference in Canada, and the convention you used goes on the assumptions page.
 
 - Bars by size and element, each layer and direction separately: top and bottom, each way, each face.
 
-- Count bars at spacing from the run length: divide by the spacing and add one, per layer. Write the rule down so it's applied the same way everywhere.
+- Count bars at spacing: take the run less end cover, divide by the spacing, round up and add one, per continuous run rather than per bay.
 
-- Lap splices from the lap table in the general notes, by bar size and concrete strength, with the stock bar length you assumed.
+- Lap splices from the lap table in the general notes, by bar size, concrete strength, top or other bar, and coated or black, with the stock bar length you assumed.
 
 - Hooks and bends from the details, added to bar length.
 
@@ -3744,6 +3748,10 @@ Rebar is where a fast takeoff loses the most weight. The plan shows the main bar
 - Corner bars, intersection bars and trim bars at openings, from the typical details.
 
 - Stirrups and ties by count, size and shape.
+
+- Couplers, headed bars and shear stud rails counted each.
+
+- Bar supports and standees for top mats.
 
 - Mesh by area with its lap allowance, separate from bar.
 
@@ -3757,7 +3765,7 @@ All of them. Finishing is labour over area, joints are labour over length, and n
 
 - Finish by type and area: broom, steel trowel, hard-trowel or burnished, exposed aggregate, and any sealed or hardened areas.
 
-- Flatness and levelness requirements. They're in the spec, and they decide the crew and sometimes the pour sequence.
+- Flatness and levelness requirements, which decide the crew and sometimes the pour sequence.
 
 - Curing, sealers and hardeners by area.
 
@@ -3767,23 +3775,23 @@ All of them. Finishing is labour over area, joints are labour over length, and n
 
 - Waterstop at construction joints in below-grade walls, pits and anything that holds water.
 
-- Under-slab vapour retarder, rigid insulation and granular base by area, and whose scope each one is.
+- Under-slab vapour barrier and rigid insulation by area, and granular base by volume, noting whose scope each one is.
 
-- Polished concrete. Sometimes Division 03, sometimes with the flooring trade. Check before you price it.
+- Polished concrete: sometimes Division 03, sometimes the flooring trade's. Check before you price it.
 
 ## Have you read the sheets that aren't structural?
 
-You need to. Embeds, sleeves, blockouts and housekeeping pads are drawn by the trades that use them and poured by you. They're the items most likely to be missing from a takeoff done off the S-sheets alone.
+Embeds, sleeves, blockouts and housekeeping pads are drawn by the trades that use them and cast in or poured by you. They're the items most likely to be missing from a takeoff done off the S-sheets alone.
 
 - Housekeeping pads and equipment bases on the mechanical drawings, counted each with volume, edge form and finish.
 
 - Transformer and generator pads and light pole bases on the electrical and site drawings.
 
-- Anchor bolts, weld plates and embedded angles from the steel and misc metals details. They're supplied by others and set by you before the pour. Our misc metals takeoffs read the same details from the other side.
+- Anchor bolts, weld plates and embedded angles from the steel and misc metals details. Usually supplied by others and set by you. Confirm it in the division of work. Our misc metals takeoffs read the same details from the other side.
 
 - Sleeves and blockouts through walls and slabs, from the mechanical and electrical sets.
 
-- Elevator pit depth and sump from the architectural drawings and the elevator supplier's requirements, checked against the structural.
+- Elevator pit depth and sump from the architectural and elevator drawings, checked against the structural.
 
 ## Which items might not be yours?
 
@@ -3791,7 +3799,7 @@ Settle the division of work before you submit. The spec, the bid form and the ge
 
 - Excavation, backfill and dewatering. Earthworks on some projects, yours on others.
 
-- Piles, caissons and the shoring design itself, which are engineering and specialty scopes.
+- Excavation shoring, piles and caissons, which are specialty scopes. Falsework and reshoring design normally sits with the forming contractor, so price your engineer.
 
 - Reinforcing supply and placing, often a separate rebar sub. If it isn't yours, keep it out of your total.
 
@@ -3799,9 +3807,13 @@ Settle the division of work before you submit. The spec, the bid form and the ge
 
 - Non-shrink grout under base plates. Sometimes yours, sometimes the steel erector's.
 
+- Concrete supply. On some jobs the GC buys the ready-mix and you form, place and finish.
+
+- Hoisting and pumping. A crane by the GC, or a pump on your number.
+
 - Precast elements, and the topping over them.
 
-- Winter protection and heat. CSA A23.1 sets the cold-weather requirements, and the spec often puts the cost on you. It isn't drawn anywhere, but it's priced from the areas and volumes you just measured.
+- Winter protection and heat. CSA A23.1 sets the cold-weather requirements, and the spec often puts the cost on you. It isn't drawn anywhere, but it's priced from the quantities you just measured.
 
 - Testing and inspection. Normally the owner's. Check the spec anyway.
 
@@ -3823,7 +3835,7 @@ Settle the division of work before you submit. The spec, the bid form and the ge
 
 The assumptions page goes with the bid. It's what you'll be reading from in the scope meeting, and it's worth as much as the quantities.
 
-If you'd rather have someone else run this list against your set: concrete and formwork takeoffs start at $500 for low-rise and small-site work, with a fixed price back within 4 business hours and a firm delivery date on the quote. High-rise cast-in-place is quoted per project. To see the format first, download the Div 03 foundation sample (.xlsx). More scope gaps by trade are in our bid traps list.
+If you'd rather have someone else run this list against your set: concrete and formwork takeoffs start at $500 for low-rise and small-site work, with a fixed price back within 4 business hours and a firm delivery date on the quote. If rebar is yours, say so when you send the set and it's priced into the fixed quote. High-rise cast-in-place is quoted per project. To see the format first, download the Div 03 foundation sample (.xlsx). More scope gaps by trade are in our bid traps list.
 
 Send drawings — fixed quote in 4 hrs
 Concrete takeoff services
