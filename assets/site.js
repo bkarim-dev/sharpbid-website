@@ -34,7 +34,7 @@
   document.addEventListener("click", function (e) {
     var t = e.target;
     if (!t || !t.closest) return;
-    var a = t.closest('a[href$=".xlsx"]');
+    var a = t.closest('a[href$=".xlsx"], a[href^="/downloads/"][href$=".pdf"]');
     if (!a) return;
     var href = a.getAttribute("href") || "";
     track("file_download", {

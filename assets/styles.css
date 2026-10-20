@@ -677,6 +677,8 @@ html.js .rev-up.in { opacity: 1; transform: none; }
 .tile.t-dl { grid-column: span 2; background: var(--ink); color: var(--sheet); box-shadow: 7px 7px 0 var(--hilite); }
 .tile.t-dl p { font-size: 15px; color: #C4CFD4; }
 .tile.t-dl .btn { align-self: flex-start; border-color: var(--hilite); }
+.tile.t-dl .tile-dl-alt { font-size: 13.5px; margin-top: 4px; }
+.tile.t-dl .tile-dl-alt a { color: var(--hilite); text-decoration: underline; text-underline-offset: 3px; }
 .tile-tag { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
 .tile-note { font-size: 13px; color: var(--ink-soft); margin-top: auto; }
 .tile-list { list-style: none; display: grid; gap: 9px; font-size: 14.5px; }

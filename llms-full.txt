@@ -1,7 +1,7 @@
 # SharpBid Estimating — full page text
 
 Plain-text content of the SharpBid trade and pricing pages, for machine
-reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-10-19.
+reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-10-20.
 
 Contact: info@sharpbid.ca · (604) 245-4344 · https://sharpbid.ca
 
@@ -1738,7 +1738,7 @@ From $500 · low-rise & small siteHigh-rise quoted per projectFixed quote in 4 b
 
 Send drawings — quote in 4 hrs
 Takeoff pricing
-Sample takeoff (.xlsx)
+Concrete sample takeoff (.xlsx)
 
 SCOPEWhat we countEvery line traceable
 
@@ -1890,7 +1890,7 @@ DELIVWhat you receive
 
 Everything is checkable. Every quantity traces back to an element, a sheet and a coloured area on the marked-up structural drawings — with volume, contact area, steel and finish as separate columns.
 
-Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
+Download the concrete sample workbook (.xlsx) and its marked-up plan and sections (PDF) — a fictitious 6-storey foundation package with full reinforcing, in the real format.
 
 - Excel quantity workbookCSI MasterFormat or your own cost codes, by element and pour.
 

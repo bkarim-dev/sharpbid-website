@@ -67,6 +67,11 @@ Optional add-ons: price placeholders (+15%), quote template (+$150).
 A downloadable sample workbook (a fictitious 3-storey office TI) is at
 https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Flooring.xlsx
 
+A concrete sample (a fictitious 6-storey foundation package: concrete,
+formwork and full reinforcing, view-only workbook plus marked-up plan) is at
+https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Concrete-Foundations.xlsx
+https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Concrete-Foundations-Markup.pdf
+
 Takeoffs are delivered in the units the client bids in — metric or imperial.
 
 ## Pricing (starting prices, CAD)
