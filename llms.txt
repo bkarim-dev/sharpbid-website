@@ -133,6 +133,7 @@ Guides:
 - What a construction takeoff costs in Canada — https://sharpbid.ca/guides/construction-takeoff-cost-canada
 - Drywall takeoff checklist — https://sharpbid.ca/guides/drywall-takeoff-checklist
 - Flooring takeoff checklist — https://sharpbid.ca/guides/flooring-takeoff-checklist
+- Concrete takeoff checklist — https://sharpbid.ca/guides/concrete-takeoff-checklist
 - Outsourcing takeoffs vs an in-house estimator — https://sharpbid.ca/guides/outsourcing-takeoffs-vs-in-house-estimator
 
 Full plain-text content of these pages: https://sharpbid.ca/llms-full.txt

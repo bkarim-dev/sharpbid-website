@@ -30,6 +30,7 @@ const PAGES = [
   "guides/construction-takeoff-cost-canada",
   "guides/drywall-takeoff-checklist",
   "guides/flooring-takeoff-checklist",
+  "guides/concrete-takeoff-checklist",
   "guides/outsourcing-takeoffs-vs-in-house-estimator",
 ];
 
