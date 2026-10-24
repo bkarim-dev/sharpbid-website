@@ -12,8 +12,8 @@
     } catch (e) { /* analytics must never break the page */ }
   }
 
-  /* tel: links — one delegated listener covers every page and any future link */
-  function telLocation(a) {
+  /* tel: and mailto: links — one delegated listener covers every page and any future link */
+  function linkLocation(a) {
     if (a.closest(".sticky-bar")) return "sticky-bar";
     if (a.closest("footer")) return "footer";
     if (a.closest(".nav")) return "header";
@@ -25,9 +25,10 @@
   document.addEventListener("click", function (e) {
     var t = e.target;
     if (!t || !t.closest) return;
-    var a = t.closest('a[href^="tel:"]');
+    var a = t.closest('a[href^="tel:"], a[href^="mailto:"]');
     if (!a) return;
-    track("phone_click", { link_location: telLocation(a) });
+    var isTel = (a.getAttribute("href") || "").indexOf("tel:") === 0;
+    track(isTel ? "phone_click" : "email_click", { link_location: linkLocation(a) });
   });
 
   /* sample takeoff workbook — the downloadable lead magnet */
@@ -387,7 +388,7 @@
         .catch(function () {
           btn.disabled = false;
           btn.textContent = "Get my fixed quote";
-          alert("Something went wrong. Email info@sharpbid.ca directly or call (604) 245-4344.");
+          alert("Something went wrong. Email your drawings link to info@sharpbid.ca and we'll quote from there.");
         });
     });
   }
@@ -396,7 +397,7 @@
   var bar = document.createElement("div");
   bar.className = "sticky-bar";
   bar.innerHTML =
-    '<a class="sb-call" href="tel:+16042454344">☎ Call now</a>' +
+    '<a class="sb-email" href="mailto:info@sharpbid.ca?subject=Drawings%20for%20a%20fixed%20quote">✉ Email drawings</a>' +
     '<a class="sb-quote" href="' + (document.getElementById("quote") ? "#quote" : "/#quote") + '">Get a fixed quote</a>';
   document.body.appendChild(bar);
   var quoteSec = document.getElementById("quote");

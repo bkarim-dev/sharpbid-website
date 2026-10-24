@@ -763,7 +763,7 @@ input[type="range"]::-moz-range-thumb { width: 24px; height: 24px; background: v
     font-family: var(--font-mono); font-size: 14.5px; font-weight: 500;
     text-decoration: none; padding: 16px 10px;
   }
-  .sb-call { background: var(--sheet); color: var(--ink); border-right: 1.5px solid var(--ink); }
+  .sb-email { background: var(--sheet); color: var(--ink); border-right: 1.5px solid var(--ink); }
   .sb-quote { background: var(--hilite); color: var(--ink); }
   .bigstats { grid-template-columns: 1fr 1fr; }
   .bento { grid-template-columns: 1fr; }
