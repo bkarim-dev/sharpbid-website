@@ -348,6 +348,14 @@
   /* ---------- quote form → Formspree (existing endpoint preserved) ---------- */
   var form = document.getElementById("quote-form");
   if (form) {
+    /* form_start: first interaction with the quote form, once per page view —
+       shows whether visitors try the form at all, separate from completed leads */
+    var formStarted = false;
+    form.addEventListener("focusin", function () {
+      if (formStarted) return;
+      formStarted = true;
+      track("form_start", { form_id: "quote-form", form_page: location.pathname });
+    });
     form.addEventListener("submit", function (e) {
       e.preventDefault();
       var btn = form.querySelector("button[type=submit]");
