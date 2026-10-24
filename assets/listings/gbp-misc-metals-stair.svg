@@ -17,9 +17,10 @@
   <line x1="208.96087860107423" y1="44" x2="208.96087860107423" y2="78" stroke="#D7DDD5" stroke-width="1.5"/>
   <rect x="225.96087860107423" y="53" width="14" height="14" fill="#E0701F"/>
   <text x="249.96087860107423" y="66" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="16" font-weight="500" letter-spacing="0.12em" fill="#16232B">MISC METALS TAKEOFF · DIV 05</text>
+  <rect x="592.5208786010742" y="49" width="244.75" height="22" fill="#FFD84D"/>
+  <text x="714.8958786010742" y="64.5" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12.5" font-weight="500" letter-spacing="0.08em" fill="#16232B">SAMPLE · FICTITIOUS PROJECT</text>
   <text x="1152" y="58" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="15" letter-spacing="0.16em" fill="#46575F">SHEET A-501</text>
-  <rect x="907.25" y="67" width="244.75" height="21" fill="#FFD84D"/>
-  <text x="1029.625" y="82" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12.5" font-weight="500" letter-spacing="0.08em" fill="#16232B">SAMPLE · FICTITIOUS PROJECT</text>
+  <text x="1152" y="82" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="0.14em" fill="#46575F">COLOUR-CODED TAKEOFF MARKUP</text>
   <rect x="131.29921259842519" y="195.29921259842519" width="607.4015748031496" height="307.40157480314963" fill="url(#hCmu)" stroke="#16232B" stroke-width="1.5"/>
   <rect x="150" y="214" width="570" height="270" fill="#FAFBF9" stroke="#16232B" stroke-width="1.5"/>
   <rect x="130.29921259842519" y="299.2" width="20.7007874015748" height="99.9" fill="#FAFBF9"/>
@@ -34,63 +35,59 @@
   <line x1="722" y1="382" x2="736.7007874015749" y2="394" stroke="#46575F" stroke-width="1"/>
   <line x1="722" y1="406" x2="736.7007874015749" y2="418" stroke="#46575F" stroke-width="1"/>
   <line x1="729.3503937007874" y1="253.9" x2="729.3503937007874" y2="444.1" stroke="#B4342B" stroke-width="6"/>
-  <rect x="270" y="364" width="302.5" height="120" fill="#E0701F" fill-opacity="0.16"/>
+  <rect x="270" y="364" width="309.375" height="120" fill="#E0701F" fill-opacity="0.16"/>
   <line x1="270" y1="364" x2="270" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="297.5" y1="364" x2="297.5" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="325" y1="364" x2="325" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="352.5" y1="364" x2="352.5" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="380" y1="364" x2="380" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="407.49999999999994" y1="364" x2="407.49999999999994" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="435" y1="364" x2="435" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="462.50000000000006" y1="364" x2="462.50000000000006" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="489.99999999999994" y1="364" x2="489.99999999999994" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="517.5" y1="364" x2="517.5" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="545" y1="364" x2="545" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="572.5" y1="364" x2="572.5" y2="484" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="270" y1="366" x2="572.5" y2="366" stroke="#E0701F" stroke-width="4"/>
-  <line x1="270" y1="482" x2="572.5" y2="482" stroke="#E0701F" stroke-width="4"/>
+  <line x1="298.125" y1="364" x2="298.125" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="326.25" y1="364" x2="326.25" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="354.375" y1="364" x2="354.375" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="382.5" y1="364" x2="382.5" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="410.625" y1="364" x2="410.625" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="438.75" y1="364" x2="438.75" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="466.875" y1="364" x2="466.875" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="495" y1="364" x2="495" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="523.125" y1="364" x2="523.125" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="551.25" y1="364" x2="551.25" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="579.375" y1="364" x2="579.375" y2="484" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="270" y1="366" x2="579.375" y2="366" stroke="#E0701F" stroke-width="4"/>
+  <line x1="270" y1="482" x2="579.375" y2="482" stroke="#E0701F" stroke-width="4"/>
   <rect x="277.5" y="414" width="28" height="20" fill="#FAFBF9"/>
   <text x="291.5" y="429" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">UP</text>
-  <line x1="309" y1="424" x2="557.5" y2="424" stroke="#16232B" stroke-width="1.4" marker-end="url(#arr)"/>
-  <rect x="270" y="214" width="302.5" height="120" fill="#E0701F" fill-opacity="0.16"/>
+  <line x1="309" y1="424" x2="564.375" y2="424" stroke="#16232B" stroke-width="1.4" marker-end="url(#arr)"/>
+  <rect x="270" y="214" width="309.375" height="120" fill="#E0701F" fill-opacity="0.16"/>
   <line x1="270" y1="214" x2="270" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="297.5" y1="214" x2="297.5" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="325" y1="214" x2="325" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="352.5" y1="214" x2="352.5" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="380" y1="214" x2="380" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="407.49999999999994" y1="214" x2="407.49999999999994" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="435" y1="214" x2="435" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="462.50000000000006" y1="214" x2="462.50000000000006" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="489.99999999999994" y1="214" x2="489.99999999999994" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="517.5" y1="214" x2="517.5" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="545" y1="214" x2="545" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="572.5" y1="214" x2="572.5" y2="334" stroke="#16232B" stroke-width="1.2"/>
-  <line x1="270" y1="216" x2="572.5" y2="216" stroke="#E0701F" stroke-width="4"/>
-  <line x1="270" y1="332" x2="572.5" y2="332" stroke="#E0701F" stroke-width="4"/>
+  <line x1="298.125" y1="214" x2="298.125" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="326.25" y1="214" x2="326.25" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="354.375" y1="214" x2="354.375" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="382.5" y1="214" x2="382.5" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="410.625" y1="214" x2="410.625" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="438.75" y1="214" x2="438.75" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="466.875" y1="214" x2="466.875" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="495" y1="214" x2="495" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="523.125" y1="214" x2="523.125" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="551.25" y1="214" x2="551.25" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="579.375" y1="214" x2="579.375" y2="334" stroke="#16232B" stroke-width="1.2"/>
+  <line x1="270" y1="216" x2="579.375" y2="216" stroke="#E0701F" stroke-width="4"/>
+  <line x1="270" y1="332" x2="579.375" y2="332" stroke="#E0701F" stroke-width="4"/>
   <rect x="277.5" y="264" width="28" height="20" fill="#FAFBF9"/>
   <text x="291.5" y="279" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">DN</text>
-  <line x1="309" y1="274" x2="557.5" y2="274" stroke="#16232B" stroke-width="1.4" marker-end="url(#arr)"/>
+  <line x1="309" y1="274" x2="564.375" y2="274" stroke="#16232B" stroke-width="1.4" marker-end="url(#arr)"/>
   <rect x="456" y="367" width="18" height="114" fill="#FAFBF9" fill-opacity="0.0"/>
   <path d="M 447 484 L 459 433 L 444 418 L 456 364" fill="none" stroke="#16232B" stroke-width="1.4"/>
-  <rect x="572.5" y="214" width="147.49999999999997" height="270" fill="#74838F" fill-opacity="0.2" stroke="#E0701F" stroke-width="2"/>
-  <text x="646.25" y="345" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">LANDING</text>
-    <text x="646.25" y="361" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">LF-1</text>
+  <rect x="579.375" y="214" width="140.625" height="270" fill="#74838F" fill-opacity="0.2" stroke="#E0701F" stroke-width="2"/>
+  <text x="649.6875" y="345" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">LANDING</text>
+    <text x="649.6875" y="361" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">LF-1</text>
   <text x="210" y="253" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">FLOOR</text>
-  <line x1="240" y1="477" x2="602.5" y2="477" stroke="#3E8DE3" stroke-width="5" stroke-linecap="round"/>
-  <line x1="240" y1="221" x2="602.5" y2="221" stroke="#3E8DE3" stroke-width="5" stroke-linecap="round"/>
-  <path d="M 270 338 L 586 338 L 586 360 L 270 360" fill="none" stroke="#6E5BD0" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="240" y1="477" x2="609.375" y2="477" stroke="#3E8DE3" stroke-width="5" stroke-linecap="round"/>
+  <line x1="240" y1="221" x2="609.375" y2="221" stroke="#3E8DE3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 270 338 L 592.875 338 L 592.875 360 L 270 360" fill="none" stroke="#6E5BD0" stroke-width="5" stroke-linejoin="round"/>
   <rect x="265" y="211" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
   <rect x="265" y="327" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
   <rect x="265" y="361" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
   <rect x="265" y="477" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
-  <rect x="567.5" y="211" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
-  <rect x="567.5" y="327" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
-  <rect x="567.5" y="361" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
-  <rect x="567.5" y="477" width="10" height="10" fill="#C94B9B" stroke="#16232B" stroke-width="1"/>
-  <rect x="91.39921259842518" y="339.5" width="27.8" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
-    <text x="105.29921259842519" y="353" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">L1</text>
-  <rect x="752.8007874015749" y="339.5" width="27.8" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
-    <text x="766.7007874015749" y="353" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">L2</text>
+  <rect x="78.49921259842519" y="339.5" width="41.6" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="99.29921259842519" y="353" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">LT-1</text>
+  <rect x="751.9007874015749" y="339.5" width="41.6" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="772.7007874015749" y="353" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">LT-2</text>
   <rect x="399.2" y="506.5" width="41.6" height="19" fill="#FAFBF9" stroke="#3E8DE3" stroke-width="1.6"/>
     <text x="420" y="520" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">HR-1</text>
   <rect x="501.2" y="339.5" width="41.6" height="19" fill="#FAFBF9" stroke="#6E5BD0" stroke-width="1.6"/>
@@ -99,61 +96,62 @@
     <text x="240" y="520" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">EP-1</text>
   <rect x="357.2" y="262.5" width="41.6" height="19" fill="#FAFBF9" stroke="#E0701F" stroke-width="1.6"/>
     <text x="378" y="276" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">ST-1</text>
-  <text x="435" y="173.29921259842519" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#46575F">19'-0" × 9'-0" INSIDE · FLOOR-TO-FLOOR 14'-0" · 24 RISERS AT 7"</text>
-  <line x1="90" y1="764.6181818181818" x2="299.6" y2="631.2363636363636" stroke="#E0701F" stroke-width="7"/>
-  <path d="M 96 748 L 96 736.8 L 113.6 736.8 L 113.6 725.6 L 131.2 725.6 L 131.2 714.4 L 148.8 714.4 L 148.8 703.2 L 166.4 703.2 L 166.4 692 L 184 692 L 184 680.8 L 201.60000000000002 680.8 L 201.60000000000002 669.6 L 219.20000000000002 669.6 L 219.20000000000002 658.4 L 236.8 658.4 L 236.8 647.2 L 254.4 647.2 L 254.4 636 L 272 636 L 272 624.8 L 289.6 624.8 L 289.6 613.6" fill="none" stroke="#16232B" stroke-width="2"/>
-  <line x1="77" y1="694.4909090909091" x2="308.6" y2="547.1090909090909" stroke="#3E8DE3" stroke-width="4" stroke-linecap="round"/>
-  <line x1="96" y1="736.8" x2="96" y2="682.4" stroke="#3E8DE3" stroke-width="1.4"/>
-  <line x1="192.8" y1="675.2" x2="192.8" y2="620.8000000000001" stroke="#3E8DE3" stroke-width="1.4"/>
-  <line x1="289.6" y1="613.6" x2="289.6" y2="559.2" stroke="#3E8DE3" stroke-width="1.4"/>
-  <text x="333.6" y="624" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" letter-spacing="0.12em" fill="#46575F">ST-1 IN SECTION · 12 RISERS · 11 TREADS</text>
-  <text x="333.6" y="652" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">Channel stringers · pan treads for concrete fill</text>
-  <text x="333.6" y="672" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">HR-1 at 34"–38" above the nosings, 12" extensions</text>
-  <text x="333.6" y="692" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">Enclosure: 190 CMU by others — lintels by mark</text>
+  <text x="435" y="173.29921259842519" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#46575F">19'-0" × 9'-0" INSIDE · FLOOR-TO-FLOOR 14'-0" · 24 RISERS AT 7" · TREADS 11¼"</text>
+  <line x1="100" y1="761.9888888888889" x2="297.625" y2="639.0222222222222" stroke="#E0701F" stroke-width="7"/>
+  <path d="M 104 748 L 104 737.5 L 120.875 737.5 L 120.875 727 L 137.75 727 L 137.75 716.5 L 154.625 716.5 L 154.625 706 L 171.5 706 L 171.5 695.5 L 188.375 695.5 L 188.375 685 L 205.25 685 L 205.25 674.5 L 222.125 674.5 L 222.125 664 L 239 664 L 239 653.5 L 255.875 653.5 L 255.875 643 L 272.75 643 L 272.75 632.5 L 289.625 632.5 L 289.625 622" fill="none" stroke="#16232B" stroke-width="2"/>
+  <path d="M 86 686.5 L 104 686.5 L 289.625 571 L 307.625 571" fill="none" stroke="#3E8DE3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 129.3125 673.75 l 0 9 l 7 0" fill="none" stroke="#46575F" stroke-width="1.6"/>
+  <path d="M 196.8125 631.75 l 0 9 l 7 0" fill="none" stroke="#46575F" stroke-width="1.6"/>
+  <path d="M 264.3125 589.75 l 0 9 l 7 0" fill="none" stroke="#46575F" stroke-width="1.6"/>
+  <text x="347.625" y="624" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" letter-spacing="0.12em" fill="#46575F">ST-1 IN SECTION · 12 RISERS · 11 TREADS</text>
+  <text x="347.625" y="652" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">MC310×46 stringers · pan treads for concrete fill</text>
+  <text x="347.625" y="672" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">HR-1 on wall brackets, 34"–38" above the nosings</text>
+  <text x="347.625" y="692" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">12" horizontal extensions at top and bottom</text>
+  <text x="347.625" y="712" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">190 CMU by others · lintels in pairs, by mark</text>
   <rect x="800" y="118" width="352" height="34" fill="#16232B"/>
     <text x="814" y="140" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="0.12em" fill="#FAFBF9">QUANTITIES · L1 TO L4</text><rect x="800" y="152" width="352" height="50" fill="#FAFBF9"/>
       <line x1="800" y1="202" x2="1152" y2="202" stroke="#D7DDD5" stroke-width="1"/>
       <rect x="812" y="163" width="16" height="16" fill="#E0701F" fill-opacity="0.5" stroke="#16232B" stroke-width="1"/>
       <text x="838" y="175" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">ST-1 steel pan flights</text>
-      <text x="838" y="192" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">11 treads · 12 risers each</text>
+      <text x="838" y="192" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">11 treads · 12 risers · primed</text>
       <text x="1094" y="176" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">6</text>
          <text x="1101" y="176" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">EA</text><rect x="800" y="202" width="352" height="50" fill="#F0F3EE" opacity="0.7"/>
       <line x1="800" y1="252" x2="1152" y2="252" stroke="#D7DDD5" stroke-width="1"/>
       <rect x="812" y="213" width="16" height="16" fill="#74838F" fill-opacity="0.35" stroke="#16232B" stroke-width="1"/>
       <text x="838" y="225" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">LF-1 landing frames</text>
-      <text x="838" y="242" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Intermediate · pan for fill</text>
+      <text x="838" y="242" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Intermediate · pan · primed</text>
       <text x="1094" y="226" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">3</text>
          <text x="1101" y="226" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">EA</text><rect x="800" y="252" width="352" height="50" fill="#FAFBF9"/>
       <line x1="800" y1="302" x2="1152" y2="302" stroke="#D7DDD5" stroke-width="1"/>
       <line x1="812" y1="271" x2="828" y2="271" stroke="#3E8DE3" stroke-width="5" />
       <text x="838" y="275" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">HR-1 wall handrail</text>
-      <text x="838" y="292" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Detail 5/A-501 · 12" ext.</text>
-      <text x="1094" y="276" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">72</text>
+      <text x="838" y="292" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Det. 5/A-501 · on slope + ext.</text>
+      <text x="1094" y="276" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">85</text>
          <text x="1101" y="276" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">LF</text><rect x="800" y="302" width="352" height="50" fill="#F0F3EE" opacity="0.7"/>
       <line x1="800" y1="352" x2="1152" y2="352" stroke="#D7DDD5" stroke-width="1"/>
       <line x1="812" y1="321" x2="828" y2="321" stroke="#6E5BD0" stroke-width="5" />
       <text x="838" y="325" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">GR-1 guard + handrail</text>
-      <text x="838" y="342" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Detail 6/A-501 · at well</text>
-      <text x="1094" y="326" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">66</text>
+      <text x="838" y="342" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Det. 6/A-501 · well + turn</text>
+      <text x="1094" y="326" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">79</text>
          <text x="1101" y="326" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">LF</text><rect x="800" y="352" width="352" height="50" fill="#FAFBF9"/>
       <line x1="800" y1="402" x2="1152" y2="402" stroke="#D7DDD5" stroke-width="1"/>
       <line x1="812" y1="371" x2="828" y2="371" stroke="#B4342B" stroke-width="5" />
-      <text x="838" y="375" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">L1 lintels · doors</text>
-      <text x="838" y="392" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">L102×102×9.5 · 18.7 LF</text>
+      <text x="838" y="375" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">LT-1 lintels · doors</text>
+      <text x="838" y="392" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">2-L102×102×9.5 · 37.3 LF</text>
       <text x="1094" y="376" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">4</text>
          <text x="1101" y="376" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">EA</text><rect x="800" y="402" width="352" height="50" fill="#F0F3EE" opacity="0.7"/>
       <line x1="800" y1="452" x2="1152" y2="452" stroke="#D7DDD5" stroke-width="1"/>
       <line x1="812" y1="421" x2="828" y2="421" stroke="#B4342B" stroke-width="5" />
-      <text x="838" y="425" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">L2 lintels · louvres</text>
-      <text x="838" y="442" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">L127×89×9.5 · 19.0 LF</text>
+      <text x="838" y="425" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">LT-2 lintels · louvres</text>
+      <text x="838" y="442" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">2-L127×89×9.5 · 38.0 LF</text>
       <text x="1094" y="426" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">3</text>
          <text x="1101" y="426" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">EA</text><rect x="800" y="452" width="352" height="50" fill="#FAFBF9"/>
       <line x1="800" y1="502" x2="1152" y2="502" stroke="#D7DDD5" stroke-width="1"/>
       <rect x="812" y="463" width="16" height="16" fill="#C94B9B"  stroke="#16232B" stroke-width="1"/>
       <text x="838" y="475" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">EP-1 embed plates</text>
-      <text x="838" y="492" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Stringer bearing at slabs</text>
-      <text x="1094" y="476" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">24</text>
-         <text x="1101" y="476" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">EA</text><rect x="800" y="118" width="352" height="384" fill="none" stroke="#16232B" stroke-width="1.5"/><text x="800" y="528" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">3 storeys × 2 flights. Rails by detail number</text><text x="800" y="546" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">in lineal feet; lintels by mark, each with</text><text x="800" y="564" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">8" bearing per end. A fabrication-ready list,</text><text x="800" y="582" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">not a lump sum.</text>
+      <text x="838" y="492" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Stringers at slab edges · HDG</text>
+      <text x="1094" y="476" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">12</text>
+         <text x="1101" y="476" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#7A6100">EA</text><rect x="800" y="118" width="352" height="384" fill="none" stroke="#16232B" stroke-width="1.5"/><text x="800" y="528" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">3 storeys × 2 flights. Rails measured on the</text><text x="800" y="546" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">slope by detail number; lintels by mark with</text><text x="800" y="564" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">8" bearing each end, two angles per opening.</text><text x="800" y="582" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">A by-mark list, ready to price.</text>
   <line x1="24" y1="772" x2="1176" y2="772" stroke="#16232B" stroke-width="1.5"/>
   
       <text x="42" y="800" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="0.14em" fill="#46575F">PROJECT</text>

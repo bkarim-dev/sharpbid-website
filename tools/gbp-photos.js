@@ -110,6 +110,7 @@ function sheet(M, o) {
     return g;
   }).join("");
   const tx = 52 + wm.width + 34;
+  const tagX = tx + 24 + o.trade.length * 11.52 + 20;
   return {
     W, H,
     head: `<rect width="${W}" height="${H}" fill="${C.sheet}"/>
@@ -120,9 +121,10 @@ function sheet(M, o) {
   <line x1="${tx - 17}" y1="44" x2="${tx - 17}" y2="78" stroke="${C.line}" stroke-width="1.5"/>
   <rect x="${tx}" y="53" width="14" height="14" fill="${o.colour}"/>
   <text x="${tx + 24}" y="66" font-family="${MONO}" font-size="16" font-weight="500" letter-spacing="0.12em" fill="${C.ink}">${esc(o.trade)}</text>
+  <rect x="${tagX}" y="49" width="${tagW}" height="22" fill="${C.hilite}"/>
+  <text x="${tagX + tagW / 2}" y="64.5" text-anchor="middle" font-family="${MONO}" font-size="12.5" font-weight="500" letter-spacing="0.08em" fill="${C.ink}">${tagText}</text>
   <text x="1152" y="58" text-anchor="end" font-family="${MONO}" font-size="15" letter-spacing="0.16em" fill="${C.inkSoft}">${esc("SHEET " + o.sheet)}</text>
-  <rect x="${1152 - tagW}" y="67" width="${tagW}" height="21" fill="${C.hilite}"/>
-  <text x="${1152 - tagW / 2}" y="82" text-anchor="middle" font-family="${MONO}" font-size="12.5" font-weight="500" letter-spacing="0.08em" fill="${C.ink}">${tagText}</text>`,
+  <text x="1152" y="82" text-anchor="end" font-family="${MONO}" font-size="12" letter-spacing="0.14em" fill="${C.inkSoft}">COLOUR-CODED TAKEOFF MARKUP</text>`,
     foot: `<line x1="24" y1="772" x2="1176" y2="772" stroke="${C.ink}" stroke-width="1.5"/>
   ${tb}
   ${tradeBar(24, 869, 1152, 7)}`,
@@ -133,7 +135,7 @@ function sheet(M, o) {
 function qtyPanel(o) {
   const x = 800, w = 352, top = 118, rh = o.rh || 50;
   const two = o.cols.length === 2;
-  const edge = two ? [x + w - 92, x + w - 14] : [x + w - 58];
+  const edge = two ? [x + w - 104, x + w - 14] : [x + w - 58];
   let s = `<rect x="${x}" y="${top}" width="${w}" height="34" fill="${C.ink}"/>
     <text x="${x + 14}" y="${top + 22}" font-family="${MONO}" font-size="12" letter-spacing="0.12em" fill="${C.sheet}">${esc(o.title)}</text>`;
   if (two) o.cols.forEach((h, i) => {
@@ -238,15 +240,20 @@ function concrete(M) {
   out.push(`<rect x="${X(24.2)}" y="${Y(25)}" width="${10.4 * k}" height="${10 * k}" fill="${col.raft}" fill-opacity="0.45" stroke="${col.raft}" stroke-width="1.6"/>`);
   out.push(`<rect x="${X(25.2)}" y="${Y(24)}" width="${8.4 * k}" height="${8 * k}" fill="none" stroke="${C.ink}" stroke-width="4"/>`);
   out.push(`<rect x="${X(25.35)}" y="${Y(18.75)}" width="${2.7 * k}" height="${2.6 * k}" fill="url(#hPit)" stroke="${C.ink}" stroke-width="1.2"/>`);
-  out.push(`<rect x="${X(29.2)}" y="${Y(24)}" width="${0.3 * k}" height="${8 * k}" fill="${C.ink}"/>`);
+  /* stair/shaft wall on the pit's east face, shaft wall on its north side */
+  out.push(`<rect x="${X(28.05)}" y="${Y(24)}" width="${0.3 * k}" height="${8 * k}" fill="${C.ink}"/>`);
+  out.push(`<rect x="${X(25.2)}" y="${Y(19.05)}" width="${3.15 * k}" height="${0.3 * k}" fill="${C.ink}"/>`);
+  /* three core door openings (1.00, 1.00, 1.10) */
+  out.push(`<rect x="${X(30.4)}" y="${Y(24) - 3.5}" width="${1.0 * k}" height="7" fill="${C.sheet}"/>`);
+  out.push(`<rect x="${X(25.2) - 3.5}" y="${Y(21.9)}" width="7" height="${1.0 * k}" fill="${C.sheet}"/>`);
+  out.push(`<rect x="${X(30.2)}" y="${Y(16) - 3.5}" width="${1.1 * k}" height="7" fill="${C.sheet}"/>`);
   out.push(`<rect x="${X(29.4) - 54}" y="${Y(21.6)}" width="108" height="20" fill="${C.sheet}" fill-opacity="0.9"/>`);
   out.push(`<text x="${X(29.4)}" y="${Y(21.6) + 14}" text-anchor="middle" font-family="${MONO}" font-size="12" font-weight="500" fill="${C.ink}">CORE · MF1</text>`);
   /* sump SP1 */
   out.push(`<rect x="${X(9.7)}" y="${Y(2.8)}" width="${1.6 * k}" height="${1.6 * k}" fill="url(#hPit)" stroke="${C.ink}" stroke-width="1.2"/>`);
-  /* foundation walls W1 (300) on grids — drawn over footings */
-  out.push(`<rect x="${X(-0.15)}" y="${Y(32.15)}" width="${58.95 * k + 0.15 * k}" height="${32.3 * k}" fill="none" stroke="${col.wall}" stroke-width="4.5"/>`);
-  /* ramp opening in wall E, bay 7–8, and stub */
-  out.push(`<rect x="${X(51.35)}" y="${Y(32) - 4}" width="${6.5 * k}" height="8" fill="${C.sheet}"/>`);
+  /* foundation walls W1 (300) on grid centrelines, with the ramp opening in wall E (bay 7–8) */
+  out.push(`<path d="M ${X(51.35)} ${Y(32)} L ${X(0)} ${Y(32)} L ${X(0)} ${Y(0)} L ${X(58.8)} ${Y(0)} L ${X(58.8)} ${Y(32)} L ${X(57.85)} ${Y(32)}" fill="none" stroke="${col.wall}" stroke-width="4.5" stroke-linejoin="miter"/>`);
+  out.push(`<line x1="${X(51.35)}" y1="${Y(32)}" x2="${X(57.85)}" y2="${Y(32)}" stroke="${col.wall}" stroke-width="1.2" stroke-dasharray="5 4"/>`);
   out.push(`<rect x="${X(51.35)}" y="${Y(32) - 44}" width="${6.5 * k}" height="40" fill="${C.hilite}" fill-opacity="0.45" stroke="${C.hiliteInk}" stroke-width="1" stroke-dasharray="4 3"/>`);
   out.push(`<text x="${X(54.6)}" y="${Y(32) - 26}" text-anchor="middle" font-family="${MONO}" font-size="10.5" fill="${C.ink}">RAMP</text>`);
   out.push(`<text x="${X(54.6)}" y="${Y(32) - 13}" text-anchor="middle" font-family="${MONO}" font-size="10.5" fill="${C.ink}">S-301</text>`);
@@ -284,20 +291,20 @@ function concrete(M) {
     title: "QUANTITIES",
     cols: ["CONC m³", "FORMS m²"],
     rows: [
-      { sw: col.sof, o: 0.75, k: "SF1 strip footings", d: "Grids A, E, 8 · 1000×400", v: ["58.8", "117.5"] },
-      { sw: col.sf2, o: 0.75, k: "SF2 eccentric strip", d: "Grid 1 · against shoring", v: ["19.8", "13.6"] },
-      { sw: col.f1, o: 0.5, k: "F1 column pads ×14", d: "3000×3000×750", v: ["94.5", "126.0"] },
-      { sw: col.f2, o: 0.55, k: "F2 pilaster pads ×18", d: "Net of strip overlap", v: ["33.1", "35.6"] },
-      { sw: col.raft, o: 0.45, k: "MF1 raft + pits", d: "Core, EP1, SP1, blinding", v: ["105.4", "82.0"] },
-      { sw: C.ink, k: "Walls and columns", d: "W1, CW1, PL1, C1", v: ["259.7", "1,595.0"] },
-      { sw: col.sog, o: 0.3, k: "SOG 150 · 5 pours", d: "1,741 m² slab · bulkheads", v: ["261.2", "19.0"] },
+      { sw: col.sof, o: 0.75, k: "SF1 strip footings", d: "Grids A, E, 8 · 1000×400", v: ["58.76", "117.52"] },
+      { sw: col.sf2, o: 0.75, k: "SF2 eccentric strip", d: "Grid 1 · against shoring", v: ["19.80", "13.60"] },
+      { sw: col.f1, o: 0.5, k: "F1 column pads ×14", d: "3000×3000×750", v: ["94.50", "126.00"] },
+      { sw: col.f2, o: 0.55, k: "F2 pilaster pads ×18", d: "Net of strip overlap", v: ["33.12", "35.64"] },
+      { sw: col.raft, o: 0.45, k: "MF1 raft + pits", d: "Core, EP1, SP1, blinding", v: ["105.40", "81.98"] },
+      { sw: C.ink, k: "Walls and columns", d: "W1, CW1, PL1, C1", v: ["259.65", "1,594.99"] },
+      { sw: col.sog, o: 0.3, k: "SOG 150 · 5 pours", d: "1,741 m² slab · bulkheads", v: ["261.17", "19.02"] },
     ],
-    total: { k: "TOTAL · P1 FOUNDATIONS", d: "Ramp on its own sheet (S-301)", v: ["832.4", "1,988.7"] },
+    total: { k: "TOTAL · P1 FOUNDATIONS", d: "Ramp on its own sheet (S-301)", v: ["832.40", "1,988.75"] },
     notes: [
-      "No waste included — your waste % goes on top.",
-      "Each line traces to a dimension on the workbook's",
-      "Measurement tab. Same fictitious project as the",
-      "free sample workbook at sharpbid.ca.",
+      "Net in place, no waste — your waste % goes on top.",
+      "Every line traces to a dimension on the workbook's",
+      "Measurement tab. Rebar and mesh, 47.6 t incl. ramp,",
+      "on the Rebar tab. Same project as our free sample.",
     ],
   });
 
@@ -343,8 +350,12 @@ function roofing(M) {
   out.push(`<rect x="${X(128) - 50}" y="${Y(51) - 20}" width="100" height="40" fill="${C.sheet}" fill-opacity="0.92"/>`);
   out.push(`<text x="${X(128)}" y="${Y(51) - 4}" text-anchor="middle" font-family="${MONO}" font-size="12" font-weight="500" fill="${C.ink}">PENTHOUSE</text>`);
   out.push(`<text x="${X(128)}" y="${Y(51) + 12}" text-anchor="middle" font-family="${MONO}" font-size="11" fill="${C.inkSoft}">R2 · 40'×30'</text>`);
-  /* RTU curbs 8 × 5 */
-  [[33, 63], [58, 13], [84, 70]].forEach(([x, y]) =>
+  /* crickets on the up-slope (west and east) faces of the penthouse */
+  [[108, 100], [148, 156]].forEach(([wx, ax]) =>
+    out.push(`<path d="M ${X(wx)} ${Y(36)} L ${X(ax)} ${Y(51)} L ${X(wx)} ${Y(66)} Z" fill="url(#hCrk)" stroke="${C.metals}" stroke-width="1.6"/>
+      <line x1="${X(wx)}" y1="${Y(51)}" x2="${X(ax)}" y2="${Y(51)}" stroke="${C.metals}" stroke-width="1.2"/>`));
+  /* RTU curbs 8 × 5, set on the high lines */
+  [[49.33, 47.5], [49.33, 77.5], [22, 47.5]].forEach(([x, y]) =>
     out.push(`<rect x="${X(x)}" y="${Y(y)}" width="${8 * k}" height="${5 * k}" fill="${C.hilite}" stroke="${C.ink}" stroke-width="1.6"/>
       <line x1="${X(x)}" y1="${Y(y)}" x2="${X(x + 8)}" y2="${Y(y + 5)}" stroke="${C.ink}" stroke-width="0.8"/>
       <line x1="${X(x + 8)}" y1="${Y(y)}" x2="${X(x)}" y2="${Y(y + 5)}" stroke="${C.ink}" stroke-width="0.8"/>`));
@@ -354,22 +365,20 @@ function roofing(M) {
   /* pipe penetrations */
   [[12, 40], [45, 30], [70, 44], [92, 20], [140, 12], [150, 84], [118, 88], [64, 92], [22, 88]].forEach(([x, y]) =>
     out.push(`<circle cx="${X(x)}" cy="${Y(y)}" r="3.6" fill="${C.sheet}" stroke="${C.ink}" stroke-width="1.4"/>`));
-  /* drains */
-  drains.forEach(([x, y]) => out.push(`<circle cx="${X(x)}" cy="${Y(y)}" r="8" fill="${C.drywall}" stroke="${C.ink}" stroke-width="1.2"/><circle cx="${X(x)}" cy="${Y(y)}" r="2.6" fill="${C.sheet}"/>`));
-  /* overflow scuppers on north and south parapets */
-  [[40, 0], [120, 0], [40, 100], [120, 100]].forEach(([x, y]) =>
-    out.push(`<rect x="${X(x) - 7}" y="${Y(y) - 6}" width="14" height="12" fill="${C.drywall}" stroke="${C.ink}" stroke-width="1"/>`));
+  /* primary drains RD-1 and an overflow drain OD-1 beside each */
+  drains.forEach(([x, y]) => out.push(`<circle cx="${X(x)}" cy="${Y(y)}" r="8" fill="${C.drywall}" stroke="${C.ink}" stroke-width="1.2"/><circle cx="${X(x)}" cy="${Y(y)}" r="2.6" fill="${C.sheet}"/>
+    <circle cx="${X(x + 4.2)}" cy="${Y(y)}" r="5.5" fill="${C.sheet}" stroke="${C.drywall}" stroke-width="2.2"/>`));
   /* parapet */
   out.push(`<rect x="${X(0)}" y="${Y(0)}" width="${160 * k}" height="${100 * k}" fill="none" stroke="${C.roofing}" stroke-width="7"/>`);
   /* tags */
-  out.push(tag(X(26.7), Y(14), "R1", C.concrete));
-  out.push(tag(X(80) + 30, Y(25) + 22, "RD-1", C.drywall));
-  out.push(tag(X(37), Y(60) - 10, "CURB", C.ink));
+  out.push(tag(X(12), Y(14), "R1", C.concrete));
+  out.push(tag(X(80), Y(25) + 24, "RD-1 + OD-1", C.drywall));
+  out.push(tag(X(26), Y(47.5) - 13, "CURB", C.ink));
   out.push(tag(X(101.5), Y(79), "RH-1", C.ink));
   out.push(tag(X(80), Y(-4.6), "PARAPET · BOTH FACES", C.roofing));
-  out.push(tag(X(40), Y(104.6), "OVERFLOW SCUPPER", C.drywall));
+  out.push(tag(X(92), Y(41), "CRICKET", C.metals));
   /* dimensions */
-  out.push(`<text x="${X(80)}" y="${Y(100) + 46}" text-anchor="middle" font-family="${MONO}" font-size="11.5" fill="${C.inkSoft}">160'-0" × 100'-0" TO INSIDE OF PARAPET · TAPERED ¼" PER FT TO DRAINS</text>`);
+  out.push(`<text x="${X(80)}" y="${Y(100) + 46}" text-anchor="middle" font-family="${MONO}" font-size="11.5" fill="${C.inkSoft}">160'-0" × 100'-0" TO INSIDE OF PARAPET · TAPERED ¼"/FT (2%) TO DRAINS</text>`);
   /* key */
   const ky = 664;
   const key = [
@@ -377,27 +386,32 @@ function roofing(M) {
     keyRow(64, ky + 26, (x, y) => `<line x1="${x}" y1="${y}" x2="${x + 24}" y2="${y}" stroke="${C.metals}" stroke-width="1.2" stroke-dasharray="6 4"/>`, "High line between drain areas"),
     keyRow(420, ky, (x, y) => `<line x1="${x}" y1="${y}" x2="${x + 22}" y2="${y}" stroke="${C.inkSoft}" stroke-width="1.1" marker-end="url(#arr)"/>`, "Slope direction"),
     keyRow(420, ky + 26, (x, y) => `<circle cx="${x + 12}" cy="${y}" r="3.6" fill="${C.sheet}" stroke="${C.ink}" stroke-width="1.4"/>`, "Pipe penetration"),
+    keyRow(64, ky + 52, (x, y) => `<rect x="${x}" y="${y - 7}" width="24" height="14" fill="url(#hCrk)" stroke="${C.metals}" stroke-width="1"/>`, "Cricket — sheds water around the penthouse"),
+    keyRow(420, ky + 52, (x, y) => `<circle cx="${x + 12}" cy="${y}" r="5.5" fill="${C.sheet}" stroke="${C.drywall}" stroke-width="2.2"/>`, "Overflow drain OD-1 beside each RD-1"),
   ].join("");
   const panel = qtyPanel({
     title: "QUANTITIES · THIS SHEET",
     cols: ["QTY"],
+    rh: 44,
     rows: [
       { sw: C.concrete, o: 0.3, k: "R1 main roof", d: "2-ply SBS · tapered polyiso", v: "14,680", u: "SF" },
       { sw: C.acoustic, o: 0.4, k: "R2 penthouse roof", d: "2-ply SBS · sloped insul.", v: "1,200", u: "SF" },
-      { sw: C.roofing, line: true, k: "Parapet flashing", d: "Both faces + metal cap", v: "520", u: "LF" },
-      { sw: C.drywall, line: true, k: "Penthouse base flashing", d: "R1 up the R2 walls", v: "140", u: "LF" },
-      { sw: C.hilite, k: "RTU curbs 8'×5'", d: "78 LF of curb flashing", v: "3", u: "EA" },
-      { sw: C.drywall, dot: true, k: "Roof drains RD-1", d: "Plus 4 overflow scuppers", v: "6", u: "EA" },
+      { sw: C.roofing, line: true, k: "Parapet membrane", d: "Both faces · 3'-0\" developed", v: "1,560", u: "SF" },
+      { sw: C.roofing, line: true, dash: "3 2", k: "Metal parapet cap", d: "On parapet centreline", v: "524", u: "LF" },
+      { sw: C.drywall, line: true, k: "Penthouse base flashing", d: "R1 base flashing at R2", v: "140", u: "LF" },
+      { sw: C.metals, o: 0.35, k: "Crickets", d: "Penthouse, west and east", v: "2", u: "EA" },
+      { sw: C.hilite, k: "RTU curbs 8'×5'", d: "On high lines · 78 LF flashing", v: "3", u: "EA" },
+      { sw: C.drywall, dot: true, k: "Roof drains", d: "6 RD-1 + 6 OD-1 overflow", v: "12", u: "EA" },
       { sw: C.sheet, dot: true, k: "Pipe penetrations", d: "Boots / sealant pockets", v: "9", u: "EA" },
       { sw: C.sheet, k: "Roof hatch RH-1", d: "3'×3' · curb flashing", v: "1", u: "EA" },
     ],
     notes: [
       "R1 = 16,000 SF less penthouse (1,200) and",
       "curbs (120). Openings over 10 SF deducted.",
-      "Parapet measured on both faces, cap separate.",
+      "Parapet: 520 LF inside perimeter × 3'-0\".",
     ],
   });
-  return svgDoc(s.W, s.H, `<defs>${gridDef("g32", 32, C.lineSoft)}
+  return svgDoc(s.W, s.H, `<defs>${gridDef("g32", 32, C.lineSoft)}${hatchDef("hCrk", C.metals, 5, 1)}
     <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="${C.inkSoft}"/></marker></defs>
   ${s.head}
   ${out.join("\n  ")}
@@ -411,7 +425,7 @@ function roofing(M) {
    80 ft wide; x east from the west end, z up from L1.
    ===================================================================== */
 function glazing(M) {
-  const s = sheet(M, { trade: "GLAZING & CURTAIN WALL TAKEOFF", colour: C.glazing, drawing: "North elevation — Div 08", sheet: "A-401" });
+  const s = sheet(M, { trade: "GLAZING & CURTAIN WALL TAKEOFF", colour: C.glazing, drawing: "North elevation — Div 08", sheet: "A-201" });
   const k = 7.9, X0 = 148, Z0 = 604;
   const X = (f) => X0 + f * k, Z = (f) => Z0 - f * k;
   const out = [];
@@ -430,7 +444,7 @@ function glazing(M) {
   out.push(`<rect x="${X(15)}" y="${Z(8)}" width="${6 * k}" height="${8 * k}" fill="${C.hilite}" fill-opacity="0.55"/>`);
   [0, 5, 10, 15, 21, 25, 30, 35, 40].forEach((x) => out.push(`<line x1="${X(x)}" y1="${Z(0)}" x2="${X(x)}" y2="${Z(12)}" stroke="${C.ink}" stroke-width="${x % 40 ? 2 : 3}"/>`));
   out.push(`<line x1="${X(18)}" y1="${Z(0)}" x2="${X(18)}" y2="${Z(8)}" stroke="${C.ink}" stroke-width="1.6"/>`);
-  out.push(`<line x1="${X(15)}" y1="${Z(8)}" x2="${X(21)}" y2="${Z(8)}" stroke="${C.ink}" stroke-width="2"/>`);
+  out.push(`<line x1="${X(0)}" y1="${Z(8)}" x2="${X(40)}" y2="${Z(8)}" stroke="${C.ink}" stroke-width="2"/>`);
   out.push(`<line x1="${X(0)}" y1="${Z(12)}" x2="${X(40)}" y2="${Z(12)}" stroke="${C.ink}" stroke-width="3"/>`);
   [16.9, 19.1].forEach((x) => out.push(`<line x1="${X(x)}" y1="${Z(3.4)}" x2="${X(x)}" y2="${Z(4.6)}" stroke="${C.ink}" stroke-width="2.4"/>`));
   /* W1 punched windows 5 × 6 ft, three per level */
@@ -439,7 +453,10 @@ function glazing(M) {
   wins.forEach(([x, a, b]) => out.push(`<rect x="${X(x)}" y="${Z(b)}" width="${5 * k}" height="${(b - a) * k}" fill="${C.drywall}" fill-opacity="0.4" stroke="${C.ink}" stroke-width="2.2"/>
     <line x1="${X(x + 2.5)}" y1="${Z(b)}" x2="${X(x + 2.5)}" y2="${Z(a)}" stroke="${C.ink}" stroke-width="1.4"/>`));
   /* perimeter sealant highlight */
-  out.push(`<rect x="${X(0) - 3}" y="${Z(41) - 3}" width="${40 * k + 6}" height="${41 * k + 3}" fill="none" stroke="${C.painting}" stroke-width="2" stroke-dasharray="5 3"/>`);
+  const sl = `fill="none" stroke="${C.painting}" stroke-width="2" stroke-dasharray="5 3"`;
+  out.push(`<path d="M ${X(0) - 3} ${Z(0) - 3} L ${X(0) - 3} ${Z(41) - 3} L ${X(40) + 3} ${Z(41) - 3} L ${X(40) + 3} ${Z(0) - 3}" ${sl}/>`);
+  out.push(`<line x1="${X(0)}" y1="${Z(12) + 4}" x2="${X(40)}" y2="${Z(12) + 4}" ${sl}/>`);
+  out.push(`<line x1="${X(0)}" y1="${Z(0) - 4}" x2="${X(15)}" y2="${Z(0) - 4}" ${sl}/><line x1="${X(21)}" y1="${Z(0) - 4}" x2="${X(40)}" y2="${Z(0) - 4}" ${sl}/>`);
   wins.forEach(([x, a, b]) => out.push(`<rect x="${X(x) - 3}" y="${Z(b) - 3}" width="${5 * k + 6}" height="${(b - a) * k + 6}" fill="none" stroke="${C.painting}" stroke-width="1.6" stroke-dasharray="5 3"/>`));
   /* grade and levels */
   out.push(`<line x1="${X(-2)}" y1="${Z(0)}" x2="${X(82)}" y2="${Z(0)}" stroke="${C.ink}" stroke-width="3"/>`);
@@ -467,19 +484,19 @@ function glazing(M) {
     title: "QUANTITIES · THIS ELEVATION",
     cols: ["QTY"],
     rows: [
-      { sw: C.glazing, o: 0.45, k: "CW-1 vision", d: "Insulating glass units", v: "720", u: "SF" },
-      { sw: C.ink, o: 0.62, k: "CW-1 spandrel", d: "Insulated back-pan", v: "440", u: "SF" },
+      { sw: C.glazing, o: 0.45, k: "CW-1 vision", d: "16 lites · insulating glass", v: "720", u: "SF" },
+      { sw: C.ink, o: 0.62, k: "CW-1 spandrel", d: "24 panels · insul. back-pan", v: "440", u: "SF" },
       { sw: C.ink, line: true, k: "CW-1 framing", d: "Verticals 261 + horiz. 240", v: "501", u: "LF" },
-      { sw: C.glazing, o: 0.25, k: "SF-1 storefront", d: "Net of door opening", v: "432", u: "SF" },
+      { sw: C.glazing, o: 0.25, k: "SF-1 storefront", d: "Net of door · 222 LF frame", v: "432", u: "SF" },
       { sw: C.hilite, o: 0.7, k: "D1 entrance pair", d: "6'×8' · transom over", v: "1", u: "PR" },
       { sw: C.drywall, o: 0.45, k: "W1 punched windows", d: "5'×6' · 270 SF total", v: "9", u: "EA" },
-      { sw: C.painting, line: true, dash: "5 3", k: "Perimeter sealant", d: "CW 138 · SF 64 · W1 198", v: "400", u: "LF" },
+      { sw: C.painting, line: true, dash: "5 3", k: "Perimeter sealant", d: "CW 138 · SF 58 · W1 198", v: "394", u: "LF" },
     ],
     notes: [
       "CW-1: 40' × 29' = 1,160 SF = 720 vision",
-      "+ 440 spandrel. Glass and framing kept",
-      "apart, so the glass quote and the metal",
-      "quote run on the same numbers.",
+      "+ 440 spandrel. Glass and framing are",
+      "measured separately. Sealant sill is",
+      "deducted at the door pair.",
     ],
   });
   return svgDoc(s.W, s.H, `<defs>${gridDef("g32", 32, C.lineSoft)}${hatchDef("hMas", "#B9C1C4", 8, 1.2)}</defs>
@@ -513,11 +530,11 @@ function metals(M) {
   out.push(`<rect x="${X(19) - 1}" y="${Y(2)}" width="${wall * k + 2}" height="${5 * k}" fill="${C.sheet}" stroke="${C.inkSoft}" stroke-width="1"/>`);
   for (let i = 0; i < 6; i++) out.push(`<line x1="${X(19) + 2}" y1="${Y(2.4 + i * 0.8)}" x2="${X(19 + wall) - 2}" y2="${Y(2.8 + i * 0.8)}" stroke="${C.inkSoft}" stroke-width="1"/>`);
   out.push(`<line x1="${X(19 + wall / 2)}" y1="${Y(2 - 0.67)}" x2="${X(19 + wall / 2)}" y2="${Y(7 + 0.67)}" stroke="${C.roofing}" stroke-width="6"/>`);
-  /* flights: 11 treads at 11" = 10'-1", x 4 → 14.08. South flight UP, north flight DN (both east from the floor landing) */
-  const run = 11 * 11 / 12, xa = 4, xb = 4 + run;
+  /* flights: 11 treads at 11¼" (286 mm ≥ 280 mm min) = 10'-3¾", x 4 → 14.31. South flight UP, north flight DN */
+  const TR = 11.25 / 12, run = 11 * TR, xa = 4, xb = 4 + run;
   [[5, 9, "UP"], [0, 4, "DN"]].forEach(([ya, yb, word]) => {
     out.push(`<rect x="${X(xa)}" y="${Y(ya)}" width="${run * k}" height="${(yb - ya) * k}" fill="${C.metals}" fill-opacity="0.16"/>`);
-    for (let i = 0; i <= 11; i++) out.push(`<line x1="${X(xa + i * 11 / 12)}" y1="${Y(ya)}" x2="${X(xa + i * 11 / 12)}" y2="${Y(yb)}" stroke="${C.ink}" stroke-width="1.2"/>`);
+    for (let i = 0; i <= 11; i++) out.push(`<line x1="${X(xa + i * TR)}" y1="${Y(ya)}" x2="${X(xa + i * TR)}" y2="${Y(yb)}" stroke="${C.ink}" stroke-width="1.2"/>`);
     out.push(`<line x1="${X(xa)}" y1="${Y(ya) + 2}" x2="${X(xb)}" y2="${Y(ya) + 2}" stroke="${C.metals}" stroke-width="4"/>`);
     out.push(`<line x1="${X(xa)}" y1="${Y(yb) - 2}" x2="${X(xb)}" y2="${Y(yb) - 2}" stroke="${C.metals}" stroke-width="4"/>`);
     const mid = (ya + yb) / 2;
@@ -538,54 +555,59 @@ function metals(M) {
   out.push(`<line x1="${X(xa - 1)}" y1="${Y(0) + 7}" x2="${X(xb + 1)}" y2="${Y(0) + 7}" stroke="${C.drywall}" stroke-width="5" stroke-linecap="round"/>`);
   /* guard GR-1 around the well */
   out.push(`<path d="M ${X(xa)} ${Y(4) + 4} L ${X(xb + 0.45)} ${Y(4) + 4} L ${X(xb + 0.45)} ${Y(5) - 4} L ${X(xa)} ${Y(5) - 4}" fill="none" stroke="${C.acoustic}" stroke-width="5" stroke-linejoin="round"/>`);
-  /* embed plates EP-1 at stringer ends */
-  [[xa, 0], [xa, 4], [xa, 5], [xa, 9], [xb, 0], [xb, 4], [xb, 5], [xb, 9]].forEach(([x, y]) => {
+  /* embed plates EP-1 where stringers bear on the floor slab edge (landing-frame end is steel to steel) */
+  [[xa, 0], [xa, 4], [xa, 5], [xa, 9]].forEach(([x, y]) => {
     const yy = y === 0 || y === 5 ? Y(y) + 2 : Y(y) - 2;
     out.push(`<rect x="${X(x) - 5}" y="${yy - 5}" width="10" height="10" fill="${C.painting}" stroke="${C.ink}" stroke-width="1"/>`);
   });
   /* tags */
-  out.push(tag(X(-wall) - 26, Y(4.5), "L1", C.roofing));
-  out.push(tag(X(19 + wall) + 28, Y(4.5), "L2", C.roofing));
+  out.push(tag(X(-wall) - 32, Y(4.5), "LT-1", C.roofing));
+  out.push(tag(X(19 + wall) + 34, Y(4.5), "LT-2", C.roofing));
   out.push(tag(X(9), Y(9) + 32, "HR-1", C.drywall));
   out.push(tag(X(12.4), Y(4.5), "GR-1", C.acoustic));
   out.push(tag(X(xa) - 30, Y(9) + 32, "EP-1", C.painting));
   out.push(tag(X(7.6), Y(2.0) - 2, "ST-1", C.metals));
-  out.push(`<text x="${X(9.5)}" y="${Y(-wall) - 22}" text-anchor="middle" font-family="${MONO}" font-size="11.5" fill="${C.inkSoft}">19'-0" × 9'-0" INSIDE · FLOOR-TO-FLOOR 14'-0" · 24 RISERS AT 7"</text>`);
+  out.push(`<text x="${X(9.5)}" y="${Y(-wall) - 22}" text-anchor="middle" font-family="${MONO}" font-size="11.5" fill="${C.inkSoft}">19'-0" × 9'-0" INSIDE · FLOOR-TO-FLOOR 14'-0" · 24 RISERS AT 7" · TREADS 11¼"</text>`);
 
-  /* flight in section: 12 risers at 7", 11 treads at 11"; 1.6 px per inch */
-  const p = 1.6, sx = 96, sy = 748, R = 7 * p, T = 11 * p;
+  /* flight in section: 12 risers at 7", 11 treads at 11¼"; 1.5 px per inch */
+  const p = 1.5, sx = 104, sy = 748, R = 7 * p, T = 11.25 * p;
   let d = `M ${sx} ${sy}`;
   for (let i = 1; i <= 12; i++) { d += ` L ${sx + (i - 1) * T} ${sy - i * R}`; if (i < 12) d += ` L ${sx + i * T} ${sy - i * R}`; }
   const n0 = [sx, sy - R], n1 = [sx + 11 * T, sy - 12 * R];
   const m = (n1[1] - n0[1]) / (n1[0] - n0[0]);
   const yAt = (x, off) => n0[1] + (x - n0[0]) * m + off;
-    out.push(`<line x1="${sx - 6}" y1="${yAt(sx - 6, 24)}" x2="${n1[0] + 10}" y2="${yAt(n1[0] + 10, 24)}" stroke="${C.metals}" stroke-width="7"/>`);
+  const H = -34 * p, ext = 12 * p;
+  /* stringer under the nosings */
+  out.push(`<line x1="${sx - 4}" y1="${yAt(sx - 4, 22)}" x2="${n1[0] + 8}" y2="${yAt(n1[0] + 8, 22)}" stroke="${C.metals}" stroke-width="7"/>`);
   out.push(`<path d="${d}" fill="none" stroke="${C.ink}" stroke-width="2"/>`);
-  out.push(`<line x1="${sx - 19}" y1="${yAt(sx - 19, -34 * p)}" x2="${n1[0] + 19}" y2="${yAt(n1[0] + 19, -34 * p)}" stroke="${C.drywall}" stroke-width="4" stroke-linecap="round"/>`);
-  [0, 5.5, 11].forEach((t) => { const x = sx + t * T; out.push(`<line x1="${x}" y1="${yAt(x, 0)}" x2="${x}" y2="${yAt(x, -34 * p)}" stroke="${C.drywall}" stroke-width="1.4"/>`); });
-  const tx = n1[0] + 44;
+  /* HR-1: sloped run 34" above the nosings, 12" horizontal extensions top and bottom, on wall brackets */
+  const r0 = [n0[0], yAt(n0[0], H)], r1 = [n1[0], yAt(n1[0], H)];
+  out.push(`<path d="M ${r0[0] - ext} ${r0[1]} L ${r0[0]} ${r0[1]} L ${r1[0]} ${r1[1]} L ${r1[0] + ext} ${r1[1]}" fill="none" stroke="${C.drywall}" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>`);
+  [1.5, 5.5, 9.5].forEach((t) => { const x = sx + t * T, y = yAt(x, H); out.push(`<path d="M ${x} ${y + 3} l 0 9 l 7 0" fill="none" stroke="${C.inkSoft}" stroke-width="1.6"/>`); });
+  const tx = n1[0] + ext + 40;
   out.push(`<text x="${tx}" y="${sy - 124}" font-family="${MONO}" font-size="11" letter-spacing="0.12em" fill="${C.inkSoft}">ST-1 IN SECTION · 12 RISERS · 11 TREADS</text>`);
-  out.push(`<text x="${tx}" y="${sy - 96}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">Channel stringers · pan treads for concrete fill</text>`);
-  out.push(`<text x="${tx}" y="${sy - 76}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">HR-1 at 34"–38" above the nosings, 12" extensions</text>`);
-  out.push(`<text x="${tx}" y="${sy - 56}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">Enclosure: 190 CMU by others — lintels by mark</text>`);
+  out.push(`<text x="${tx}" y="${sy - 96}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">MC310×46 stringers · pan treads for concrete fill</text>`);
+  out.push(`<text x="${tx}" y="${sy - 76}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">HR-1 on wall brackets, 34"–38" above the nosings</text>`);
+  out.push(`<text x="${tx}" y="${sy - 56}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">12" horizontal extensions at top and bottom</text>`);
+  out.push(`<text x="${tx}" y="${sy - 36}" font-family="${SANS}" font-size="12.5" fill="${C.inkSoft}">190 CMU by others · lintels in pairs, by mark</text>`);
 
   const panel = qtyPanel({
     title: "QUANTITIES · L1 TO L4",
     cols: ["QTY"],
     rows: [
-      { sw: C.metals, o: 0.5, k: "ST-1 steel pan flights", d: "11 treads · 12 risers each", v: "6", u: "EA" },
-      { sw: C.concrete, o: 0.35, k: "LF-1 landing frames", d: "Intermediate · pan for fill", v: "3", u: "EA" },
-      { sw: C.drywall, line: true, k: "HR-1 wall handrail", d: "Detail 5/A-501 · 12\" ext.", v: "72", u: "LF" },
-      { sw: C.acoustic, line: true, k: "GR-1 guard + handrail", d: "Detail 6/A-501 · at well", v: "66", u: "LF" },
-      { sw: C.roofing, line: true, k: "L1 lintels · doors", d: "L102×102×9.5 · 18.7 LF", v: "4", u: "EA" },
-      { sw: C.roofing, line: true, k: "L2 lintels · louvres", d: "L127×89×9.5 · 19.0 LF", v: "3", u: "EA" },
-      { sw: C.painting, k: "EP-1 embed plates", d: "Stringer bearing at slabs", v: "24", u: "EA" },
+      { sw: C.metals, o: 0.5, k: "ST-1 steel pan flights", d: "11 treads · 12 risers · primed", v: "6", u: "EA" },
+      { sw: C.concrete, o: 0.35, k: "LF-1 landing frames", d: "Intermediate · pan · primed", v: "3", u: "EA" },
+      { sw: C.drywall, line: true, k: "HR-1 wall handrail", d: "Det. 5/A-501 · on slope + ext.", v: "85", u: "LF" },
+      { sw: C.acoustic, line: true, k: "GR-1 guard + handrail", d: "Det. 6/A-501 · well + turn", v: "79", u: "LF" },
+      { sw: C.roofing, line: true, k: "LT-1 lintels · doors", d: "2-L102×102×9.5 · 37.3 LF", v: "4", u: "EA" },
+      { sw: C.roofing, line: true, k: "LT-2 lintels · louvres", d: "2-L127×89×9.5 · 38.0 LF", v: "3", u: "EA" },
+      { sw: C.painting, k: "EP-1 embed plates", d: "Stringers at slab edges · HDG", v: "12", u: "EA" },
     ],
     notes: [
-      "3 storeys × 2 flights. Rails by detail number",
-      "in lineal feet; lintels by mark, each with",
-      "8\" bearing per end. A fabrication-ready list,",
-      "not a lump sum.",
+      "3 storeys × 2 flights. Rails measured on the",
+      "slope by detail number; lintels by mark with",
+      "8\" bearing each end, two angles per opening.",
+      "A by-mark list, ready to price.",
     ],
   });
   return svgDoc(s.W, s.H, `<defs>${gridDef("g32", 32, C.lineSoft)}
