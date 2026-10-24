@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img">
+<defs>
+  <pattern id="g32" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#E6EAE3" stroke-width="1"/>
+  </pattern>
+  <pattern id="hShore" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="7" stroke="#B4342B" stroke-width="1.3"/>
+  </pattern>
+  <pattern id="hPit" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="5" stroke="#16232B" stroke-width="1"/>
+  </pattern></defs>
+  <rect width="1200" height="900" fill="#FAFBF9"/>
+  <rect width="1200" height="900" fill="url(#g32)"/>
+  <rect x="24" y="24" width="1152" height="852" fill="none" stroke="#16232B" stroke-width="3"/>
+  <line x1="24" y1="96" x2="1176" y2="96" stroke="#16232B" stroke-width="1.5"/>
+  <g>
+    <text x="52" y="74" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="34" letter-spacing="0.01em" fill="#16232B">SHARP</text>
+    <rect x="139.56691802978517" y="43.059999999999995" width="52.39396057128907" height="34.68000000000001" fill="#FFD84D"/>
+    <text x="144.32691802978516" y="74" font-family="Big Shoulders, 'Arial Narrow', sans-serif" font-weight="800" font-size="34" letter-spacing="0.01em" fill="#16232B">BID</text>
+  </g>
+  <line x1="208.96087860107423" y1="44" x2="208.96087860107423" y2="78" stroke="#D7DDD5" stroke-width="1.5"/>
+  <rect x="225.96087860107423" y="53" width="14" height="14" fill="#74838F"/>
+  <text x="249.96087860107423" y="66" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="16" font-weight="500" letter-spacing="0.12em" fill="#16232B">CONCRETE &amp; FORMWORK TAKEOFF</text>
+  <text x="1152" y="58" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="15" letter-spacing="0.16em" fill="#46575F">SHEET S-101</text>
+  <rect x="907.25" y="67" width="244.75" height="21" fill="#FFD84D"/>
+  <text x="1029.625" y="82" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12.5" font-weight="500" letter-spacing="0.08em" fill="#16232B">SAMPLE · FICTITIOUS PROJECT</text>
+  <rect x="112" y="214" width="646.8" height="352" fill="#2FA55F" fill-opacity="0.16"/>
+  <line x1="250.6" y1="214" x2="250.6" y2="566" stroke="#B4342B" stroke-width="1.8" stroke-dasharray="9 6"/>
+  <line x1="343" y1="214" x2="343" y2="566" stroke="#B4342B" stroke-width="1.8" stroke-dasharray="9 6"/>
+  <line x1="527.8" y1="214" x2="527.8" y2="566" stroke="#B4342B" stroke-width="1.8" stroke-dasharray="9 6"/>
+  <line x1="620.2" y1="214" x2="620.2" y2="566" stroke="#B4342B" stroke-width="1.8" stroke-dasharray="9 6"/>
+  <rect x="153.60000000000002" y="230.89999999999998" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="181.3" y="244.39999999999998" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">POUR 1</text>
+  <rect x="269.1" y="230.89999999999998" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="296.8" y="244.39999999999998" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">POUR 2</text>
+  <rect x="546.3" y="230.89999999999998" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="574" y="244.39999999999998" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">POUR 4</text>
+  <rect x="661.8" y="230.89999999999998" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="689.5" y="244.39999999999998" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">POUR 5</text>
+  <rect x="407.7" y="512.5" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="435.4" y="526" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">POUR 3</text>
+  <line x1="112" y1="196.39999999999998" x2="112" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="204.4" y1="196.39999999999998" x2="204.4" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="296.8" y1="196.39999999999998" x2="296.8" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="389.2" y1="196.39999999999998" x2="389.2" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="481.6" y1="196.39999999999998" x2="481.6" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="574" y1="196.39999999999998" x2="574" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="666.4" y1="196.39999999999998" x2="666.4" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="758.8" y1="196.39999999999998" x2="758.8" y2="594.6" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="76.8" y1="566" x2="774.2" y2="566" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="76.8" y1="478" x2="774.2" y2="478" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="76.8" y1="390" x2="774.2" y2="390" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="76.8" y1="302" x2="774.2" y2="302" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <line x1="76.8" y1="214" x2="774.2" y2="214" stroke="#46575F" stroke-width="0.8" stroke-dasharray="14 4 2 4" opacity="0.7"/>
+  <rect x="98.25" y="207.39999999999998" width="12.100000000000001" height="365.20000000000005" fill="url(#hShore)" stroke="#B4342B" stroke-width="1"/>
+  <text transform="translate(88.9 390) rotate(-90)" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" letter-spacing="0.1em" fill="#B4342B">SHORING BY OTHERS · GRID 1 WALL FORMED ONE SIDE</text>
+  <rect x="126.85" y="560.5" width="637.4499999999999" height="11" fill="#E0701F" fill-opacity="0.75"/>
+  <rect x="126.85" y="208.5" width="637.4499999999999" height="11" fill="#E0701F" fill-opacity="0.75"/>
+  <rect x="753.3" y="219.5" width="11" height="341" fill="#E0701F" fill-opacity="0.75"/>
+  <rect x="110.35" y="208.5" width="16.5" height="363" fill="#B4342B" fill-opacity="0.75"/>
+  <rect x="191.2" y="555" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="191.2" y="203" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="283.6" y="555" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="283.6" y="203" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="376" y="555" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="376" y="203" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="468.4" y="555" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="468.4" y="203" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="560.8" y="555" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="560.8" y="203" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="653.1999999999999" y="555" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="653.1999999999999" y="203" width="26.4" height="22" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="747.8" y="464.8" width="22" height="26.4" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="747.8" y="376.8" width="22" height="26.4" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="747.8" y="288.8" width="22" height="26.4" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="110.35" y="464.8" width="22" height="26.4" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="110.35" y="376.8" width="22" height="26.4" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="110.35" y="288.8" width="22" height="26.4" fill="#6E5BD0" fill-opacity="0.55" stroke="#6E5BD0" stroke-width="1.2"/>
+  <rect x="187.9" y="461.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="200.9" y="474.5" width="7" height="7" fill="#16232B"/>
+  <rect x="187.9" y="373.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="200.9" y="386.5" width="7" height="7" fill="#16232B"/>
+  <rect x="187.9" y="285.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="200.9" y="298.5" width="7" height="7" fill="#16232B"/>
+  <rect x="280.3" y="461.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="293.3" y="474.5" width="7" height="7" fill="#16232B"/>
+  <rect x="280.3" y="373.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="293.3" y="386.5" width="7" height="7" fill="#16232B"/>
+  <rect x="280.3" y="285.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="293.3" y="298.5" width="7" height="7" fill="#16232B"/>
+  <rect x="372.7" y="461.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="385.7" y="474.5" width="7" height="7" fill="#16232B"/>
+  <rect x="465.1" y="461.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="478.1" y="474.5" width="7" height="7" fill="#16232B"/>
+  <rect x="557.5" y="461.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="570.5" y="474.5" width="7" height="7" fill="#16232B"/>
+  <rect x="557.5" y="373.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="570.5" y="386.5" width="7" height="7" fill="#16232B"/>
+  <rect x="557.5" y="285.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="570.5" y="298.5" width="7" height="7" fill="#16232B"/>
+  <rect x="649.9" y="461.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="662.9" y="474.5" width="7" height="7" fill="#16232B"/>
+  <rect x="649.9" y="373.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="662.9" y="386.5" width="7" height="7" fill="#16232B"/>
+  <rect x="649.9" y="285.5" width="33" height="33" fill="#3E8DE3" fill-opacity="0.5" stroke="#3E8DE3" stroke-width="1.4"/>
+  <rect x="662.9" y="298.5" width="7" height="7" fill="#16232B"/>
+  <rect x="378.2" y="291" width="114.4" height="110" fill="#21A8BC" fill-opacity="0.45" stroke="#21A8BC" stroke-width="1.6"/>
+  <rect x="389.2" y="302" width="92.4" height="88" fill="none" stroke="#16232B" stroke-width="4"/>
+  <rect x="390.85" y="359.75" width="29.700000000000003" height="28.6" fill="url(#hPit)" stroke="#16232B" stroke-width="1.2"/>
+  <rect x="433.2" y="302" width="3.3" height="88" fill="#16232B"/>
+  <rect x="381.4" y="328.4" width="108" height="20" fill="#FAFBF9" fill-opacity="0.9"/>
+  <text x="435.4" y="342.4" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">CORE · MF1</text>
+  <rect x="218.7" y="535.2" width="17.6" height="17.6" fill="url(#hPit)" stroke="#16232B" stroke-width="1.2"/>
+  <rect x="110.35" y="212.35000000000002" width="650.1" height="355.29999999999995" fill="none" stroke="#16232B" stroke-width="4.5"/>
+  <rect x="676.85" y="210" width="71.5" height="8" fill="#FAFBF9"/>
+  <rect x="676.85" y="170" width="71.5" height="40" fill="#FFD84D" fill-opacity="0.45" stroke="#7A6100" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="712.6" y="188" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="10.5" fill="#16232B">RAMP</text>
+  <text x="712.6" y="201" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="10.5" fill="#16232B">S-301</text>
+  <circle cx="112" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="112" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">1</text>
+  <circle cx="204.4" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="204.4" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">2</text>
+  <circle cx="296.8" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="296.8" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">3</text>
+  <circle cx="389.2" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="389.2" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">4</text>
+  <circle cx="481.6" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="481.6" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">5</text>
+  <circle cx="574" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="574" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">6</text>
+  <circle cx="666.4" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="666.4" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">7</text>
+  <circle cx="758.8" cy="612.2" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="758.8" y="616.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">8</text>
+  <circle cx="59.2" cy="566" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="59.2" y="570.5" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">A</text>
+  <circle cx="59.2" cy="478" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="59.2" y="482.5" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">B</text>
+  <circle cx="59.2" cy="390" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="59.2" y="394.5" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">C</text>
+  <circle cx="59.2" cy="302" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="59.2" y="306.5" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">D</text>
+  <circle cx="59.2" cy="214" r="12" fill="#FAFBF9" stroke="#16232B" stroke-width="1.4"/>
+  <text x="59.2" y="218.5" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#16232B">E</text>
+  <line x1="110.35" y1="143.60000000000002" x2="760.45" y2="143.60000000000002" stroke="#46575F" stroke-width="1"/>
+    <line x1="110.35" y1="137.60000000000002" x2="110.35" y2="149.60000000000002" stroke="#46575F" stroke-width="1"/>
+    <line x1="760.45" y1="137.60000000000002" x2="760.45" y2="149.60000000000002" stroke="#46575F" stroke-width="1"/>
+    <rect x="310" y="134.60000000000002" width="253" height="18" fill="#FAFBF9"/>
+    <text x="435.4" y="147.60000000000002" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" fill="#46575F">59.10 m TO OUTSIDE OF WALLS</text>
+  <rect x="140.85" y="535.6" width="34.7" height="19" fill="#FAFBF9" stroke="#E0701F" stroke-width="1.6"/>
+    <text x="158.2" y="549.1" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">SF1</text>
+  <rect x="140.85" y="380.5" width="34.7" height="19" fill="#FAFBF9" stroke="#B4342B" stroke-width="1.6"/>
+    <text x="158.2" y="394" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">SF2</text>
+  <rect x="252.90000000000003" y="351.9" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#3E8DE3" stroke-width="1.6"/>
+    <text x="280.6" y="365.4" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">F1 ×14</text>
+  <rect x="552.3" y="577.4" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#6E5BD0" stroke-width="1.6"/>
+    <text x="580" y="590.9" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">F2 ×18</text>
+  <rect x="711.3" y="510.29999999999995" width="55.400000000000006" height="19" fill="#FAFBF9" stroke="#16232B" stroke-width="1.6"/>
+    <text x="739" y="523.8" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">W1 300</text>
+  <rect x="681.45" y="424.5" width="62.300000000000004" height="19" fill="#FAFBF9" stroke="#2FA55F" stroke-width="1.6"/>
+    <text x="712.6" y="438" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">SOG 150</text>
+  <rect x="210.15" y="508.1" width="34.7" height="19" fill="#FAFBF9" stroke="#16232B" stroke-width="1.6"/>
+    <text x="227.5" y="521.6" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">SP1</text>
+  <rect x="388.34999999999997" y="399.2" width="34.7" height="19" fill="#FAFBF9" stroke="#16232B" stroke-width="1.6"/>
+    <text x="405.7" y="412.7" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" font-weight="500" fill="#16232B">EP1</text>
+  <line x1="64" y1="664" x2="88" y2="664" stroke="#B4342B" stroke-width="1.8" stroke-dasharray="7 4"/><text x="98" y="668" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">SOG construction joint · 5 pours</text><rect x="64" y="683" width="24" height="14" fill="url(#hShore)" stroke="#B4342B" stroke-width="1"/><text x="98" y="694" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">Cast against shoring — not formed</text><rect x="400" y="657" width="24" height="14" fill="url(#hPit)" stroke="#16232B" stroke-width="1"/><text x="434" y="668" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">Pit / sump void — deducted</text><rect x="408" y="686" width="8" height="8" fill="#16232B"/><text x="434" y="694" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">C1 column 500 × 500 on F1 pad</text><text x="64" y="726" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" letter-spacing="0.06em" fill="#46575F">METRIC · GRID 8.40 × 8.00 m · T/O FOOTINGS 96.200 · T/O SOG 96.500</text>
+  <rect x="800" y="118" width="352" height="34" fill="#16232B"/>
+    <text x="814" y="140" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="0.12em" fill="#FAFBF9">QUANTITIES</text><text x="1060" y="140" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" letter-spacing="0.06em" fill="#FFD84D">CONC m³</text><text x="1138" y="140" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11.5" letter-spacing="0.06em" fill="#FFD84D">FORMS m²</text><rect x="800" y="152" width="352" height="50" fill="#FAFBF9"/>
+      <line x1="800" y1="202" x2="1152" y2="202" stroke="#D7DDD5" stroke-width="1"/>
+      <rect x="812" y="163" width="16" height="16" fill="#E0701F" fill-opacity="0.75" stroke="#16232B" stroke-width="1"/>
+      <text x="838" y="175" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">SF1 strip footings</text>
+      <text x="838" y="192" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Grids A, E, 8 · 1000×400</text>
+      <text x="1060" y="176" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">58.8</text><text x="1138" y="176" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">117.5</text><rect x="800" y="202" width="352" height="50" fill="#F0F3EE" opacity="0.7"/>
+      <line x1="800" y1="252" x2="1152" y2="252" stroke="#D7DDD5" stroke-width="1"/>
+      <rect x="812" y="213" width="16" height="16" fill="#B4342B" fill-opacity="0.75" stroke="#16232B" stroke-width="1"/>
+      <text x="838" y="225" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">SF2 eccentric strip</text>
+      <text x="838" y="242" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Grid 1 · against shoring</text>
+      <text x="1060" y="226" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">19.8</text><text x="1138" y="226" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">13.6</text><rect x="800" y="252" width="352" height="50" fill="#FAFBF9"/>
+      <line x1="800" y1="302" x2="1152" y2="302" stroke="#D7DDD5" stroke-width="1"/>
+      <rect x="812" y="263" width="16" height="16" fill="#3E8DE3" fill-opacity="0.5" stroke="#16232B" stroke-width="1"/>
+      <text x="838" y="275" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">F1 column pads ×14</text>
+      <text x="838" y="292" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">3000×3000×750</text>
+      <text x="1060" y="276" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">94.5</text><text x="1138" y="276" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">126.0</text><rect x="800" y="302" width="352" height="50" fill="#F0F3EE" opacity="0.7"/>
+      <line x1="800" y1="352" x2="1152" y2="352" stroke="#D7DDD5" stroke-width="1"/>
+      <rect x="812" y="313" width="16" height="16" fill="#6E5BD0" fill-opacity="0.55" stroke="#16232B" stroke-width="1"/>
+      <text x="838" y="325" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">F2 pilaster pads ×18</text>
+      <text x="838" y="342" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Net of strip overlap</text>
+      <text x="1060" y="326" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">33.1</text><text x="1138" y="326" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">35.6</text><rect x="800" y="352" width="352" height="50" fill="#FAFBF9"/>
+      <line x1="800" y1="402" x2="1152" y2="402" stroke="#D7DDD5" stroke-width="1"/>
+      <rect x="812" y="363" width="16" height="16" fill="#21A8BC" fill-opacity="0.45" stroke="#16232B" stroke-width="1"/>
+      <text x="838" y="375" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">MF1 raft + pits</text>
+      <text x="838" y="392" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Core, EP1, SP1, blinding</text>
+      <text x="1060" y="376" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">105.4</text><text x="1138" y="376" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">82.0</text><rect x="800" y="402" width="352" height="50" fill="#F0F3EE" opacity="0.7"/>
+      <line x1="800" y1="452" x2="1152" y2="452" stroke="#D7DDD5" stroke-width="1"/>
+      <rect x="812" y="413" width="16" height="16" fill="#16232B"  stroke="#16232B" stroke-width="1"/>
+      <text x="838" y="425" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">Walls and columns</text>
+      <text x="838" y="442" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">W1, CW1, PL1, C1</text>
+      <text x="1060" y="426" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">259.7</text><text x="1138" y="426" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">1,595.0</text><rect x="800" y="452" width="352" height="50" fill="#FAFBF9"/>
+      <line x1="800" y1="502" x2="1152" y2="502" stroke="#D7DDD5" stroke-width="1"/>
+      <rect x="812" y="463" width="16" height="16" fill="#2FA55F" fill-opacity="0.3" stroke="#16232B" stroke-width="1"/>
+      <text x="838" y="475" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#16232B">SOG 150 · 5 pours</text>
+      <text x="838" y="492" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">1,741 m² slab · bulkheads</text>
+      <text x="1060" y="476" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">261.2</text><text x="1138" y="476" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="14.5" font-weight="500" fill="#16232B">19.0</text><rect x="800" y="502" width="352" height="50" fill="#FFD84D" fill-opacity="0.35"/>
+      <line x1="800" y1="502" x2="1152" y2="502" stroke="#16232B" stroke-width="1.5"/>
+      <text x="814" y="525" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#16232B">TOTAL · P1 FOUNDATIONS</text>
+      <text x="814" y="542" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" fill="#46575F">Ramp on its own sheet (S-301)</text>
+      <text x="1060" y="526" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="15" font-weight="500" fill="#16232B">832.4</text><text x="1138" y="526" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="15" font-weight="500" fill="#16232B">1,988.7</text><rect x="800" y="118" width="352" height="434" fill="none" stroke="#16232B" stroke-width="1.5"/><text x="800" y="578" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">No waste included — your waste % goes on top.</text><text x="800" y="596" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">Each line traces to a dimension on the workbook's</text><text x="800" y="614" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">Measurement tab. Same fictitious project as the</text><text x="800" y="632" font-family="'IBM Plex Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#46575F">free sample workbook at sharpbid.ca.</text>
+  <line x1="24" y1="772" x2="1176" y2="772" stroke="#16232B" stroke-width="1.5"/>
+  
+      <text x="42" y="800" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="0.14em" fill="#46575F">PROJECT</text>
+      <text x="42" y="834" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="17" font-weight="500" fill="#16232B">SharpBid Estimating · Sample project · Fictitious</text><line x1="584" y1="772" x2="584" y2="876" stroke="#D7DDD5" stroke-width="1"/>
+      <text x="602" y="800" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="0.14em" fill="#46575F">DRAWING</text>
+      <text x="602" y="834" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="18" font-weight="500" fill="#16232B">Foundation plan — Div 03</text><line x1="964" y1="772" x2="964" y2="876" stroke="#D7DDD5" stroke-width="1"/>
+      <text x="982" y="800" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="0.14em" fill="#46575F">SHEET</text>
+      <text x="982" y="834" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="18" font-weight="500" fill="#16232B">S-101</text>
+  <rect x="24" y="869" width="128.5" height="7" fill="#2FA55F"/><rect x="152" y="869" width="128.5" height="7" fill="#3E8DE3"/><rect x="280" y="869" width="128.5" height="7" fill="#21A8BC"/><rect x="408" y="869" width="128.5" height="7" fill="#E0701F"/><rect x="536" y="869" width="128.5" height="7" fill="#C94B9B"/><rect x="664" y="869" width="128.5" height="7" fill="#6E5BD0"/><rect x="792" y="869" width="128.5" height="7" fill="#B4342B"/><rect x="920" y="869" width="128.5" height="7" fill="#8A6A3B"/><rect x="1048" y="869" width="128.5" height="7" fill="#74838F"/>
+</svg>
