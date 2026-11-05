@@ -1392,7 +1392,7 @@ DELIVWhat you receive
 
 Everything is checkable. Every quantity traces back to an assembly, an elevation and a coloured area on the marked-up drawings — and each layer's section can go straight out to the supplier who quotes it.
 
-Download the cladding sample workbook (.xlsx) and its marked-up elevation (PDF) — a fictitious single-storey building, in the real format: cladding by elevation, material and colour, net of openings, and flashings and trims in LF.
+Download the cladding sample workbook (.xlsx) and its marked-up elevation (PDF) — a fictitious 1-storey commercial building, in the real format: cladding by elevation, material and colour, net of openings, and flashings and trims in LF.
 
 - Excel quantity workbookCSI MasterFormat or your own cost codes, layer by layer per assembly.
 
