@@ -72,6 +72,12 @@ formwork and full reinforcing, view-only workbook plus marked-up plan) is at
 https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Concrete-Foundations.xlsx
 https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Concrete-Foundations-Markup.pdf
 
+A cladding sample (a fictitious single-storey building: cladding by elevation,
+material and colour, net of openings, and flashings and trims in LF;
+view-only workbook plus marked-up elevation) is at
+https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Cladding.xlsx
+https://sharpbid.ca/downloads/SharpBid-Sample-Takeoff-Cladding-Markup.pdf
+
 Takeoffs are delivered in the units the client bids in — metric or imperial.
 
 ## Pricing (starting prices, CAD)
