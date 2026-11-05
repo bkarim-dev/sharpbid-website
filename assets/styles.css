@@ -342,9 +342,6 @@ section.alt { background: var(--paper); border-top: 1px solid var(--line); borde
 /* ---------- deliverable ---------- */
 .deliv { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 48px; align-items: start; }
 .speclist { list-style: none; display: grid; gap: 0; border: 1.5px solid var(--ink); background: var(--sheet); }
-.deliv-fig { grid-column: 1 / -1; margin: 0; }
-.deliv-fig a { display: block; border: 1.5px solid var(--ink); background: #fff; }
-.deliv-fig img { width: 100%; height: auto; }
 .speclist li {
   display: flex;
   gap: 14px;
