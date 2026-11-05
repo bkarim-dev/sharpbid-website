@@ -1,7 +1,7 @@
 # SharpBid Estimating — full page text
 
 Plain-text content of the SharpBid trade and pricing pages, for machine
-reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-10-24.
+reading. Canonical HTML lives at https://sharpbid.ca. Generated 2026-11-05.
 
 Contact: info@sharpbid.ca · (604) 245-4344 · https://sharpbid.ca
 
@@ -1242,7 +1242,7 @@ From $600Firm date with the quoteFixed quote in 4 business hoursOn time or 50% o
 
 Send drawings — quote in 4 hrs
 Takeoff pricing
-Sample takeoff (.xlsx)
+Cladding sample takeoff (.xlsx)
 
 SCOPEWhat we countEvery line traceable
 
@@ -1392,7 +1392,7 @@ DELIVWhat you receive
 
 Everything is checkable. Every quantity traces back to an assembly, an elevation and a coloured area on the marked-up drawings — and each layer's section can go straight out to the supplier who quotes it.
 
-Download the sample workbook (.xlsx) — a fictitious office TI, in the real format.
+Download the cladding sample workbook (.xlsx) and its marked-up elevation (PDF) — a fictitious 1-storey commercial building, in the real format: cladding by elevation, material and colour, net of openings, and flashings and trims in LF.
 
 - Excel quantity workbookCSI MasterFormat or your own cost codes, layer by layer per assembly.
 
